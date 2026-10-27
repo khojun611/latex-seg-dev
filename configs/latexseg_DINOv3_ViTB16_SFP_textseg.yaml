@@ -1,0 +1,51 @@
+_BASE_: Base-LaTeX-Seg-FPN.yaml
+
+MODEL:
+  # frozen DINOv3 ViT-B/16 + Hi-SAM adapters (backbone weights from MODEL.DINOV3.WEIGHTS)
+  WEIGHTS: ""
+  BACKBONE:
+    NAME: "build_dinov3_vit_sfp_backbone"
+  DINOV3:
+    ARCH: "vitb16"
+    WEIGHTS: "dinov3_vitb16_pretrain_lvd1689m-73cec8be.pth"
+    FREEZE: True
+  # DINOv3 expects RGB with ImageNet mean/std
+  PIXEL_MEAN: [123.675, 116.28, 103.53]
+  PIXEL_STD: [58.395, 57.12, 57.375]
+  FPN:
+    IN_FEATURES: ["res2", "res3", "res4", "res5"]
+  SEM_SEG_HEAD:
+    NUM_CLASSES: 2
+  IGR:
+    NUM_CLASSES: 2
+
+DATASETS:
+  TRAIN: ("Textseg_sem_train",)
+  TEST: ("Textseg_sem_test",)
+
+SOLVER:
+  OPTIMIZER: "ADAMW"
+  BASE_LR: 0.0001
+  WEIGHT_DECAY: 0.05
+  STEPS: (40000, 55000)
+  MAX_ITER: 65000
+  IMS_PER_BATCH: 8
+
+INPUT:
+  FORMAT: "RGB"
+  MIN_SIZE_TRAIN: (512, 768, 1024, 1280)
+  MIN_SIZE_TRAIN_SAMPLING: "choice"
+  MIN_SIZE_TEST: 1080
+  MAX_SIZE_TRAIN: 2048
+  MAX_SIZE_TEST: 2048
+  CROP:
+    ENABLED: True
+    TYPE: "absolute"
+    SIZE: (512, 1024)
+    SINGLE_CATEGORY_MAX_AREA: 0.75
+  COLOR_AUG_SSD: True
+
+DATALOADER:
+  NUM_WORKERS: 8
+
+OUTPUT_DIR: "./output_dinov3_vitb16_textseg"

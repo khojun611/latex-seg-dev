@@ -1,0 +1,50 @@
+_BASE_: Base-LaTeX-Seg-FPN.yaml
+
+MODEL:
+  # backbone weights come from MODEL.CONVNEXT.WEIGHTS (ImageNet-22k ConvNeXt V2-L)
+  WEIGHTS: ""
+  BACKBONE:
+    NAME: "build_convnextv2_fpn_backbone"
+  CONVNEXT:
+    WEIGHTS: "facebook/convnextv2-large-22k-384"
+    DROP_PATH_RATE: 0.3
+  # ConvNeXt expects RGB with ImageNet mean/std
+  PIXEL_MEAN: [123.675, 116.28, 103.53]
+  PIXEL_STD: [58.395, 57.12, 57.375]
+  FPN:
+    IN_FEATURES: ["res2", "res3", "res4", "res5"]
+  SEM_SEG_HEAD:
+    NUM_CLASSES: 2
+  IGR:
+    NUM_CLASSES: 2
+
+DATASETS:
+  TRAIN: ("Textseg_sem_train",)
+  TEST: ("Textseg_sem_test",)
+
+SOLVER:
+  OPTIMIZER: "ADAMW"
+  BASE_LR: 0.0001
+  WEIGHT_DECAY: 0.05
+  STEPS: (40000, 55000)
+  MAX_ITER: 65000
+  IMS_PER_BATCH: 8
+
+INPUT:
+  FORMAT: "RGB"
+  MIN_SIZE_TRAIN: (512, 768, 1024, 1280)
+  MIN_SIZE_TRAIN_SAMPLING: "choice"
+  MIN_SIZE_TEST: 1080
+  MAX_SIZE_TRAIN: 2048
+  MAX_SIZE_TEST: 2048
+  CROP:
+    ENABLED: True
+    TYPE: "absolute"
+    SIZE: (512, 1024)
+    SINGLE_CATEGORY_MAX_AREA: 0.75
+  COLOR_AUG_SSD: True
+
+DATALOADER:
+  NUM_WORKERS: 8
+
+OUTPUT_DIR: "./output_convnextv2_l_textseg"

@@ -1,0 +1,25 @@
+_BASE_: latexseg_ConvNeXtV2_L_FPN_textseg.yaml
+
+MODEL:
+  # frozen DINOv3 ConvNeXt-L + Hi-SAM adapters; text fused on the FPN levels (paper Eq. 4)
+  BACKBONE:
+    NAME: "build_dinov3_convnext_fpn_backbone"
+  DINOV3_CONVNEXT:
+    SIZE: "large"
+    WEIGHTS: "dinov3-convnext-large-pretrain-lvd1689m"  # HF model directory (gated) or official .pth
+    FREEZE: True
+    ADAPTERS: True
+    GRAD_CHECKPOINT: True  # batch 8 OOMs without it (A6000 48GB)
+  TEXT_INJECTION:
+    LOCATION: "fpn"
+
+SOLVER:
+  STEPS: (25000, 35000)
+  MAX_ITER: 40000
+  CLIP_GRADIENTS:  # global grad-norm clipping; training diverged around 8k iterations without it
+    ENABLED: True
+    CLIP_TYPE: "full_model"
+    CLIP_VALUE: 1.0
+    NORM_TYPE: 2.0
+
+OUTPUT_DIR: "./output_dinov3_convnext_l_adapter_fpntext_textseg"

@@ -1,0 +1,22 @@
+_BASE_: latexseg_DINOv3_ViTL16_HiSAMRoles_textseg.yaml
+
+MODEL:
+  # frozen DINOv3 ConvNeXt-L + Hi-SAM adapters; same Hi-SAM role design as the ViT-L run, with the backbone swapped:
+  # text injected into stage-3 (stride 16, 27 blocks) blocks 9 / 18 / 24 (location, style, semantic), and each
+  # block's output feeds its head: location -> text region, style -> [glyph SDF, word SDF], semantic -> skeleton.
+  BACKBONE:
+    NAME: "build_dinov3_convnext_fpn_backbone"
+  DINOV3_CONVNEXT:
+    SIZE: "large"
+    WEIGHTS: "dinov3-convnext-large-pretrain-lvd1689m"  # HF model directory (gated) or official .pth
+    FREEZE: True
+    ADAPTERS: True
+    GRAD_CHECKPOINT: True
+  TEXT_INJECTION:
+    LOCATION: "backbone"
+    NUM_BLOCKS: 3
+    BLOCKS: (9, 18, 24)
+  IGR:
+    ENABLED: False
+
+OUTPUT_DIR: "./output_dinov3_convnext_l_hisamroles_textseg"
