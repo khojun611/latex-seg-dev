@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center-left (below the upper text), and lower-center (below and to the right of the center-left text).
+2. The text with dark red fill, thin white inner outline and blue 3D extruded shadow, slightly grainy/paper texture, hand-lettered cursive script font, ornate flourished calligraphic style, dark red fill, white inner outline and blue 3D shadow, slightly grainy/paper texture, small hand-lettered cursive script font, compact swash style, dark red fill, thin white inner outline and blue 3D extruded shadow, slightly grainy/paper texture, hand-lettered cursive script font, elongated swash decorative style.
+3. The text reading 'Welcome', 'to', and 'kentucky'.

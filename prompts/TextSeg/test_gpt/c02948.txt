@@ -1,0 +1,3 @@
+1. The text located at the top-left, center-left, center-right, top-right, bottom-left, and bottom-right.
+2. The text with white, smooth reflective painted texture, bold sans-serif font, uppercase style, white, smooth reflective painted texture, bold sans-serif font, uppercase style, white, smooth reflective painted texture, bold sans-serif font, uppercase style, white, smooth reflective painted texture, bold sans-serif font, uppercase style, white, smooth reflective painted texture, bold sans-serif font, uppercase style, and white, smooth reflective painted texture, bold sans-serif font, uppercase style.
+3. The text reading 'W.', 'BRYN', 'MAWR', 'AV.', '8800 W.', and '5600 N.'

@@ -1,0 +1,3 @@
+1. The text located at the top-center and center-lower.
+2. The text with white, smooth solid fill, condensed bold serif font, uppercase, and white, smooth solid fill, bold serif font, uppercase.
+3. The text reading 'AUTO REPAIR' and '517-256-7848'.

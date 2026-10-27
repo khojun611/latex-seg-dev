@@ -1,0 +1,3 @@
+1. The text located at the left inner page, the right inner page, and the top banner of the right card.
+2. The text with black, smooth flat texture, serif font, title/mixed case, the text with black, smooth flat texture, serif font, title/mixed case, and the text with magenta/purple, smooth flat texture, sans-serif font, uppercase bold.
+3. The text reading 'One Year', 'Closer', and 'HAPPY BIRTHDAY'.

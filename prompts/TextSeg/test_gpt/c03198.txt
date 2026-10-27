@@ -1,0 +1,3 @@
+1. The text located at the top-left, bottom-left, center, and top-right.
+2. The text with white color, smooth/reflective painted texture, sans-serif uppercase font, bold style, white color, smooth/reflective painted texture, sans-serif uppercase font, bold style, white color, smooth/reflective painted texture, sans-serif uppercase font, bold style, and white color, smooth/reflective painted texture, sans-serif uppercase font, bold style.
+3. The text reading 'SR', '1513', 'RIPPY', and 'RD'.

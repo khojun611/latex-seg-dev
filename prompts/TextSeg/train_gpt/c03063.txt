@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center, and lower-center.
+2. The text with black color, solid matte texture, geometric sans-serif font (bold), uppercase style, black color, solid matte texture, geometric sans-serif font (bold), uppercase style with comma and period, and black color, solid matte texture, geometric sans-serif font (bold), uppercase style with period.
+3. The text reading 'YOU ARE', 'GOLD, BABY.', and 'SOLID GOLD.'

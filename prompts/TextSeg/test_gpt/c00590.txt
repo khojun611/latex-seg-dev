@@ -1,0 +1,3 @@
+1. The text located at the top-center of the image.
+2. The text with white color, striped line texture, decorative bold display font, and uppercase stylized letters.
+3. The text reading 'POLO ROJAS'.

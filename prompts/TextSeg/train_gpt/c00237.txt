@@ -1,0 +1,3 @@
+1. The text located at the center of the white panel inside the outline of California.
+2. The text with black, smooth flat, serif font, uppercase diagonal.
+3. The text reading 'HOME'.

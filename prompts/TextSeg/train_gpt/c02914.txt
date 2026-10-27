@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-middle, middle, lower-middle, and near-bottom.
+2. The text with yellow letters on red background, glossy plastic, bold sans-serif uppercase; black letters on yellow background, glossy plastic, bold condensed sans-serif uppercase; black letters on yellow background, glossy plastic, bold condensed sans-serif uppercase; red letters on yellow background, glossy plastic, bold rounded sans-serif uppercase; and black letters on yellow background, glossy plastic, bold condensed sans-serif uppercase.
+3. The text reading 'CAUTION', 'DEEPLY', 'SATISFYING', 'POO', and 'IN PROGRESS'.

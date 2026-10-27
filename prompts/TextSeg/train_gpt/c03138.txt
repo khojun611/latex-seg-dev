@@ -1,0 +1,3 @@
+1. The text located at the center-left of the stone plaque, center-right of the stone plaque, and bottom-center of the stone plaque.
+2. The text with black color, engraved into gray speckled stone, serif (Times-like) font, bold and title case; black color, engraved into gray speckled stone, serif (Times-like) font, bold and title case; black color, engraved into gray speckled stone, serif (Times-like) font, regular weight and title case with numerals.
+3. The text reading 'Lyon', 'Park', and 'Established 1919'.

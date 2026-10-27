@@ -1,0 +1,3 @@
+1. The text located at the top center, just below the top center, lower center above the chain, and bottom center.
+2. The text with red color, solid flat texture, bold serif uppercase font, bold uppercase style, red color, solid flat texture, bold serif uppercase font, bold uppercase style, red color, solid flat texture, bold serif uppercase font, bold uppercase style, and red color, solid flat texture, bold serif uppercase font, bold uppercase style.
+3. The text reading 'SAME', 'SHIT', 'DIFFERENT', and 'DAY'.

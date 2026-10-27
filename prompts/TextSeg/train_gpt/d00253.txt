@@ -1,0 +1,3 @@
+1. The text located at the top center-right, lower left, and lower center-right (rotated).
+2. The text with black geometric sans‑serif uppercase bold with pink and blue accent fills and smooth matte paper texture, black geometric sans‑serif uppercase bold with pale pink accent and smooth matte paper texture, and black geometric sans‑serif uppercase bold with yellow accent, rotated orientation and smooth matte paper texture.
+3. The text reading 'BERLAND', 'BER', and 'LAND'.

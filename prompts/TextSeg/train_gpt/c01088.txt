@@ -1,0 +1,3 @@
+1. The text located at the top center, center, and bottom center.
+2. The text with black, smooth solid, blackletter/Gothic font, decorative uppercase, black, smooth solid, blackletter/Gothic font, large bold ornamental, and black, smooth solid, blackletter/Gothic font, decorative uppercase.
+3. The text reading 'BLOOD IN', 'KERI CLUB', and 'BLOOD OUT'.

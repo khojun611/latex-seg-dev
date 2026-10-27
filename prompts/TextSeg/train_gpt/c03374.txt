@@ -1,0 +1,3 @@
+1. The text located at the left of the yellow rectangular sign below the diamond sign, the center of the yellow rectangular sign below the diamond sign, and the right of the yellow rectangular sign below the diamond sign.
+2. The text with black, solid painted texture, bold condensed sans-serif font, uppercase style, black, solid painted texture, bold condensed sans-serif font, numeric style, and black, solid painted texture, bold condensed sans-serif font, uppercase style.
+3. The text reading 'NEXT', '5', and 'MILES'.

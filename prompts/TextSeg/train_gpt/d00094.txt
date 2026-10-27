@@ -1,0 +1,3 @@
+1. The text located at the center foreground, center background behind the main text, and bottom center.
+2. The text with white, smooth matte texture with subtle drop shadow, bold sans-serif font, uppercase 3D style, gold, metallic gradient texture, Arabic calligraphic font, flowing traditional calligraphy style, and light gray, matte texture, thin sans-serif font, small uppercase style.
+3. The text reading 'SAIED', 'سعيد', and 'RIMAN ARTS'.

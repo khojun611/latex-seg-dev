@@ -1,0 +1,3 @@
+1. The text located at the top triangular warning pictogram, the central large yellow panel (middle of sign), and the lower yellow panel beneath the dividing line.
+2. The text with no text (pictogram), black, smooth printed on yellow background, bold sans-serif font, bold title-case, and black, smooth printed on yellow background, bold sans-serif font, title-case.
+3. The text reading '<no text>', 'Danger', and 'Fragile roof'

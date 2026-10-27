@@ -1,0 +1,3 @@
+1. The text located at the top of the sign, the center of the sign, and the lower portion of the sign.
+2. The text with white, slightly weathered painted texture, serif font, uppercase and underlined, white, slightly weathered painted texture, serif font, sentence case, and white, slightly weathered painted texture, serif font, sentence case and multi-line.
+3. The text reading 'CAUTION', 'Treated bridge timbers.', and 'Avoid contact with skin or clothing'.

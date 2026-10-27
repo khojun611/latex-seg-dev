@@ -1,0 +1,3 @@
+1. The text located at the sign upper-right (to the right of the warning triangle), the sign center, and the sign lower-center.
+2. The text with white color, smooth flat printed texture, sans‑serif font, regular small-cap style, white color, smooth flat printed texture, sans‑serif font, uppercase bold for the main words with adjacent lowercase regular for the verb, and white color, smooth flat printed texture, sans‑serif font, bold larger style.
+3. The text reading 'Bitte', 'TOR GESCHLOSSEN halten', and 'Vielen Dank'.

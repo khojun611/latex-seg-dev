@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-center, center-bottom, and top-right.
+2. The text with black, speckled/distressed texture, decorative western slab serif (stencil-like) font, uppercase distressed style, black, speckled/distressed texture, bold blocky decorative slab serif font, uppercase distressed style, black, speckled/distressed texture, bold wide decorative slab serif font, uppercase distressed style, and black, speckled/distressed texture, decorative western slab serif (stencil-like) font, uppercase distressed style.
+3. The text reading 'KERN', 'OLD', 'DINGLISH', and 'CLUB'.

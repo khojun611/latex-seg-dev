@@ -1,0 +1,3 @@
+1. The text located at the top center, the large center, the just-below-center, and the bottom center.
+2. The text with black, diagonal hatched/sketch texture, hand-lettered cursive font, bold script style, black, diagonal hatched/sketch texture, hand-lettered tall rounded display font, bold filled style, black, light sketch texture, hand-lettered narrow uppercase sans font, outlined style, and black, diagonal hatched/sketch texture, hand-lettered uppercase block font, outlined/shaded style.
+3. The text reading 'Intro to', 'Lettering', 'with', and 'KEN BARBER'.

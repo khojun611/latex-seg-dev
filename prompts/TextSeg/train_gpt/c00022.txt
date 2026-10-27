@@ -1,0 +1,3 @@
+1. The text located at the upper-center and middle-center.
+2. The text with white, flat solid fill, decorative script (cursive) font, calligraphic swash style and white, flat solid fill, decorative script (cursive) font, calligraphic swash style.
+3. The text reading 'Wood' and 'Type'.

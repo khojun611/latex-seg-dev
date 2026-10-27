@@ -1,0 +1,3 @@
+1. The text located at the far left, left-center, center, right-center, and far right.
+2. The text with black color, hatched/scribbled texture, hand-drawn block font, bold irregular style, black color, hatched/scribbled texture, hand-drawn rounded font, bold irregular style, black color, hatched/scribbled texture, hand-drawn rounded/font, bold irregular style, black color, hatched/scribbled texture, hand-drawn tall font, bold irregular style, and black color, hatched/scribbled texture, hand-drawn tall font, bold irregular style.
+3. The text reading 'N', 'i', 'g', 'h', and 't'.

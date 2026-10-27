@@ -1,0 +1,3 @@
+1. The text located at the center of the rectangular sign.
+2. The text with dark navy-blue fill and cyan/turquoise 3D extrusion and light grey back-shadow, smooth matte printed texture, bold condensed uppercase sans-serif font, 3D extruded block uppercase style.
+3. The text reading 'CRIBBY'

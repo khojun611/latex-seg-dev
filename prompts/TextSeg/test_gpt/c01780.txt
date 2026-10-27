@@ -1,0 +1,3 @@
+1. The text located at the top center, center, and bottom center.
+2. The text with white fill and mustard-yellow drop-shadow, grainy/distressed texture, bold uppercase sans-serif, vintage 3D embossed style, red fill with white highlight and light-blue drop-shadow, grainy/distressed texture, ornate hand-lettered script with swashes and 3D extrusion, and combination: small white uppercase sans-serif "CALL ME A" with mustard-yellow shadow plus large red ornate hand-lettered "Badass" with white highlight and light-blue shadow, grainy/distressed, vintage 3D display.
+3. The text reading 'DON'T CALL ME', 'Lucky', and 'CALL ME A Badass'.

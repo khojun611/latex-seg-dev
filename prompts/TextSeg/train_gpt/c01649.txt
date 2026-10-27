@@ -1,0 +1,3 @@
+1. The text located at the upper-center and center.
+2. The text with teal-to-purple gradient, glossy/marker texture, bold uppercase hand-drawn block style with black outline and white highlights, and teal-to-purple gradient, glossy/marker texture, flowing brush-script/cursive style with black outline and white highlights.
+3. The text reading 'PORT' and 'schlüssel'.

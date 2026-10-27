@@ -1,0 +1,3 @@
+1. The text located at the top-left ('320') and center-lower ('sycamore') of the image.
+2. The text with pale mint-green-to-cream gradient color, chalky/grainy/distressed texture, handwritten numeric script font, simple cursive style, and pale mint-green-to-cream gradient color, chalky/grainy/distressed texture, hand-lettered brush script font, ornate cursive/calligraphic style.
+3. The text reading '320', 'sycamore'.

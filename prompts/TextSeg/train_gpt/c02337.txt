@@ -1,0 +1,3 @@
+1. The text located at the front center of the vehicle (on the hood below the windshield) and the front center emblem on the vehicle (below 'POLIZEI').
+2. The text with white color, smooth painted texture, bold uppercase sans-serif font, flat decal/paint style, and chrome color, metallic embossed texture, geometric stylized 'VW' emblem, three-dimensional badge style.
+3. The text reading 'POLIZEI' and 'VW'.

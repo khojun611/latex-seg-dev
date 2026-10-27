@@ -1,0 +1,3 @@
+1. The text located at the top center, center, and lower center.
+2. The text with white fill with blue/black shadow and red/orange outline, painted brush-stroke texture, hand-lettered cursive font, multi-layer outline with drop shadow/3D effect; white fill with black/blue shadow and red/orange outline, painted brush-stroke texture, bold hand-lettered uppercase condensed font, layered outline with drop shadow/3D effect; and white fill with black/cream inner border and red/orange outer outline, painted brush-stroke texture, bold hand-lettered uppercase font, layered outline with drop shadow/3D effect.
+3. The text reading 'fresh Wild Caught', 'MAHI MAHI', and 'FILLET'.

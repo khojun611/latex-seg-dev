@@ -1,0 +1,3 @@
+1. The text located at the center of the image on the white street sign attached to the red fence.
+2. The text with black color, painted metal texture, bold sans-serif font, uppercase style.
+3. The text reading 'GARRISON LANE'

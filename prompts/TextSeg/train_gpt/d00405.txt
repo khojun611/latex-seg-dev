@@ -1,0 +1,3 @@
+1. The text located at the center of the image (large 'A'), the top-center above the 'A' ('LETTER'), and the bottom-center below the 'A' ('PORTRAIT').
+2. The text with multicolored photographic fill, realistic skin and fabric texture, bold geometric sans-serif cutout style (for the large 'A'), white flat matte color, smooth texture, rounded condensed sans-serif, spaced uppercase style (for 'LETTER'), and white flat matte color, smooth texture, rounded condensed sans-serif, spaced uppercase style with faint mirrored reflection (for 'PORTRAIT').
+3. The text reading 'A', 'LETTER', and 'PORTRAIT'.

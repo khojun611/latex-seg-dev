@@ -1,0 +1,3 @@
+1. The text located at the upper center and lower center.
+2. The text with black, slightly speckled printed texture, sans-serif bold font, title case and black, slightly speckled printed texture, sans-serif bold font, title case.
+3. The text reading 'Butterworth' and 'Park'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center and mid-center (below the first).
+2. The text with black, flat, bold geometric sans-serif, uppercase and red, flat, regular condensed sans-serif, uppercase.
+3. The text reading 'ÁGORA', 'COMUNICACIÓN Y ANÁLISIS S.L.'.

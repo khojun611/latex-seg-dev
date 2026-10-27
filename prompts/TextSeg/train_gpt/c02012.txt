@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the ghost and the center of the ghost.
+2. The text with black, flat/solid texture, decorative condensed serif (outlined-style) font, uppercase vintage style, and black, flat/solid texture, tall serif display font, uppercase whimsical style.
+3. The text reading 'YOUR SMILE LOOKS' and 'BOO-TI-FUL'.

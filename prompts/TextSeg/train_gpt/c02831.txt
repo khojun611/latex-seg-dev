@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, and bottom center.
+2. The text with black, smooth matte printed surface, bold condensed sans-serif font, uppercase style, black, smooth matte printed surface, bold sans-serif font, uppercase style, and black, smooth matte printed surface, bold sans-serif font, uppercase style.
+3. The text reading 'ELEVATOR', 'IS OUT FOR SERVICE', and 'PLEASE USE ELEVATOR'.

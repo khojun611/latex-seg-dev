@@ -1,0 +1,3 @@
+1. The text located at the center-left on the blue street sign, the right side of the blue street sign, and the bottom-right of the blue street sign.
+2. The text with white, smooth painted finish, bold sans-serif font, title-case style, white, smooth painted finish, bold sans-serif font, abbreviated uppercase style, and white, smooth painted finish, bold sans-serif font, numeric with uppercase suffix style.
+3. The text reading 'Hollywood', 'Bl', and '6600 W'.

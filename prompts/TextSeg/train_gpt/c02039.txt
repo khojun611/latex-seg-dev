@@ -1,0 +1,3 @@
+1. The text located at the lower-center-left and lower-center-right of the image.
+2. The text with white fill and gray inner shading with maroon outline and dark maroon drop-shadow, smooth solid texture, bold cartoon/block uppercase font, outlined 3D drop-shadow style, and yellow/gold fill with orange shading with maroon outline and dark maroon drop-shadow, smooth solid texture, bold cartoon/block uppercase font, outlined 3D drop-shadow style.
+3. The text reading 'GEORGE' and 'KITTLE'

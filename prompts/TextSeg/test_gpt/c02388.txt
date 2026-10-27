@@ -1,0 +1,3 @@
+1. The text located at the top center and just below it.
+2. The text with pink color, smooth flat texture, bold rounded sans-serif font and title-case with an ellipsis, pale pink color, smooth flat texture, thin condensed sans-serif font and uppercase elongated style.
+3. The text reading 'Save Calories...', 'ASK FOR A WREATH INSTEAD'

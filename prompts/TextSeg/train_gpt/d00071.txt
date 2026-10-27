@@ -1,0 +1,3 @@
+1. The text located at the top left, top center, and top right.
+2. The text with white, smooth, thin rounded sans-serif, lowercase spaced, white, smooth, thin rounded sans-serif, lowercase spaced, and white, smooth, thin rounded sans-serif, lowercase spaced.
+3. The text reading 'uminiscent', 'uminiscent', and 'uminiscent'.

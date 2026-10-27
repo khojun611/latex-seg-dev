@@ -1,0 +1,3 @@
+1. The text located at the top center, lower center-left, and lower center-right.
+2. The text with white, smooth, rounded geometric sans font, bold uppercase spaced, pale peach, smooth, rounded geometric sans font, regular uppercase condensed, and pale peach, smooth, rounded geometric sans font, regular uppercase spaced.
+3. The text reading 'SPACE AGE', 'SPACEAGE', and 'REGULAR'.

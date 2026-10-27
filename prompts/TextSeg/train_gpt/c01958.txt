@@ -1,0 +1,3 @@
+1. The text located at the top center ('KEEP'), on the central right-pointing ribbon across the middle ('RIGHT'), below the ribbon center ('EXCEPT'), just above the bottom center in small script ('To'), and at the bottom center in large script ('Pass').
+2. The text with bright turquoise distressed block serif uppercase (KEEP), mustard yellow distressed bold condensed sans-serif on a ribbon with dark outline (RIGHT), bright turquoise distressed block serif uppercase (EXCEPT), mustard yellow flowing cursive script with slight texture (To), and mustard yellow bold brush-style script with swashes and slight texture (Pass).
+3. The text reading 'KEEP', 'RIGHT', 'EXCEPT', 'To', and 'Pass'.

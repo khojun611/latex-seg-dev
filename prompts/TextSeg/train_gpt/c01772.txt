@@ -1,0 +1,3 @@
+1. The text located at the upper-left, center-right, and lower-right.
+2. The text with mint-green fill and dark-teal shadow, chalky/painted texture, hand-drawn condensed sans-serif font, uppercase with layered 3D shadow, mint-green fill and dark-teal shadow, chalky/painted texture, hand-drawn condensed sans-serif font, uppercase with layered 3D shadow, and mint-green fill and dark-teal shadow, chalky/painted texture, hand-drawn condensed sans-serif font, uppercase with layered 3D shadow.
+3. The text reading 'THIS', 'IS', and 'US'.

@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-middle center, middle center, and lower center.
+2. The text with white color, painted smooth texture, sans-serif bold font, uppercase underlined (PLEASE), white color, painted smooth texture, sans-serif bold font, uppercase (FASTEN), white color, painted smooth texture, sans-serif bold font, uppercase (SEAT), and white color, painted slightly chipped texture, sans-serif bold font, uppercase (BELTS).
+3. The text reading 'PLEASE', 'FASTEN', 'SEAT', and 'BELTS'.

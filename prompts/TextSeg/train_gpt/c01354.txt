@@ -1,0 +1,3 @@
+1. The text located at the bottom center.
+2. The text with red (extruded shadows) and light blue face, horizontal striped/distressed texture, bold geometric sans-serif font, 3D extruded style and all-caps.
+3. The text reading 'VOLCANIC'.

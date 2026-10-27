@@ -1,0 +1,3 @@
+1. The text located at the center across the model's torso and at the bottom-center inside the outlined rectangular box.
+2. The text with white, solid/flat texture, bold condensed sans-serif font, large uppercase style (ANALOG FILM) and white, thin/stroked texture, thin condensed sans-serif font, small uppercase with increased letter-spacing and enclosed in a white rectangular border (PREMIUM LIGHTROOM PRESETS).
+3. The text reading 'ANALOG FILM' and 'PREMIUM LIGHTROOM PRESETS'.

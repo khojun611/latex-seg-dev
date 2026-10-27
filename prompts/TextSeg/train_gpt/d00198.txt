@@ -1,0 +1,3 @@
+1. The text located at the top center (HYPERPIX), the top center (STUDIOS), the upper-middle (BLACK), and the center (PANTHER).
+2. The text with white bold condensed sans-serif on a red rectangle (HYPERPIX), white narrow sans-serif on a black rectangle (STUDIOS), blue mottled textured fill with gold metallic beveled 3D outline, bold serif all-caps (BLACK), and blue mottled textured fill with gold metallic beveled 3D outline, bold serif all-caps (PANTHER).
+3. The text reading 'HYPERPIX', 'STUDIOS', 'BLACK', and 'PANTHER'.

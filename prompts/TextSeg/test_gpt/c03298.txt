@@ -1,0 +1,3 @@
+1. The text located at the top small green exit panel, the main green highway panel, and the yellow bottom panel.
+2. The text with white on green, reflective smooth texture, bold sans-serif highway font, uppercase (top panel), white (and black digits in a white shield) on green, reflective smooth texture, bold sans-serif highway font, 'NORTH' uppercase and 'Likelike Hwy' title case (main panel), and black on yellow, reflective smooth texture, bold sans-serif highway font, uppercase (bottom panel).
+3. The text reading 'EXIT 20 A', '63, NORTH, Likelike Hwy', and 'EXIT, ↓, ONLY'.

@@ -1,0 +1,3 @@
+1. The text located at the top center and the bottom center.
+2. The text with pale mint-green color, dripping/paint-like texture, bold blocky uppercase sans-serif font, black outline and dripping/3D shadow style at the top, and pale mint-green color, dripping/paint-like texture, bold blocky uppercase sans-serif font, black outline and dripping/3D shadow style at the bottom.
+3. The text reading 'COSMIC' and 'LOVE'.

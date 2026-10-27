@@ -1,0 +1,3 @@
+1. The text located at the top of the large painted wall sign, the middle of the large painted wall sign, and the bottom of the large painted wall sign.
+2. The text with yellow fill and blue outline, painted texture, bold uppercase block letters with drop shadow, yellow fill and blue outline, painted texture, condensed italic uppercase letters, and yellow fill and blue outline, painted texture, bold uppercase block letters with drop shadow.
+3. The text reading 'BEARD & CO'S', 'CELEBRATED', and 'ALES & STOUT'.

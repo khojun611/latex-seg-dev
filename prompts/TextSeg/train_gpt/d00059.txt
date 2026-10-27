@@ -1,0 +1,3 @@
+1. The text located at the top-left banner, the upper-center above the main title, the center of the image (large "Deluxe"), and the lower-center of the main title (large "Styles").
+2. The text with white, flat solid fill, bold sans-serif, uppercase, white, flat solid fill, bold sans-serif, uppercase, rose-gold metallic, reflective textured metallic finish, cursive script, italic 3D embossed, rose-gold metallic, reflective textured metallic finish, elegant serif italic, 3D embossed and extruded, and rose-gold metallic, reflective textured metallic finish, elegant serif italic, 3D embossed and extruded.
+3. The text reading 'FREE', 'PSD', 'The', 'Deluxe', and 'Styles'.

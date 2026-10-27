@@ -1,0 +1,3 @@
+1. The text located at the top-left inside the circular badge, center of the circular badge, and lower-center of the circular badge.
+2. The text with white color, smooth solid texture, bold heavy geometric sans‑serif font, uppercase block style with slight blue outline/drop shadow; white color, smooth solid texture, bold heavy geometric sans‑serif font, uppercase block style with slight blue outline/drop shadow; and white color, smooth solid texture, bold heavy geometric sans‑serif font, uppercase block style with slight blue outline/drop shadow.
+3. The text reading 'I', 'DESIGNED', and 'TODAY'.

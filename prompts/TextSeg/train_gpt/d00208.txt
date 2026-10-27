@@ -1,0 +1,3 @@
+1. The text located at the top-left (three stacked "LYRIC"), the center (small double-slash "//"), and the bottom-right (three stacked "VIDEOS" and a small "LOREM IPSUM").
+2. The text with red, crinkled/plastic-overlay texture, bold heavy sans-serif, uppercase distressed; the text with cyan/teal gradient, smooth texture, thin sans-serif, minimal/slanted; and the text with white, grungy/distressed texture, bold condensed sans-serif, uppercase distressed (with a tiny white thin "LOREM IPSUM" in the same area).
+3. The text reading 'LYRIC', 'LYRIC', 'LYRIC', '//', 'VIDEOS', 'VIDEOS', 'VIDEOS', and 'LOREM IPSUM'.

@@ -1,0 +1,3 @@
+1. The text located at the center of the framed sign on the tabletop, the left edge of the framed sign, and the right edge of the framed sign.
+2. The text with white letters and orange 3D shadow, flat painted texture on a black background, bold block sans-serif uppercase 3D style, the text with solid red painted circular mark, flat painted texture, symbol/dot style, and the text with solid red painted circular mark, flat painted texture, symbol/dot style.
+3. The text reading 'OPEN', '.', and '. '

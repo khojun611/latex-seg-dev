@@ -1,0 +1,3 @@
+1. The text located at the center overlapping the character, and the bottom-center below the large word.
+2. The text with red, flat solid fill, bold condensed sans-serif, heavy uppercase block style, and white, flat solid fill, thin geometric sans-serif, wide letter-spacing uppercase style.
+3. The text reading 'DOOF' and 'FOOD FINDER'

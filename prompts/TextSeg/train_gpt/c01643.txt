@@ -1,0 +1,3 @@
+1. The text located at the top-left, the bottom-left on a white brush stroke, and the right panel.
+2. The text with dark navy, solid flat texture, brush script font, bold cursive with swashes, dark navy, solid flat texture (on white brush-stroke background), casual script font, playful handwritten style, and yellow (gold), solid flat texture, script/handwritten font, large decorative cursive style.
+3. The text reading 'Hollie Script', 'The best deal!', and '50% Off'.

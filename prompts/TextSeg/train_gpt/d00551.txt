@@ -1,0 +1,3 @@
+1. The text located at the lower-left, center, and lower-right.
+2. The text with light cyan/blue color, smooth glossy 3D texture, bold serif font, and extruded 3D (beveled) style with soft shadow.
+3. The text reading 'Geneva'.

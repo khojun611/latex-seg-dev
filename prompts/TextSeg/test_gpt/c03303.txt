@@ -1,0 +1,3 @@
+1. The text located at the top-center of the yellow sign, the upper-right of the yellow sign, the middle-right of the yellow sign, and the lower-right of the yellow sign.
+2. The text with black, flat printed/matte texture, bold uppercase sans-serif (largest size) for the top text, black, flat printed/matte texture, bold uppercase sans-serif (medium size) for the upper-right text, black, flat printed/matte texture, bold uppercase sans-serif (medium size) for the middle-right text, and black, flat printed/matte texture, bold uppercase sans-serif (medium size) for the lower-right text.
+3. The text reading 'DANGER', 'OVERHEAD', 'ELECTRIC POWER', and 'LINES'.

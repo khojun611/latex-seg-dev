@@ -1,0 +1,3 @@
+1. The text located at the top-center, middle-center, and bottom-center.
+2. The text with (yellow-to-blue gradient color, glossy halftone texture, bold rounded 3D sans-serif font, neon/beveled 80s style), (pink-to-blue metallic gradient color, halftone/mesh texture, tall condensed block 3D sans-serif font, chrome/neon retro style), and (yellow/orange painted color with pink highlights, rough brush/grunge texture, slanted script brush font, hand-painted retro style).
+3. The text reading '80'S', 'RETRO', and 'STYLE'.

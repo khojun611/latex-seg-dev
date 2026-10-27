@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, and bottom center.
+2. The text with white with cyan tint, smooth translucent, thin geometric monospaced sans-serif, uppercase light-weight with wide letter-spacing, white, smooth translucent, thin rounded monospaced sans-serif, uppercase light-weight with moderate spacing, and white, smooth translucent, thin rounded monospaced sans-serif, uppercase light-weight with condensed spacing.
+3. The text reading 'EXAN-3', 'FREE FØNT', and 'MØNO-SPACED'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-middle-center, middle-center, and lower-center.
+2. The text with black, flat solid texture, bold geometric sans-serif font, uppercase (no underline), black, flat solid texture, bold geometric sans-serif font, uppercase (underlined), black, flat solid texture, bold geometric sans-serif font, uppercase (underlined), and black, flat solid texture, bold geometric sans-serif font, uppercase (no underline).
+3. The text reading 'PEOPLE', 'ARE', 'STILL', and 'STUPID'.

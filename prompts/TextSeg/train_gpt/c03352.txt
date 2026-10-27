@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-center, middle-center, and lower-center.
+2. The text with white color, painted texture, serif font, uppercase bold style; white color, painted texture, serif font, title-case style; white color, painted texture, serif font, title-case style; and white color, painted texture, serif font, title-case style.
+3. The text reading 'PLEASE', 'Make Sure the', 'Tee Box Is Clear', and 'Before Crossing'.

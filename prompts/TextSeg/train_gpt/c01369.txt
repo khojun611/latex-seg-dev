@@ -1,0 +1,3 @@
+1. The text located at the upper-center-left, upper-center, and upper-center-right.
+2. The text with black fill and thick black outline, hand-drawn marker texture, casual script font, bold rounded style, black fill and thick black outline, hand-drawn marker texture, casual script font, bold rounded style, and black fill and thick black outline, hand-drawn marker texture, casual script font, bold rounded style.
+3. The text reading 'Easy', 'Peasy', and 'Easy Peasy'.

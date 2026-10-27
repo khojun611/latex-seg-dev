@@ -1,0 +1,3 @@
+1. The text located at the top-center of the sign, the center-left of the sign, and the center-right of the sign.
+2. The text with green, glossy printed on yellow metal, condensed sans-serif regular weight, sentence case; green, glossy printed on yellow metal, bold sans-serif, title case, large; and green, glossy printed on yellow metal, bold sans-serif, title case, large.
+3. The text reading 'Verkehrsgemeinschaft', 'Bahn', and 'Post'.

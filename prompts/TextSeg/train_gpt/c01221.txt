@@ -1,0 +1,3 @@
+1. The text located at the upper-center, lower-left, and center-bottom.
+2. The text with white color, painted/brush-stroke texture, hand-lettered tall display font with decorative swashes, white color, painted/brush-stroke texture, hand-lettered small cursive font, and white color, painted/brush-stroke texture, hand-lettered bold display font with curly terminals.
+3. The text reading 'PLAISIR', 'd'', and 'OFFRIR'

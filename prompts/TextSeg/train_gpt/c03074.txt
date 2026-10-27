@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the sign, lower-left of the sign, center of the sign, and upper-right of the sign.
+2. The text with white, painted (slightly weathered), condensed sans-serif font, bold uppercase, white, painted (slightly weathered), sans-serif font, numeric digits, white, painted (slightly weathered), condensed sans-serif font, bold uppercase, and white, painted (slightly weathered), sans-serif font, uppercase.
+3. The text reading 'SR', '2785', 'DYE LEAF', and 'RD'.

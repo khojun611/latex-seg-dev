@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and lower-center.
+2. The text with black, smooth solid texture, thin rounded sans-serif font, uppercase enclosed in parentheses; black, smooth solid texture, bold geometric sans-serif font, large uppercase with heartbeat waveform styling; green, smooth solid texture, medium-weight sans-serif font, uppercase italicized.
+3. The text reading '( ORIGINAL MIX )', 'RESONANCE', and 'PATRICIO G'.

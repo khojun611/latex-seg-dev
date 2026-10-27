@@ -1,0 +1,3 @@
+1. The text located at the lower-left arc beneath the pink dolphin, and the lower-right arc beneath the panda and dolphin.
+2. The text with pink, solid glossy-like fill with slight highlight, bold rounded sans-serif, uppercase arched lettering, and black, solid fill, bold condensed sans-serif, uppercase arched lettering.
+3. The text reading 'ADVANCED' and 'APATHY'.

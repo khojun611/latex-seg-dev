@@ -1,0 +1,3 @@
+1. The text located at the upper-center logo, the center (below logo), and the lower-center (below CENTER word).
+2. The text with white/red/blue checkered and flag-patterned emblem, smooth screen-print texture, decorative emblem-style graphic; red with white outline, smooth screen-print texture, bold condensed sans-serif, uppercase; blue with white outline, smooth screen-print texture, bold condensed sans-serif, uppercase.
+3. The text reading '<(emblem, no readable text)>', 'CLASSIC', and 'CAR DEALS'.

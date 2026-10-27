@@ -1,0 +1,3 @@
+1. The text located at the top-left of the top envelope, the top-left of the lower envelope, and the bottom-left decorative tile.
+2. The text with blue solid color, flat texture, bold condensed sans‑serif, uppercase, blue solid color, flat texture, bold condensed sans‑serif, uppercase, and white solid color on blue textured background, flat texture, bold sans‑serif, uppercase.
+3. The text reading 'JANCOA', 'JANCOA', and 'DREAM'

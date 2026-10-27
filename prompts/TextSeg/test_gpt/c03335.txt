@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-right, center, and lower-center.
+2. The text with black, weathered painted, serif font, uppercase; black, weathered painted, serif font, uppercase; black, weathered painted, sans-serif/stencil-like font, uppercase; and black, weathered painted, sans-serif font, uppercase bold.
+3. The text reading 'G', 'R', 'POLICE', and 'STATION'.

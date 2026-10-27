@@ -1,0 +1,3 @@
+1. The text located at the upper-center and center-lower.
+2. The text with green color, brush-stroke texture, calligraphic brush-script font, cursive style and red color (reddish gradient), brush-stroke texture, calligraphic brush-script font, cursive style.
+3. The text reading 'Pizzeria' and 'Trattoria'.

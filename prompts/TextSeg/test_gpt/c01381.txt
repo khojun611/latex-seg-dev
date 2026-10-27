@@ -1,0 +1,3 @@
+1. The text located at the top-center, lower-left, and lower-center and lower-right.
+2. The text with silver raised-metal, glossy enamel background, bold embossed serif uppercase at the top, silver raised-metal, glossy enamel background, smaller embossed serif uppercase at the lower-left, and silver raised-metal, glossy enamel background, smaller condensed embossed uppercase at the lower-center and lower-right.
+3. The text reading 'L. SCHWARTZKOPFF.', '1914', and 'BERLIN, Nº5249'.

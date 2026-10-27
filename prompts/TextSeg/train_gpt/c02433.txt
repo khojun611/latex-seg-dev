@@ -1,0 +1,3 @@
+1. The text located at the left-center, below the left-center text, and the right-center.
+2. The text with black color, slightly grainy printed ink texture, serif font, bold style; the text with black color, slightly grainy printed ink texture, serif font, regular style; and the text with black color, slightly grainy printed ink texture, serif font, regular style.
+3. The text reading 'Love Potion', 'A drink for two', and '8.25'.

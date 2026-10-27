@@ -1,0 +1,3 @@
+1. The text located at the left (large stylized 'K'), center (circular 'o' dot), and right (letters 'r', 's', 'a', 't', 'y').
+2. The text with light beige/wood color, wood-grain texture, rounded sans-serif-like display font, 3D extruded with soft drop shadow, light beige/wood color, wood-grain texture, circular solid shape (dot), 3D extruded with soft drop shadow, and light beige/wood color, wood-grain texture, rounded sans-serif font (lowercase), 3D extruded with soft drop shadow.
+3. The text reading 'K', 'o', and 'rsaty'.

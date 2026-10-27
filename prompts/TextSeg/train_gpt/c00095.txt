@@ -1,0 +1,3 @@
+1. The text located at the top-center, center (spanning left to right), and lower-center.
+2. The text with dark navy-blue color, smooth solid texture, hand-lettered brush script font, small cursive style with thin pale-pink outline and subtle drop shadow, dark navy-blue color, smooth solid texture, hand-lettered bold brush script font, large cursive swash style with pale-pink outline and subtle drop shadow, and dark navy-blue color, smooth solid texture, hand-lettered bold brush script font, medium cursive swash style with pale-pink outline and subtle drop shadow.
+3. The text reading 'the', 'Big bang', and 'theory'.

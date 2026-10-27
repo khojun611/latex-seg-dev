@@ -1,0 +1,3 @@
+1. The text located at the top row of the rectangular sign and bottom row of the rectangular sign.
+2. The text with black color, painted/chipped texture, bold uppercase sans-serif font, slightly weathered style and black color, painted/chipped texture, bold uppercase sans-serif font, slightly weathered style.
+3. The text reading 'MALE STAFF' and 'CLOAKROOM'.

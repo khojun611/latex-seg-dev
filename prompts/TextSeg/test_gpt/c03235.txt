@@ -1,0 +1,3 @@
+1. The text located at the top center inside the framed rectangle, top center inside the framed rectangle, and top center inside the framed rectangle.
+2. The text with black, solid flat fill, bold sans-serif uppercase, bold uppercase; black, solid flat fill, bold sans-serif, plus symbol; black, solid flat fill, bold sans-serif uppercase with registered symbol, bold uppercase with ®.
+3. The text reading 'EVAC', '+', and 'CHAIR®'.

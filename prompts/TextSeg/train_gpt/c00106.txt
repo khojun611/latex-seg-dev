@@ -1,0 +1,3 @@
+1. The text located at the top, middle, and bottom.
+2. The text with cyan/aqua fill and black offset drop shadow on a pink background, smooth flat texture, narrow rounded sans-serif font, uppercase thin style with shadow, cyan/aqua fill and black offset drop shadow on a pink background, smooth flat texture, narrow rounded sans-serif font, uppercase thin style with shadow, and cyan/aqua fill and black offset drop shadow on a pink background, smooth flat texture, narrow rounded sans-serif font, uppercase thin style with shadow.
+3. The text reading 'WOMEN', 'ARE', and 'STRONG'.

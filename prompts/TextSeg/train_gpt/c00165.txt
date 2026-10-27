@@ -1,0 +1,3 @@
+1. The text located at the center panel top, center panel middle, and center panel lower.
+2. The text with gold/yellow color, painted brush texture, ornate blackletter (Old English) font, uppercase style; gold/yellow color, painted brush texture, ornate blackletter (Old English) font, titlecase/mixed-case style; and gold/yellow color, painted brush texture, ornate blackletter numerals style.
+3. The text reading 'HORARIO', 'Lunes a Viernes', and '10:00 a 18:00'.

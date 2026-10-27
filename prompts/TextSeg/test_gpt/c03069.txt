@@ -1,0 +1,3 @@
+1. The text located at the top line of the green road sign at the left foreground and the second line of the green road sign at the left foreground.
+2. The text with white color, painted matte texture, simple sans-serif highway-style font, title-case with abbreviation and punctuation and the text with white color, painted matte texture, simple sans-serif highway-style font, uppercase abbreviation and numerals.
+3. The text reading 'Jln. Microwave' and 'Stn. KM 177'.

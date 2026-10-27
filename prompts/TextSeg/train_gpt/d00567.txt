@@ -1,0 +1,3 @@
+1. The text located at the left-center, center, and right-center.
+2. The text with red, flat smooth texture, sans-serif font, bold mixed-case with a wavy horizontal strikethrough, red, flat smooth texture, sans-serif font, bold mixed-case with a wavy horizontal strikethrough, and red, flat smooth texture, sans-serif font, bold mixed-case with a wavy horizontal strikethrough.
+3. The text reading 'Aa', 'Bb', and 'Cc'.

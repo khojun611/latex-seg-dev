@@ -1,0 +1,3 @@
+1. The text located at the center-left (A), center (P), center-right (E), and far-right (L).
+2. The text with dark green fill and yellow highlights, rough stone texture, bold 3D block sans-serif font, angled extruded stylized lettering, dark green fill and yellow highlights, rough stone texture, bold 3D block sans-serif font, angled extruded stylized lettering, dark green fill and yellow highlights, rough stone texture, bold 3D block sans-serif font, angled extruded stylized lettering, and dark green fill and yellow highlights, rough stone texture, bold 3D block sans-serif font, angled extruded stylized lettering.
+3. The text reading 'A', 'P', 'E', and 'L'.

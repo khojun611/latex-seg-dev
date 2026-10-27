@@ -1,0 +1,3 @@
+1. The text located at the left of the signboard, the center of the signboard, the right of the signboard, and below the center of the signboard.
+2. The text with orange fill and teal-green shadow, smooth painted texture, bold geometric sans-serif numeral font, 3D shadowed style, orange fill and teal-green shadow, smooth painted texture, bold decorative uppercase sans-serif font, 3D shadowed style, orange fill and teal-green shadow, smooth painted texture, bold geometric sans-serif numeral font, 3D shadowed style, and dark teal color, smooth painted texture, cursive script font, handwritten italic style.
+3. The text reading '7', 'CORDONNERIE', '7', and 'du Vieux Nice'.

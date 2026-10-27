@@ -1,0 +1,3 @@
+1. The text located at the right-side orange diamond road sign, the center-right white rectangular sign on the post, and the white route shield below the rectangular sign.
+2. The text with black, reflective orange background texture, bold sans-serif font, uppercase centered style, black, reflective white background texture, condensed sans-serif font, uppercase stacked style, and black, reflective white shield texture with black border, bold sans-serif font, numeric centered style.
+3. The text reading 'ROAD WORK AHEAD', 'BEGIN TOLL', and '76'.

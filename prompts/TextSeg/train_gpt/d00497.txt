@@ -1,0 +1,3 @@
+1. The text located at the top-center ('TRES'), top-center-right ('DIAS'), center-below-left ('FREE'), and center-below-right ('FONT').
+2. The text with magenta/red outlined, flat stroke, geometric stencil-like font, outlined uppercase, magenta/red color for 'TRES', a red-to-teal smooth gradient fill, geometric block font with triangular 'A', filled uppercase, bold for 'DIAS', solid magenta/red block fill, geometric display font, filled uppercase for 'FREE', and teal/green thin outline, geometric display font, outlined uppercase for 'FONT'.
+3. The text reading 'TRES', 'DIAS', 'FREE', and 'FONT'.

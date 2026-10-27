@@ -1,0 +1,3 @@
+1. The text located at the upper-center ('Me') and the central-lower-right ('lunch').
+2. The text with purple outline, white fill, smooth vector texture, hand‑lettered brush/cursive font, bold script style and gray drop shadow, and purple outline, white fill, smooth vector texture, hand‑lettered brush/cursive font, bold script style and gray drop shadow.
+3. The text reading 'Me', 'lunch'.

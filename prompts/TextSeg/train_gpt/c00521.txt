@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, lower-left, center-right, and bottom-center.
+2. The text with white, smooth solid texture, hand-lettered brush script font, flowing cursive swashes; white, smooth solid texture, hand-lettered brush script font, flowing cursive swashes; yellow, smooth solid texture, hand-lettered brush script font, bolder weight with decorative swash; white, smooth solid texture, hand-lettered brush script font, flowing cursive swashes; white, smooth solid texture, hand-lettered brush script font, flowing cursive swashes.
+3. The text reading 'When one', 'is taken,', 'Love', 'saves', and 'their place.'

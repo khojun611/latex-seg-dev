@@ -1,0 +1,3 @@
+1. The text located at the leftmost (L), center-left (O), center-right (G), and rightmost (O).
+2. The text with gold color, smooth flat texture, geometric sans-serif font, uppercase block style, gold color, smooth flat texture, geometric sans-serif font, circular rounded style, gold color, smooth flat texture, geometric sans-serif font, circular with open counter style, and gold color, smooth flat texture, geometric sans-serif font, circular rounded style.
+3. The text reading 'L', 'O', 'G', and 'O'.

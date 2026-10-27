@@ -1,0 +1,3 @@
+1. The text located at the left side of the rectangular metal street sign and the right side of the rectangular metal street sign.
+2. The text with white color, weathered speckled texture, bold sans-serif uppercase font, block style and white color, weathered speckled texture, bold sans-serif uppercase font, block style.
+3. The text reading 'CANAL' and 'STREET'.

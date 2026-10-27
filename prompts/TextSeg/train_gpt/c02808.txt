@@ -1,0 +1,3 @@
+1. The text located at the top center ('OPEN'), the upper middle inside a black bar ('WHEN WE'RE HERE'), the middle center ('CLOSED'), and the bottom inside a black bar ('WHEN WE AIN'T').
+2. The text with black solid printed smooth finish, bold condensed sans-serif uppercase ('OPEN'), white solid printed smooth finish on black rectangular background, bold condensed sans-serif uppercase ('WHEN WE'RE HERE'), black solid printed smooth finish, bold condensed sans-serif uppercase ('CLOSED'), and white solid printed smooth finish on black rectangular background, bold condensed sans-serif uppercase ('WHEN WE AIN'T').
+3. The text reading 'OPEN', 'WHEN WE'RE HERE', 'CLOSED', and 'WHEN WE AIN'T'.

@@ -1,0 +1,3 @@
+1. The text located at the top-left circular badge, the top-center arched band above the logo, the upper-center script, the large center script, and the bottom-center date line.
+2. The text with white, solid flat texture, decorative serif font, bold stylized mixed-case, white, solid flat texture, condensed serif font, uppercase arched, white, solid flat texture, cursive script font, title-case elegant script, white, solid flat texture, cursive script font, large swash script, and white, solid flat texture, serif font, uppercase with small superscript "th".
+3. The text reading '3rd', 'ANNIV.', 'BREWING COMPANY', 'The', 'Bakers', and 'MARCH 15th 2019'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-center and center of the image.
+2. The text with white, smooth texture, handwritten narrow font, thin uppercase style and white, rough/distressed texture, bold heavy display/brush font, uppercase chunky style.
+3. The text reading 'THE INCREDIBLE', 'BULK'.

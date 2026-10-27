@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-center (vertical repeated), center over the turquoise rectangle, large bottom-center, bottom-center (vertical repeated), bottom-left (credit), and bottom-right corner.
+2. The text with small white uppercase sans-serif, turquoise condensed uppercase repeating sans-serif, white flat sans-serif over the turquoise rectangle (with white Nike swoosh overlay), large white heavy display/uppercase, turquoise small repeating uppercase sans-serif, small white uppercase sans-serif credit, and small white uppercase sans-serif date/number.
+3. The text reading 'ARTWORK BY AMIR ELSWANY', 'ROMELU' (repeated vertically), 'LUKAKU', 'LUKAKU' (repeated vertically), '@BEHANCE/AMIRELSWANY', and '07 30 DAYS'.

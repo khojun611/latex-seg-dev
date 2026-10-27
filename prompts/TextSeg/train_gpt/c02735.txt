@@ -1,0 +1,3 @@
+1. The text located at the road sign (center-right of image).
+2. The text with black color, smooth flat texture, sans-serif font, centered regular style.
+3. The text reading 'Thank you for driving carefully'

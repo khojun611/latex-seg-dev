@@ -1,0 +1,3 @@
+1. The text located at the center spanning the image ('GOLDEN') and center overlapping it ('state').
+2. The text with yellow, slightly textured/papery, bold condensed sans-serif, uppercase block, and blue, chalky/paintbrush texture, flowing cursive script, hand-lettered style.
+3. The text reading 'GOLDEN' and 'state'.

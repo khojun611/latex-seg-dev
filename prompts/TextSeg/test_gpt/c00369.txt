@@ -1,0 +1,3 @@
+1. The text located at the center of the image.
+2. The text with black outline, smooth unfilled double-line texture, decorative script-serif font, and ornamental calligraphic style.
+3. The text reading 'Mother'

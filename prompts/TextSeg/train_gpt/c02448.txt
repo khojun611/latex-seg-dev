@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-middle center, middle center, lower-middle center, and lower center.
+2. The text with white color, smooth printed texture, serif font, title case and regular weight, white color, smooth printed texture, serif font, title case and regular weight, white color, smooth printed texture, serif font, title case and regular weight, white color, smooth printed texture, serif font, uppercase and bold/large, and white color, smooth printed texture, serif font, uppercase and large.
+3. The text reading 'In Loving', 'Memory', 'Of My', 'BEST', and 'FRIEND'.

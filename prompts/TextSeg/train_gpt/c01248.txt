@@ -1,0 +1,3 @@
+1. The text located at the top-left of the sign, center-left of the sign, bottom-left of the sign, and bottom-center inside the building.
+2. The text with red, illuminated/neon with black outline, stylized bold rounded script font, 3D/cursive style; green, illuminated/backlit glossy, chunky playful rounded display font, bold/handwritten style; yellow, illuminated/backlit glossy, chunky bold rounded display font, playful with black drop-shadow; and red, lit LED, plain uppercase sans-serif font, standard exit sign style.
+3. The text reading 'The', 'Pizza', 'Joint', and 'EXIT'.

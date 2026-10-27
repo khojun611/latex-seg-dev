@@ -1,0 +1,3 @@
+1. The text located at the center-left and center-right of the image.
+2. The text with white fill and thin orange outline, fine-line/striped extruded texture, bold geometric sans-serif uppercase, 3D stacked stylized and white fill and thin orange outline, fine-line/striped extruded texture, bold geometric sans-serif uppercase, 3D stacked stylized.
+3. The text reading 'REGIE' and 'MAE'.

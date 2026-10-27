@@ -1,0 +1,3 @@
+1. The text located at the center of the white road sign, the right side of the sign, and on the bins behind the sign.
+2. The text with black, smooth painted texture, serif font, uppercase; red, smooth painted texture, sans-serif font, regular; and white, chalky/rough texture, handwritten font, uppercase (B1) and black, smooth printed texture, sans-serif font, regular (31).
+3. The text reading 'ST MICHAELS HILL', '18', and '31' and 'B1'.

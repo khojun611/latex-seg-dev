@@ -1,0 +1,3 @@
+1. The text located at the top of the upper sign, below the heading on the upper sign, and at the bottom-right of the lower sign.
+2. The text with black, smooth printed, bold sans-serif, uppercase bold, black/dark gray, smooth printed, sans-serif, uppercase regular, and blue, smooth printed, stylized sans-serif, logo-style small.
+3. The text reading 'SPIELPLATZ', 'FÜR KINDER BIS 12 JAHRE', and 'COS'.

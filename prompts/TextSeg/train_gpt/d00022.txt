@@ -1,0 +1,3 @@
+1. The text located at the top-center, center banner, and bottom-center.
+2. The text with white, smooth texture, script/cursive font, elegant swash style, blue gradient, glossy 3D texture, bold geometric 3D font, uppercase embossed style, and white, pixelated texture, bitmap/pixel font, blocky monospaced style.
+3. The text reading 'Grace', 'FOLDING', and 'Client: Folding'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center, middle-center, and lower-center.
+2. The text with white, painted on dark wood grain texture, sans-serif font, regular weight, white, painted on dark wood grain texture, sans-serif font, regular weight, and white, painted on dark wood grain texture, sans-serif font, regular weight.
+3. The text reading 'My brain has', 'too many', and 'tabs open'.

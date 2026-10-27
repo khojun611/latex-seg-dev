@@ -1,0 +1,3 @@
+1. The text located at the center and diagonally across the image.
+2. The text with white color, solid texture, bold serif font, uppercase centered, and grey color, semi-transparent texture, bold sans-serif font, uppercase diagonal watermark.
+3. The text reading 'ERAD' and 'BERRADOR'.

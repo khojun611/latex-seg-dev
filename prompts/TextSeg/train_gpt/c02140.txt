@@ -1,0 +1,3 @@
+1. The text located at the top center, middle left, and middle right.
+2. The text with black, flat printed texture, bold slanted sans-serif font, uppercase style, black, flat printed texture, extra-bold condensed sans-serif font, uppercase style, and black, flat printed texture, bold condensed sans-serif font, uppercase style.
+3. The text reading 'POSTED', 'NO', and 'HUNTING'.

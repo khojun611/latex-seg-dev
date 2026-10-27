@@ -1,0 +1,3 @@
+1. The text located at the top center, bottom left, bottom center, and bottom right.
+2. The text with white marbled/textured fill and blue outline, bold rounded/sans-serif display font, 3D embossed/sticker style with drop shadow; white marbled/textured fill and blue outline, bold condensed sans-serif uppercase font, 3D beveled style with drop shadow; white marbled/textured fill and blue outline, bold condensed sans-serif uppercase font, 3D beveled style with drop shadow; white marbled/textured fill and blue outline, bold condensed sans-serif uppercase font, 3D beveled style with drop shadow.
+3. The text reading '2021', 'HAPPY', 'NEW', and 'YEAR'.

@@ -1,0 +1,3 @@
+1. The text located at the upper center, center-left, and center-right.
+2. The text with cyan-blue, glossy neon-glow texture, tubular outlined sans-like font, decorative uppercase block; cyan-blue, glossy neon-glow texture, smooth embossed finish, cursive/script font, flowing swash style; cyan-blue, glossy neon-glow texture, smooth embossed finish, cursive/script font, ornamental curl.
+3. The text reading 'M', 'usi', and 'c'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the sign (below the triangle), the upper-mid of the sign, the mid-lower of the sign, and the bottom-center of the sign.
+2. The text with black, smooth printed, bold sans-serif, title-case; black, smooth printed, bold sans-serif, title-case; black, smooth printed, bold sans-serif, lowercase; and black, smooth printed, bold sans-serif, lowercase.
+3. The text reading 'Caution', 'Wet Stairs', 'please proceed', and 'with care'.

@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-middle center, center, and lower center.
+2. The text with black color, grainy textured fill, script/cursive font, bold slanted style for 'World', black color, grainy textured fill, script/cursive font, bold slanted style for 'Champs', black color, grainy textured fill, script/cursive font, regular slanted style for 'Cold', and black color, grainy textured fill, script/cursive font, bold slanted style for 'Beer'.
+3. The text reading 'World', 'Champs', 'Cold', and 'Beer'.

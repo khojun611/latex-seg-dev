@@ -1,0 +1,3 @@
+1. The text located at the top row, the middle row, and the bottom row.
+2. The text with pink and blue, rough hand-painted texture, hand-drawn playful font, chunky irregular style, pink and blue, rough hand-painted texture with dotted and spiral internal patterns, hand-drawn playful font, embellished decorative style, and pink and blue, rough hand-painted texture, hand-drawn playful font, bold irregular style.
+3. The text reading 'Hello World!', 'Hello World!', and 'Hello World!'.

@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-middle center, middle center, and bottom center.
+2. The text with black, matte printed paper texture, serif uppercase font, bold style, black, matte printed paper texture, serif uppercase font, bold style, black, matte printed paper texture, serif uppercase font, bold style, and dark red, matte printed paper texture, serif uppercase font, bold style.
+3. The text reading 'WINE', 'OFFICE', 'COURT', and 'EC4'.

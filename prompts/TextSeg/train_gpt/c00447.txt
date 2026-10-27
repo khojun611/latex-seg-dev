@@ -1,0 +1,3 @@
+1. The text located at the top-center of the framed chalkboard, and the center-lower area of the framed chalkboard.
+2. The text with white, chalky/grainy texture, hand-drawn bold block font (uppercase), block style, and white, chalky/grainy texture, hand-drawn cursive script font, flowing/handwritten style.
+3. The text reading 'HI' and 'There'.

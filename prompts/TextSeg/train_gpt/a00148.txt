@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-center, and bottom-center.
+2. The text with off-white color, smooth slightly raised texture, bold sans-serif font, uppercase spaced style, off-white color, smooth slightly raised texture, bold sans-serif font, uppercase spaced style, and off-white color, smooth slightly raised texture, bold sans-serif font, uppercase smaller-size style.
+3. The text reading 'I don't know', 'I don't know', and 'ETUDIANT'.

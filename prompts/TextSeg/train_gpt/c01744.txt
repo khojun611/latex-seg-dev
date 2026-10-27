@@ -1,0 +1,3 @@
+1. The text located at the upper center of the sign held by the skeleton, and the lower center of the sign held by the skeleton.
+2. The text with red fill, black outline, subtle aqua highlight, slightly distressed texture, heavy decorative serif font, bold uppercase, arched; and red fill, black outline, subtle aqua highlight, slightly distressed texture, heavy decorative serif font, bold uppercase, straight.
+3. The text reading 'PSYCHO' and 'SERIF'

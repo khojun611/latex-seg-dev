@@ -1,0 +1,3 @@
+1. The text located at the top-left, lower-left, and center-right.
+2. The text with white, smooth texture, cursive/script font, italic style, pale white-green, smooth texture, cursive/script font, italic style, and white, smooth texture, cursive/script font, italic style.
+3. The text reading 'au2015', 'year 2015', and 'Feliz ano'.

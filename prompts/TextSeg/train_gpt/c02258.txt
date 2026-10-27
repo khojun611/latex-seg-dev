@@ -1,0 +1,3 @@
+1. The text located at the top-right of the circular sign, the lower rectangular sign, and the bottom center of the circular sign.
+2. The text with white on blue, glossy sticker, sans-serif, lowercase compact, black on white, matte painted, sans-serif (DIN-like), lowercase 'keine' and capitalized 'Mofas', and white on blue, painted, sans-serif, small numeric.
+3. The text reading 'sirs', 'keine Mofas', and '24'.

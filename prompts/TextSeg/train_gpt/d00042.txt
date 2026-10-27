@@ -1,0 +1,3 @@
+1. The text located at the top-right corner, upper-right beneath it, and bottom-center across the lower image.
+2. The text with white, flat solid texture, serif bold font, uppercase spaced style, white, flat solid texture, script cursive font, ornate swash style, and bright purple with black outline, filled outlined texture with slight shadow, bold graffiti/display font, outlined decorative/jagged style.
+3. The text reading 'NO LIMIT', 'TOP DOGG', and 'SNOOP DOGG'.

@@ -1,0 +1,3 @@
+1. The text located at the top-left, center-left, and lower-left.
+2. The text with white, flat solid fill, bold tall condensed display (hand-drawn) sans-serif, uppercase irregular stylized letters, white, flat solid fill, bold tall condensed display (hand-drawn) sans-serif, uppercase irregular stylized letters with acute accent on Ó, and white, flat solid fill, bold condensed display (hand-drawn) sans-serif, uppercase irregular stylized letters with a period after CO.
+3. The text reading 'ESTUDIO', 'CALDERÓN', and 'TYPE CO.'

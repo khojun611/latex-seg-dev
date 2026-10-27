@@ -1,0 +1,3 @@
+1. The text located at the center of the front brochure, the center-right of the front brochure, and the top-right corner of the front brochure.
+2. The text with white, bold, smooth solid fill, uppercase sans-serif, large and slightly shadowed, yellow/orange, bold, smooth solid fill, uppercase sans-serif, large with slight drop shadow, and white, small, uppercase sans-serif, smooth and condensed.
+3. The text reading 'SUMMER', '2020', and 'SCHOOL OF PERFORMING ARTS'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-left-center (large overlapping "20"), the center-right (large overlapping "19"), and the lower-left beneath the numbers.
+2. The text with red gradient glossy 3D block sans-serif with drop shadow and bevel (for "20"), red gradient glossy 3D block sans-serif with drop shadow and bevel (for "19"), and white uppercase sans-serif, flat, tightly tracked (for "HAPPY NEW YEAR").
+3. The text reading '20', '19', and 'HAPPY NEW YEAR'.

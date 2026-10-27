@@ -1,0 +1,3 @@
+1. The text located at the top arc, left of center, right of center, and bottom arc.
+2. The text with sage/olive painted raised-wood, smooth matte texture, bold slab-serif uppercase, arched top; orange painted raised-wood, smooth matte texture, bold slab-serif uppercase, horizontal left; orange painted raised-wood, smooth matte texture, bold slab-serif uppercase, horizontal right; and sage/olive painted raised-wood, smooth matte texture, bold slab-serif uppercase, arched bottom.
+3. The text reading 'COTTONTAIL'S', 'HAND', 'PICKED', and 'CARROT PATCH'.

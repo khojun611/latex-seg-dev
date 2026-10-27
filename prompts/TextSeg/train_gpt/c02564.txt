@@ -1,0 +1,3 @@
+1. The text located at the center foreground on the green street sign top line, center foreground on the green street sign bottom line, and upper background on the front car license plate.
+2. The text with white painted, smooth texture, serif uppercase, bold, white painted, smooth texture, serif uppercase, smaller size, and black on white reflective plate, smooth texture, sans-serif uppercase plate font.
+3. The text reading 'LILYWOOD CLOSE', 'PRIVATE ROAD', and 'VE68 UMO'.

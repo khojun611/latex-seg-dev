@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-middle, center, and lower center.
+2. The text with red-orange, neon glow texture, hand-lettered script font, cursive neon style; dark blue/gray, 3D marquee with circular light-spot texture, bold block sans-serif font, beveled uppercase marquee style; light blue/cyan, neon glow texture, hand-lettered script font, cursive neon style; deep red/maroon with yellow bulbs, glossy 3D marquee texture, bold slab/retro font, illuminated marquee style.
+3. The text reading 'Less', 'FUSS', 'More', and 'LOVE'.

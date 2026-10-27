@@ -1,0 +1,3 @@
+1. The text located at the far left, left-center, center-left, center, right-center, and far right.
+2. The text with white color, photographic (faces) texture, bold sans-serif font, uppercase cutout style, white color, photographic (faces) texture, bold sans-serif font, uppercase cutout style, white color, photographic (faces) texture, bold sans-serif font, uppercase cutout style, white color, photographic (faces) texture, bold sans-serif font, uppercase cutout style, white color, photographic (faces) texture, bold sans-serif font, uppercase cutout style, and white color, photographic (faces) texture, bold sans-serif font, uppercase cutout style.
+3. The text reading 'W', 'I', 'N', 'D', 'O', and 'W'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center.
+2. The text with white, smooth solid fill, hand-lettered cursive font, decorative script with heart flourish.
+3. The text reading 'Latte'

@@ -1,0 +1,3 @@
+1. The text located at the left-center of the blue rectangular sign, center-right of the blue rectangular sign, and far-right end of the blue rectangular sign.
+2. The text with white painted color, weathered/chipped texture, bold sans-serif font, title-case style, white painted color, weathered/chipped texture, bold sans-serif font, title-case style, and white painted color, weathered/chipped texture, simple geometric symbol font, symbol style.
+3. The text reading 'Victoria', 'Road', and '→'

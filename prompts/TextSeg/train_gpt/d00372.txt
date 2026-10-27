@@ -1,0 +1,3 @@
+1. The text located at the top edge (small centered), the top center (large stylized), the upper center behind the rose (arched gothic), the right-center (script date), the lower center (large), and the bottom edge (small centered).
+2. The text with white flat thin condensed sans-serif uppercase, white solid geometric display with high-contrast cutouts (custom/stylized), white/pink outlined ornate blackletter/gothic condensed uppercase (outlined decorative), white flat ornate cursive script italic, white-to-light-gray gradient bold geometric display with stylized cutouts, and white flat condensed sans-serif uppercase spaced.
+3. The text reading 'ANOTHER PLANET ENTERTAINMENT PRESENTS', 'Lana', 'GREEK THEATRE', 'October 6th 2019', 'Del Rey', and 'BERKELEY, CALIFORNIA'.

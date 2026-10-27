@@ -1,0 +1,3 @@
+1. The text located at the top-left (cursive "FaZe"), left-center (large black "F" logo), center (3D "X"), right (script "Champion"), and bottom-center ("SHOP NOW").
+2. The text with white, smooth, thin cursive/script, handwritten italic; black, glossy/faceted 3D, geometric block logo, extruded shadow; light grey, matte/3D, bold sans-serif, block 3D with drop shadow; silver/metallic, reflective chrome 3D, script/cursive, extruded with shadow; and white, flat, bold condensed sans-serif, uppercase centered.
+3. The text reading 'FaZe', 'F', 'X', 'Champion', and 'SHOP NOW'.

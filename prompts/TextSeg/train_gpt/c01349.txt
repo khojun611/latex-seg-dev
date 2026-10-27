@@ -1,0 +1,3 @@
+1. The text located at the top-center, middle-center, and bottom-right.
+2. The text with black color, smooth solid texture, bold retro serif display font with heavy strokes and flowing ligatures (title-case), black color, smooth solid texture, bold retro serif display font with heavy strokes and flowing ligatures (title-case), and black color, smooth solid texture, small geometric sans-serif within a circled logo.
+3. The text reading 'Stay', 'True', and '(H)'.

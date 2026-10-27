@@ -1,0 +1,3 @@
+1. The text located at the center of the image inside the coffee cup and the top-left corner.
+2. The text with white color, flat smooth texture, condensed uppercase sans-serif font, left-aligned block style inside a translucent dark rectangle and pale pink/darker-pink color, flat smooth texture, stylized rounded 't' icon, simple minimal style.
+3. The text reading 'MAY YOUR COFFEE', 'BE STRONG', 'AND', 'YOUR MONDAY', 'SHORT', and 't'.

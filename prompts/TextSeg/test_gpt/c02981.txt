@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with white color, smooth painted texture, condensed bold sans-serif font, centered bold style, white color, smooth painted texture, condensed bold sans-serif font, centered bold style, and white color, smooth painted texture, condensed bold sans-serif font, centered bold style.
+3. The text reading 'I had my', 'patience tested.', and 'I'm negative.'

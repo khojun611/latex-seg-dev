@@ -1,0 +1,3 @@
+1. The text located at the center (top line), center (below top line), and bottom-right corner.
+2. The text with gold color, metallic textured finish, ornate cursive/calligraphic font and swash style, gold color, metallic textured finish, ornate cursive/calligraphic font and swash style, and dark gray/black color, flat texture, small sans-serif font and plain style.
+3. The text reading 'Le Papillon', 'd'Or', and '© 2010 www.typoatelier.com'.

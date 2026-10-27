@@ -1,0 +1,3 @@
+1. The text located at the top of the sign and the bottom of the sign.
+2. The text with white, glossy, bold condensed sans-serif, uppercase on red background, and dark red, glossy, bold sans-serif, uppercase on white background.
+3. The text reading 'SHARK AREA' and 'SWIM AT YOUR OWN RISK'

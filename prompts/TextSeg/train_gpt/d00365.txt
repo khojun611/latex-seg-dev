@@ -1,0 +1,3 @@
+1. The text located at the top center, center spanning the image, and bottom left.
+2. The text with black solid fill, smooth flat texture, bold condensed sans-serif font, uppercase small size, grayscale photographic fill with photographic texture, extra‑bold condensed sans-serif font, uppercase oversized display, and black solid fill, smooth flat texture, bold geometric sans-serif font, uppercase stacked logo style.
+3. The text reading 'JUST', 'RIDE', and 'CHAIN GEAR 17'.

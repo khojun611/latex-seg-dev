@@ -1,0 +1,3 @@
+1. The text located at the top-right business card, the bottom-left business card, and the center of the bottom-left business card.
+2. The text with black bold uppercase name and small red lowercase label and dark gray sans-serif contact info (smooth flat print), white bold uppercase logo and small white regular sans-serif tagline (smooth flat print), and white small decorative microcopy (smooth flat print).
+3. The text reading 'JHOTI SAHA, graphic designer, +88017XXXXX90 and 0100XXXXX32 and optimis@gmail.com and www.optimis.com and 11 New Road, Panthapath, Dhaka', 'OPTIMIS', 'Creative Studio'

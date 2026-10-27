@@ -1,0 +1,3 @@
+1. The text located at the top center of the sign, the center of the sign, and the bottom center of the sign.
+2. The text with black color, smooth reflective finish, sans-serif font, title-case regular (top), black color, smooth reflective finish, sans-serif font, large bold uppercase main text with smaller regular mixed-case subtext (center), and yellow color on green background, smooth reflective finish, sans-serif font, bold title case (bottom).
+3. The text reading 'Welcome to', 'DULL, Paired with Boring, Oregon, USA', and 'Drive Safely'.

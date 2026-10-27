@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with black, rough marker-filled oval and hand-drawn texture, black, textured brush-calligraphic cursive font with thick-to-thin strokes and hand-drawn texture, and black, rough marker-filled oval and hand-drawn texture.
+3. The text reading 'o', 'pizzadot', and 'o'.

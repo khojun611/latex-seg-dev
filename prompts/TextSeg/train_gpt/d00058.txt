@@ -1,0 +1,3 @@
+1. The text located at the top row, the middle row (center), and the bottom row.
+2. The text with gray, rough/distressed texture, bold block uppercase sans-serif font, distressed style, maroon/dark red, rough/distressed texture, bold block uppercase sans-serif font, distressed style with a yellow glowing crown overlay, and gray, rough/distressed texture, bold block uppercase sans-serif font, distressed style.
+3. The text reading 'ANTI', 'ITTA', and 'ANTI'.

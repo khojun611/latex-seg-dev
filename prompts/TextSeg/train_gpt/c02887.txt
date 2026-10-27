@@ -1,0 +1,3 @@
+1. The text located at the center foreground on the road sign (top line), center foreground on the road sign (bottom line), and the right background on the building.
+2. The text with black, smooth printed on white enamel panel, condensed sans-serif, uppercase bold, black, smooth printed on white enamel panel, sans-serif, uppercase regular, and black, smooth printed on small white sign, sans-serif, title case regular.
+3. The text reading 'WINDSCREENS AVENUE', 'PRIVATE ROAD', and 'Label House'.

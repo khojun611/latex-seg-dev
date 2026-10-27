@@ -1,0 +1,3 @@
+1. The text located at the left round sign (top), the left round sign (bottom), the right round sign (top), and the right round sign (bottom).
+2. The text with blue, painted smooth 3D wood texture, tall condensed sans-serif font, uppercase block style, white, painted smooth 3D wood texture, script cursive font, lowercase handwritten style, blue, painted smooth 3D wood texture, tall condensed sans-serif font, uppercase block style, and white, painted smooth 3D wood texture, script cursive font, lowercase handwritten style.
+3. The text reading 'OWEN', 'joseph', 'CALEB', and 'paul'.

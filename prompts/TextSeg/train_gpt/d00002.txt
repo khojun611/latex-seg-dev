@@ -1,0 +1,3 @@
+1. The text located at the center (large, spanning the middle) and bottom-right.
+2. The text with red scribbled/thread-like texture on a beige background, geometric sans-serif uppercase, bold and cutout/negative-space style, and red scribbled/thread-like texture on a beige background, geometric sans-serif uppercase, smaller, spaced and cutout/negative-space style.
+3. The text reading 'FINAL' and 'LOOKS'.

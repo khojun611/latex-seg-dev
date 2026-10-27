@@ -1,0 +1,3 @@
+1. The text located at the top-center and bottom-center.
+2. The text with maroon color, distressed/faded texture, bold uppercase vintage block font and arched style, and brown color, slightly distressed texture, cursive script font and horizontal style.
+3. The text reading 'FARMERS MARKET' and 'Fresh Local Produce'.

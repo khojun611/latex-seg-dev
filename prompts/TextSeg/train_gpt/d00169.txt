@@ -1,0 +1,3 @@
+1. The text located at the bottom-left emblem, the upper-right area, and the center-right of the image.
+2. The text with white on dark teal background, flat solid texture, bold sans-serif uppercase font, block uppercase style, blue-teal gradient, glossy/gradient texture, script/cursive font, flowing italic style, and dark charcoal/black with subtle gray highlight, matte texture with subtle shadow, script/cursive bold font, handwritten calligraphic style.
+3. The text reading 'SUC', 'Union', and 'Smart'.

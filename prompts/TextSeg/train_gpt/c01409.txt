@@ -1,0 +1,3 @@
+1. The text located at the center background, center foreground, and lower center.
+2. The text with dark charcoal color, flat matte paint on wood texture, bold block serif font, background monogram style; pale cream/white color, smooth raised cutout texture, cursive script font, ornamental swash style; white color, smooth raised or painted texture, small classic serif font, abbreviated established-date style.
+3. The text reading 'W', 'werner', and 'Est. 2001'.

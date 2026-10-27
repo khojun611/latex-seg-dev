@@ -1,0 +1,3 @@
+1. The text located at the top-center oval and the center horizontal pink banner.
+2. The text with white solid texture, bold italic brush-script numerals font, blue outline and drop-shadow style on a magenta oval, and white solid texture, cursive/handwritten font, bold italic with slight dark shadow style on a magenta rectangular banner.
+3. The text reading '1955' and 'Bellos momentos contigo!'.

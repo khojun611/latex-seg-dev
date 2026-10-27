@@ -1,0 +1,3 @@
+1. The text located at the bottom center and just below the bottom center.
+2. The text with white color, solid texture, bold geometric sans-serif font, uppercase, outlined, and the text with white color, solid texture, thin sans-serif font, lowercase with underscore.
+3. The text reading 'PRABOWO', '@SALA_PUTRA_'

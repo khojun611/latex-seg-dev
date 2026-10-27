@@ -1,0 +1,3 @@
+1. The text located at the bottom center.
+2. The text with white color, smooth flat texture, uppercase bold sans-serif font, and modern bold style.
+3. The text reading 'BEETS BY DRE'

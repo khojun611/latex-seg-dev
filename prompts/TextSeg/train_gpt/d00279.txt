@@ -1,0 +1,3 @@
+1. The text located at no locations.
+2. The text with no color, no texture, no font, and no style.
+3. The text reading ''.

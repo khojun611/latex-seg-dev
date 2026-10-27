@@ -1,0 +1,3 @@
+1. The text located at the center-top and the center-bottom (arced within the circular emblem).
+2. The text with black solid fill, smooth texture, bold condensed decorative vintage serif/display font, uppercase, angular/stylized for 'RAD DOGS', and black solid fill, smooth texture, narrow sans-serif uppercase, spaced letters and arced layout for 'BARBERSHOP'.
+3. The text reading 'RAD DOGS' and 'BARBERSHOP'.

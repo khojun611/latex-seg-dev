@@ -1,0 +1,3 @@
+1. The text located at the center foreground (large block letters) and the lower-right foreground overlapping the large letters.
+2. The text with blue-to-pink gradient color, metallic chrome glossy 3D texture, bold block sans-serif font, retro 1980s chrome style, and the text with hot pink neon color, glowing neon tube texture, cursive script font, handwritten neon sign style.
+3. The text reading 'AMT' and 'Design'

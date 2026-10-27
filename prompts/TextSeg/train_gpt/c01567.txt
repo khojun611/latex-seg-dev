@@ -1,0 +1,3 @@
+1. The text located at the top-left, center, and bottom-right.
+2. The text with orange color, smooth painted texture with subtle darker shading, cursive/script font, decorative swirly style, light green color with darker green facets and highlights, beveled 3D texture, geometric serif display font, bold embossed style, and orange color, smooth painted texture with subtle darker shading, cursive/script font, decorative swirly style.
+3. The text reading 'Fly', 'EAGLES', and 'Fly'.

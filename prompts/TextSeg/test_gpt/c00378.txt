@@ -1,0 +1,3 @@
+1. The text located at the left vertical, the right vertical, the center large, and the bottom center.
+2. The text with teal, slightly distressed texture, condensed tall sans-serif font, vertical uppercase; teal, slightly distressed texture, condensed tall sans-serif font, vertical uppercase; coral-red fill with black offset shadow, gritty/distressed texture, bold condensed sans-serif font, horizontal uppercase; and teal, solid/slightly distressed texture, condensed sans-serif font, horizontal uppercase.
+3. The text reading 'KERN', 'CLUB', 'SHADOFAX', and 'CONDENSED'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the image and the lower-right of the image.
+2. The text with black outline and gray shaded fill, rough hand-drawn texture, bold graffiti-style block font, outlined and shadowed, and the text with light gray pencil, smudged texture, handwritten uppercase font, casual scribbled style.
+3. The text reading 'FREEDOM' and '"MARCH 11, 2017"'.

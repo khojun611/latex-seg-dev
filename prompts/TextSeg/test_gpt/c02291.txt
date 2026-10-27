@@ -1,0 +1,3 @@
+1. The text located at the top of the red sign, center of the red sign, and bottom of the red sign.
+2. The text with white color, smooth matte printed texture, bold rounded sans-serif font, center-aligned sentence case, white color, smooth matte printed texture, bold rounded sans-serif font, center-aligned lowercase, and white color, smooth matte printed texture, bold rounded sans-serif font, center-aligned lowercase.
+3. The text reading 'Children must', 'not play on this', and 'site'.

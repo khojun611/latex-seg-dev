@@ -1,0 +1,3 @@
+1. The text located at the left inside a yellow triangle, center-right next to the triangle, and bottom-right small line.
+2. The text with yellow and black, solid texture, symbol glyph font, bold style, yellow, smooth texture, bold sans-serif font, bold style, and white, smooth texture, small sans-serif font, regular style.
+3. The text reading '!', 'Warning', and '[illegible]'.

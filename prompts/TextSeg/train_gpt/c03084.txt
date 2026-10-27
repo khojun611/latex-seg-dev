@@ -1,0 +1,3 @@
+1. The text located at the top-left block, top-center block, top-right block, and bottom block.
+2. The text with red paint, distressed white wooden block background, decorative serif numeral font, large stylized numeral, green paint, distressed white wooden block background, decorative serif numeral font, large stylized numeral, green paint, distressed white wooden block background, classic serif font, mixed-case stacked words, and red paint, distressed white wooden block background, bold serif font, uppercase letters.
+3. The text reading '2', '5', 'Days until', and 'SANTA'

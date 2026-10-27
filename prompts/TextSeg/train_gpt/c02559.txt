@@ -1,0 +1,3 @@
+1. The text located at the center below the map, the lower-center of the sign, and the bottom-center inside the frame.
+2. The text with black, smooth painted texture on stained wood, serif font (classic, medium weight, title case), black, smooth painted texture on stained wood, serif font (classic, large size, medium weight, title case), and black, smooth painted texture on stained wood, serif font (classic, small size, regular weight, lowercase with period).
+3. The text reading 'Lancaster', 'Massachusetts', and 'inc. 1653'.

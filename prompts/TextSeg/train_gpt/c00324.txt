@@ -1,0 +1,3 @@
+1. The text located at the center (inside a speech-bubble slightly above center), and center (directly below the speech-bubble).
+2. The text with white, flat solid, bold sans-serif, digits with subtle red drop-shadow and speech-bubble background, and white, flat solid, bold condensed sans-serif, uppercase letters with pronounced red 3D drop-shadow.
+3. The text reading '414' and 'MILWAUKEE'

@@ -1,0 +1,3 @@
+1. The text located at the left of the wooden sign, the center of the wooden sign, and the right of the wooden sign.
+2. The text with white color, painted-on wood texture, hand-lettered script font, casual cursive style, white color, painted-on wood texture, tall condensed serif font, uppercase block style, and white color, painted-on wood texture, hand-lettered script font, casual cursive style with apostrophe.
+3. The text reading 'happy', 'FALL', and 'y'all'.

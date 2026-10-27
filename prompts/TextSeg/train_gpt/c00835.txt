@@ -1,0 +1,3 @@
+1. The text located at the top-center, center (between the top and bottom words), and lower-center.
+2. The text with white, subtle paper-grain texture with gray drop shadow, hand-lettered brush script font, large bold cursive with drop shadow, white, smooth paper-grain texture, condensed handwritten script font, small decorative cursive, and white, subtle paper-grain texture with gray drop shadow, hand-lettered tall script font, large flowing cursive with drop shadow.
+3. The text reading 'Pirates', 'of the', and 'Caribbean'.

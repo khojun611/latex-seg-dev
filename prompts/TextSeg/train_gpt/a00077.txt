@@ -1,0 +1,3 @@
+1. The text located at the top-right logo area, the center vertical panel (SCOTT CLEMENTS), and the left vertical panel (CONSTRUCTIONS).
+2. The text with green and white, flat/solid texture, geometric logomark (no standard font), angular modern style; lime-green, flat/smooth texture, tall condensed sans-serif (uppercase), vertical orientation, modern style; white, flat/smooth texture, narrow sans-serif (uppercase), vertical orientation, evenly spaced style.
+3. The text reading 'logo (no readable text)', 'SCOTT CLEMENTS', and 'CONSTRUCTIONS'.

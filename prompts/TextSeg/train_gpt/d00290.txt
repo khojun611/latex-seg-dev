@@ -1,0 +1,3 @@
+1. The text located at the center-bottom and the lower-center (reflection).
+2. The text with white outer stroke and sunset-gradient/transparent fill, glossy reflective texture, bold sans-serif font (uppercase, outlined), and blue-tinted semi-transparent fill, rippled water-reflection texture, same bold sans-serif font (uppercase, mirrored).
+3. The text reading 'BANGLADESH' and 'BANGLADESH'.

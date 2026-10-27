@@ -1,0 +1,3 @@
+1. The text located at the top-left of the purple rectangular sign on the vehicle bonnet, the top-right of the purple rectangular sign on the vehicle bonnet, and the bottom-center of the purple rectangular sign on the vehicle bonnet.
+2. The text with white, glossy vinyl, bold sans-serif, uppercase with periods, white, glossy vinyl, bold condensed sans-serif, uppercase, and teal, glossy vinyl, thin sans-serif, uppercase with ampersand.
+3. The text reading 'A.R.', 'HANCOCK', and 'BUILDING & GROUNDWORKS'.

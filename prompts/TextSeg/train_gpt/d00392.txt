@@ -1,0 +1,3 @@
+1. The text located at the top-center overlapping the forehead and sunglasses, the left-middle over the hair and cheek, and the lower-center over the neck and hair.
+2. The text with red color, flat solid texture, high-contrast stylized serif font and bold display style for the top-center 'bd', red color, flat solid texture, thin elegant Didone-like serif font and upright style for the left-middle 'lady', and red color, flat solid texture, decorative serif font with swash/ligature and mixed-case stylized style for the lower-center 'Gaga'.
+3. The text reading 'bd', 'lady', and 'Gaga'.

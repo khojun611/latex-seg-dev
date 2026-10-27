@@ -1,0 +1,3 @@
+1. The text located at the left vertical white strip, the bottom-right corner (the 'Designed by:' line), and the bottom-right corner below it (the designer name).
+2. The text with red, solid flat, hand-drawn sans-serif, uppercase vertical style, black, solid, thin sans-serif, regular sentence-case with colon, and black, solid, sans-serif, uppercase style.
+3. The text reading 'CHRISTMAS', 'Designed by:', and 'TAYYABAH FIRDOUS'.

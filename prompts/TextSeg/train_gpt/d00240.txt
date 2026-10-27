@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with red/pink, rough concrete texture, slab-serif font, bold 3D embossed style; teal/green, rough concrete texture, slab-serif font, bold 3D embossed style; and golden/orange, rough concrete texture, geometric sans-serif font, bold 3D embossed style.
+3. The text reading 'TOUHAMI', 'SWEET', and 'CONCRETE'.

@@ -1,0 +1,3 @@
+1. The text located at the top center and bottom center.
+2. The text with white fill, red layered 3D shading, linear hatch shadow texture, bold hand-lettered script font, ornamental retro style and white fill, red layered 3D shading, linear hatch shadow texture, bold hand-lettered script font, ornamental retro style.
+3. The text reading 'Retro' and 'Polis'.

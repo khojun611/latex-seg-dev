@@ -1,0 +1,3 @@
+1. The text located at the center-bottom and just below center of the image.
+2. The text with white (with red/green/blue chromatic-shadow), heavy TV static and horizontal scanline glitch texture, bold block sans-serif font, uppercase large with chromatic offset, and pale cyan/white (with RGB glitch shadows), thin glitchy/scanline texture, thin geometric sans-serif font, uppercase condensed spaced letters with glitch effect.
+3. The text reading 'VHS' and 'TEXTFX'

@@ -1,0 +1,3 @@
+1. The text located at the left side, the center, and the bottom-right corner.
+2. The text with green, solid, rounded, geometric bold sans‑serif 'C', orange flat smooth heart paired with a black smooth decorative display character (flared-legged, stylized like an 'A' or lambda), and a small green asterisk with black condensed uppercase 'THANKS'.
+3. The text reading 'C', '♥λ', and '* THANKS'

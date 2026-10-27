@@ -1,0 +1,3 @@
+1. The text located at the top-left of the green street sign, the top-center of the green street sign, and the middle-left brown street sign.
+2. The text with white, smooth painted, sans-serif, bold uppercase; white, smooth painted, sans-serif, large bold numerals with smaller underlined "TH" and uppercase "ST"; and white, smooth painted, sans-serif condensed, bold uppercase.
+3. The text reading 'W', '55 TH ST', and 'TASTE OF MIDWAY BLVD'.

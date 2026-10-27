@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, and bottom center.
+2. The text with white color, embossed/raised weathered texture, bold condensed sans-serif font, and uppercase style, white color, embossed/raised weathered texture, bold condensed sans-serif font, and uppercase style, and white color, embossed/raised weathered texture, bold condensed sans-serif font, and uppercase style.
+3. The text reading 'PREVENT', 'FOREST', and 'FIRES'.

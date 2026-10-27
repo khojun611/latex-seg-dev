@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center, lower-center, and bottom-center of the sign.
+2. The text with white color, smooth glossy printed texture, bold rounded sans‑serif font, mixed‑case centered style for the upper-center, white color, smooth glossy printed texture, bold rounded sans‑serif font, very large bold centered style for the center, white color, smooth glossy printed texture, bold rounded sans‑serif font, medium bold centered style for the lower-center, and white color, smooth glossy printed texture, bold rounded sans‑serif font, medium bold centered style for the bottom-center.
+3. The text reading 'Brayden's', 'Space', 'Welcome to the', and 'Final Frontier'.

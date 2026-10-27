@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-middle center, middle center, lower-middle center, lower center, and bottom center.
+2. The text with yellow color, dotted texture, bold decorative uppercase display font and playful marquee style, dark charcoal color, smooth texture, modern script font and hand-lettered style, bright pink color, dotted texture, bold decorative uppercase font and playful marquee style, golden yellow color, smooth texture, brush script font and cursive hand-lettered style, bright pink color, smooth texture, small script font and cursive style, and dark charcoal color, dotted texture, bold decorative uppercase font and playful marquee style.
+3. The text reading 'MOMS', 'are the', 'REAL', 'superheroes', 'of the', and 'WORLD'.

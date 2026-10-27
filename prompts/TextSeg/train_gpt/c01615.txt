@@ -1,0 +1,3 @@
+1. The text located at the top-center map area, the top-right map/logo area, and the center blue panel above the window.
+2. The text with blue color, flat matte texture, sans-serif font, simple block style, navy blue (with red roundel), flat matte texture, sans-serif font, official logo style, and white fill with blue outline and yellow drop shadow on blue background, glossy texture, cursive decorative script font, ornate swirly style.
+3. The text reading 'Zone 2', 'Transport for London', and 'Piccadilly'.

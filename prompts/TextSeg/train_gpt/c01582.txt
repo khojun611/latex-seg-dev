@@ -1,0 +1,3 @@
+1. The text located at the top-left of the arch, top-right of the arch, lower-left beneath the arch, and lower-right beneath the arch.
+2. The text with silver metallic raised embossed letters, blocky uppercase sans-serif, arched (top-left), silver metallic raised embossed letters, blocky uppercase sans-serif, arched (top-right), silver metallic raised smaller embossed letters, condensed uppercase sans-serif, angled (lower-left), and silver metallic raised smaller embossed letters, condensed uppercase sans-serif, angled (lower-right).
+3. The text reading 'BERLINER', 'MASCHINENBAU', 'ACTIEN-', and 'GESELLSCHAFT'.

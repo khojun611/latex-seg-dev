@@ -1,0 +1,3 @@
+1. The text located at the top-right, center-right, and bottom-right.
+2. The text with brown color with dark shadow and beige highlight, smooth painted texture with beveled 3D/embossed effect, bold rounded sans-serif font, title-case, the text with brown color with dark shadow and beige highlight, smooth painted texture with beveled 3D/embossed effect, bold rounded sans-serif font, mixed-case with apostrophe, and the text with brown color with dark shadow and beige highlight, smooth painted texture with beveled 3D/embossed effect, bold rounded sans-serif font, title-case.
+3. The text reading 'Snowy', 'and Bonny's', and 'Home'.

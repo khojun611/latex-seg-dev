@@ -1,0 +1,3 @@
+1. The text located at the center of the image.
+2. The text with white fill, black shadow and pink highlights, smooth vector texture, bold script/brush font, cursive 3D hand-lettered style.
+3. The text reading 'Hustle'

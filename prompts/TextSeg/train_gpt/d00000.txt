@@ -1,0 +1,3 @@
+1. The text located at the upper-middle, lower-left, and lower-right of the image.
+2. The text with dark brown/black color, rough distressed ink texture, bold condensed block sans-serif font, uppercase/distressed style; peach/orange color, smooth matte texture with slight distress, narrow humanist sans-serif font, title case style; light blue color, flat printed texture, bold geometric sans-serif font, regular style.
+3. The text reading 'stance', 'nd Chicago', and '2018'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-center, just below the word (underline), and bottom-center on the marker tip.
+2. The text with gold, metallic glitter texture, brush-script font, hand-lettered style, gold, metallic glitter texture, solid brush-stroke, underline style, and gold, metallic glitter texture, marker-nib printed style, marker-tip style.
+3. The text reading 'Victory', '—', and 'N/A'.

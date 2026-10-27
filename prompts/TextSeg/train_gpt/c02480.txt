@@ -1,0 +1,3 @@
+1. The text located at the left side of the sign, the center of the sign, the upper-right corner of the sign, and the lower-right corner of the sign.
+2. The text with white color and yellow halo, reflective/illuminated texture, bold condensed sans-serif (Highway Gothic style), uppercase single-letter; white color and yellow halo, reflective/illuminated texture, bold sans-serif (Highway Gothic/Clearview style), mixed-case word; white color and yellow halo, reflective/illuminated texture, bold condensed sans-serif (Highway Gothic style), uppercase abbreviation; and white color and yellow halo, reflective/illuminated texture, bold sans-serif, numeric digits.
+3. The text reading 'W', 'Waters', 'AVE', and '3500'.

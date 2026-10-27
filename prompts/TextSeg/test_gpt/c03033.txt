@@ -1,0 +1,3 @@
+1. The text located at the center-top and center-bottom.
+2. The text with black-to-dark-gray gradient, glossy/metallic texture, bold rounded sans-serif font, lowercase bold style and black-to-dark-gray gradient, glossy/metallic texture, extra-bold rounded sans-serif font, lowercase bold style.
+3. The text reading 'summit' and 'homes'.

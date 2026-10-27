@@ -1,0 +1,3 @@
+1. The text located at the top center, lower left, and bottom center on the leaf.
+2. The text with green, grass texture, bold block sans-serif, uppercase, white on dark-blue rounded-square background, smooth flat texture, sans-serif logo font, logo style, and light green, leaf-embossed with water-droplet texture, cursive script, embossed handwritten style.
+3. The text reading 'AMR', 'Ps', and 'magic'.

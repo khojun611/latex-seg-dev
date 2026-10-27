@@ -1,0 +1,3 @@
+1. The text located at the top of the sign, the center of the sign, and the bottom of the sign.
+2. The text with white color, glossy/enamel texture, serif font, uppercase style; white color, glossy/enamel texture, serif font, uppercase style; and white color, glossy/enamel texture, serif font, title-case style.
+3. The text reading 'QUAI', 'DE LA PETITE FRANCE', and 'Em Kleine Frankrich'.

@@ -1,0 +1,3 @@
+1. The text located at the top center of the white dialog box overlay, the center of the dialog below the title, the bottom-left button area of the dialog, and the bottom-right button area of the dialog.
+2. The text with black color, smooth flat texture, system sans-serif (iOS San Francisco) font, bold style; dark gray color, smooth flat texture, system sans-serif (iOS San Francisco) font, regular style; blue color, smooth flat texture, system sans-serif (iOS San Francisco) font, regular style; and blue color, smooth flat texture, system sans-serif (iOS San Francisco) font, semibold style.
+3. The text reading 'Reminder', 'It's time for a vacation', 'Options', and 'Close'.

@@ -1,0 +1,3 @@
+1. The text located at the center-left ('WIL') and center-right ('SON').
+2. The text with white fill and yellow highlights, painted/stippled texture with gray/black 3D shading, bold 3D block sans-serif hand-lettered font, uppercase heavy 3D drop-shadow style; and white fill with yellow outline and black stroke, painted with stippled/dotted texture, hand-lettered cursive/script font, flowing ornamental swash style.
+3. The text reading 'WIL' and 'SON'.

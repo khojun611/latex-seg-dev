@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the sign ('Frutas y') and the lower-center of the sign ('Legumbres').
+2. The text with red fill and yellow outline, hand-painted brush texture, bold rounded hand-lettered font, outlined display style for 'Frutas y', and green fill and yellow outline, hand-painted brush texture, bold rounded hand-lettered font, outlined display style for 'Legumbres'.
+3. The text reading 'Frutas y' and 'Legumbres'.

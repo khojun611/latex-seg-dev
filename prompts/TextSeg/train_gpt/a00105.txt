@@ -1,0 +1,3 @@
+1. The text located at the left of the blue bar, the center of the blue bar, and the right of the blue bar.
+2. The text with white color, smooth flat painted texture, geometric sans-serif font, mixed-case regular style, the text with white color, smooth flat painted texture, glyph symbol (bidirectional arrow), bold symbol style, and the text with white color, smooth flat painted texture, geometric sans-serif font, title-case regular style.
+3. The text reading 'Port', '↔', and 'Centre Ville'.

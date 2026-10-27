@@ -1,0 +1,3 @@
+1. The text located at the upper-right panel, the mid-right panel, and the lower-right panel.
+2. The text with white color, smooth glossy vinyl/paint texture on red metal, bold condensed sans-serif font, mixed-case stacked style, white color, smooth glossy vinyl/paint texture on red metal, bold sans-serif font, uppercase with 'MC#' prefix and numbers, and white color, smooth glossy vinyl/paint texture on red metal, bold sans-serif font, uppercase with 'USDOT#' prefix and numbers.
+3. The text reading 'Chickadee Trucking LLC', 'MC# 777504', and 'USDOT# 2270876'.

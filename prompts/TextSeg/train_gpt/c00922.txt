@@ -1,0 +1,3 @@
+1. The text located at the top of the white signboard (center), the middle of the white signboard, and the lower-left of the white signboard.
+2. The text with red fill with yellow shadow and black outline, rough painted stucco texture, bold block uppercase sans-serif hand-painted font, bold uppercase drop-shadow style, blue fill with yellow shadow and black outline, rough painted stucco texture, condensed italic hand-painted sans-serif/script font, slanted brush-script style, black fill, rough painted stucco texture, cursive hand-painted font, lowercase script style.
+3. The text reading 'SERVICIO ELECTRONICO', 'REP. DE T.V. HORNOS DE H. Y OTROS', and 'tel:'

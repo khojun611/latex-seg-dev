@@ -1,0 +1,3 @@
+1. The text located at the upper-center and center.
+2. The text with orange-yellow fill and red 3D shadow, chalk-like texture, bold uppercase sans-serif font, 3D extruded/drop-shadow style, and yellow fill with blue 3D shadow and outline, chalk-like texture, bold uppercase sans-serif font, 3D extruded/outlined style.
+3. The text reading '#MEMORIAL' and 'STAY'

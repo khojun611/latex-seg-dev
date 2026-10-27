@@ -1,0 +1,3 @@
+1. The text located at the top-center and center-bottom.
+2. The text with orange, solid printed, bold rounded display font, stylized uppercase and white, solid printed on black background, narrow tall sans font, uppercase.
+3. The text reading 'STIG' and 'SKATEBOARD CLUB'

@@ -1,0 +1,3 @@
+1. The text located at the top-center of the sign, the center of the sign beneath the title, and the bottom-center of the sign.
+2. The text with dark grey/black color, cracked aged paint texture, serif uppercase bold, the text with dark grey/black color, cracked aged paint texture, serif uppercase regular (smaller), and the text with dark grey/black color, cracked aged paint texture, serif uppercase regular with spaced hyphens.
+3. The text reading 'STATION DRIVE', 'LEADING TO WOODFIELD CLOSE & BOWLAS AVE.', and 'CUL - DE - SAC'.

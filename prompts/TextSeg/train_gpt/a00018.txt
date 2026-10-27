@@ -1,0 +1,3 @@
+1. The text located at the upper center, middle center, and lower center.
+2. The text with dark purple, smooth solid fill, rounded sans-serif, medium-bold, title-case; dark purple, smooth solid fill, rounded sans-serif, regular weight, lowercase, smaller size; and dark purple, smooth solid fill, rounded sans-serif, bold, title-case, larger size.
+3. The text reading 'Goff', 'the', and 'Plumber'.

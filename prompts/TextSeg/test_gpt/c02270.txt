@@ -1,0 +1,3 @@
+1. The text located at the top-center inside the card near the upper border, the center of the card, and the lower-center of the card above the hearts.
+2. The text with black color, flat printed texture, rounded sans-serif font, mixed-case semi-bold style; black color, flat printed texture, typewriter/monospace font, lowercase regular style; and black color, flat printed texture, mixed fonts (small typewriter for "is her" and large rounded sans-serif bold for "Daddy").
+3. The text reading 'A Daughter's', 'first love', and 'is her Daddy'.

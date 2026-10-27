@@ -1,0 +1,3 @@
+1. The text located at the top-center of the sign, the lower-center of the sign, and the lower-left and lower-right beside the lower-center text.
+2. The text with white color, smooth painted/metal texture, condensed serif uppercase font, embossed/raised style, white color, smooth painted/metal texture, condensed serif uppercase font, embossed/raised style, and white color, smooth painted/metal texture, circular dot glyphs, embossed/raised style.
+3. The text reading 'ZAMPERINI', 'FIELD', and '• •'

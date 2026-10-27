@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the stone-panel facade, the mid-center of the stone-panel facade, and the lower-center of the stone-panel facade.
+2. The text with white color and black shadow, smooth glossy 3D raised texture, tall condensed sans-serif mixed-case stylized lettering, white color and black shadow, smooth glossy 3D raised texture, narrow condensed sans-serif uppercase block lettering, and white color and black shadow, smooth glossy 3D raised texture, very tall condensed sans-serif uppercase lettering.
+3. The text reading 'Bellagio', 'EXPRESS', and 'CAR WASH'.

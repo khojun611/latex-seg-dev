@@ -1,0 +1,3 @@
+1. The text located at the center-left, center-right, and bottom-center.
+2. The text with orange-brown, flat texture, geometric sans-serif (thin, slightly spaced) style, yellow-orange, flat texture, geometric sans-serif (thin, slightly spaced) style, and black/red, flat texture, hand-drawn logo/glyph style.
+3. The text reading 'Deer', 'Lion', and 'A'.

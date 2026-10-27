@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center, just below center, lower-center, and bottom-right.
+2. The text with pale pink, slightly distressed paper texture, elegant thin serif font, title-case centered; pale pink, slightly distressed paper texture, large elegant serif with swash/ligature, title-case centered; dark charcoal-gray, smooth texture, classic serif font, small lowercase centered; dark charcoal-gray, smooth texture, classic serif font, lowercase centered; light gray, smooth texture, very small serif (copyright line), fine weight.
+3. The text reading 'In', 'Quest', 'for typographic', 'excellence', and '© 2011 www.typoatelier.com'.

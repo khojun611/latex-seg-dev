@@ -1,0 +1,3 @@
+1. The text located at the top-center on the white rectangular panel, the upper-left of the black panel, and directly below that on the black panel.
+2. The text with dark red, smooth matte, bold sans-serif numerals (large and rounded), white, smooth matte, regular sans-serif mixed-case lettering (upright), and white, smooth matte, regular sans-serif mixed-case lettering (upright).
+3. The text reading '218', 'Fireside', and 'Room'.

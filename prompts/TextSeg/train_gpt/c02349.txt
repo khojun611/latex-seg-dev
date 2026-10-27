@@ -1,0 +1,3 @@
+1. The text located at the upper-center (left-to-mid of the top line), upper-center-right (right of the top line), and center-lower (second line center).
+2. The text with red color, slightly grainy printed texture on aged paper, serif bold font, sentence/ title-case and punctuation, red color, slightly grainy printed texture on aged paper, serif bold font, lowercase, red color, slightly grainy printed texture on aged paper, serif bold font, lowercase and centered.
+3. The text reading 'I'm waiting Honey,', 'waiting', and 'here for you'

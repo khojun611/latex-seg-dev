@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the white sheet, and the lower-center of the white sheet.
+2. The text with a purple-to-teal glossy gradient, black outline/drop shadow, white highlight accents, smooth marker/brush texture, hand-lettered brush script, and the text with a green-to-blue glossy gradient, black outline/drop shadow, white highlight accents, smooth marker/brush texture, hand-lettered brush script.
+3. The text reading 'sweater' and 'weather'.

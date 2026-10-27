@@ -1,0 +1,3 @@
+1. The text located at the top center (upside-down), bottom center, left vertical, and right vertical.
+2. The text with coral-orange color, flat solid texture, bold geometric sans-serif font, uppercase style and upside-down, coral-orange color, flat solid texture, bold geometric sans-serif font, uppercase style, golden-yellow color, flat solid texture, bold condensed sans-serif font, uppercase style and vertically rotated, and golden-yellow color, flat solid texture, bold condensed sans-serif font, uppercase style and vertically rotated.
+3. The text reading 'ILLHAND', 'ILLHAND', 'KERN CLUB', and 'KERN CLUB'.

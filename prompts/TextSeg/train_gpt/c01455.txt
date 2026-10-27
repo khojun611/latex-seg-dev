@@ -1,0 +1,3 @@
+1. The text located at the top arc, left small rectangle, right small rectangle, and bottom arc.
+2. The text with yellow-orange color, flat solid texture, bold playful display font, arched style, black color, flat solid texture, bold condensed sans-serif font, stacked two-line style, black color, flat solid texture, bold condensed sans-serif font, stacked two-line style, and yellow-orange color, flat solid texture, bold playful display font, arched style.
+3. The text reading 'TROPIC SIGN', 'KERN', 'CLUB', and 'DISPLAY FONT'.

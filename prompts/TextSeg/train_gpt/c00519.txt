@@ -1,0 +1,3 @@
+1. The text located at the bottom-right overlapping the right character, and on the pink ribbon beneath it.
+2. The text with white fill, brown outline and dark drop-shadow, smooth 3D layered texture, bold cursive/script font, hand-lettered style, and white uppercase fill on a pink ribbon, flat texture, bold condensed sans-serif font, banner/all-caps style.
+3. The text reading 'Untouchable', 'COLLECTION'.

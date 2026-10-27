@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the sign, upper-right of the sign, and lower-center of the sign.
+2. The text with black, distressed/worn texture, bold vintage serif display font, uppercase bold; black, distressed/worn texture, bold vintage serif display font, uppercase bold; and black, slightly distressed texture, cursive script font, lowercase cursive.
+3. The text reading 'BAKED', 'FRESH', and 'daily'.

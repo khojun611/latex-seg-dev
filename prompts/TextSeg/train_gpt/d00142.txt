@@ -1,0 +1,3 @@
+1. The text located at the top-left (large 8), across the center-left hair ribbon (Women's), near the upper-right hairline (Day), and at the lower-right under the chin (March).
+2. The text with bright yellow solid fill, smooth texture, bold rounded display-style for 8, bright yellow solid fill, smooth texture, cursive calligraphic script for Women's, bright yellow solid fill, smooth texture, small cursive script for Day, and bright yellow solid fill, smooth texture, cursive calligraphic script with swash for March.
+3. The text reading '8', 'Women's', 'Day', and 'March'.

@@ -1,0 +1,3 @@
+1. The text located at the center-left, lower-center, and top-right.
+2. The text with white outline, smooth stroke texture, bold geometric sans-serif outline font, large lowercase outlined style, red, rough painted brush texture, bold slanted brush-script font, uppercase handwritten brush style, and white with small red square, solid flat texture, condensed bold sans-serif font, small stacked uppercase style.
+3. The text reading 'social media', 'IGREJA', and 'ARENA OUT BOX'.

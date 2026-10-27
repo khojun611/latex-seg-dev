@@ -1,0 +1,3 @@
+1. The text located at the upper sign left, the upper sign center-right, the lower sign center-top, the lower sign center-bottom, and the lower sign right.
+2. The text with white color, matte painted texture, bold sans-serif highway-style font, and arrow symbol style; white color, matte painted texture, bold sans-serif highway-style font, and titlecase style; white color, matte painted texture, bold sans-serif highway-style font, and titlecase style; white color, matte painted texture, bold sans-serif highway-style font, and titlecase style; and white color, matte painted texture, bold sans-serif highway-style font, and arrow symbol style.
+3. The text reading '←', 'Paso Jama', 'Toconao', 'Paso Sico', and '→'.

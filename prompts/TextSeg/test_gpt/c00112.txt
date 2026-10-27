@@ -1,0 +1,3 @@
+1. The text located at the upper-center ('FOR THE'), center ('Love'), left-center ('OF'), and lower-center ('Letters').
+2. The text with white thin sans-serif uppercase, smooth flat fill for 'FOR THE', white multi-line outlined hand-lettered script, decorative retro for 'Love', white thin sans-serif uppercase, smooth flat fill for 'OF', and white multi-line outlined hand-lettered script, decorative retro for 'Letters'.
+3. The text reading 'FOR THE', 'Love', 'OF', and 'Letters'.

@@ -1,0 +1,3 @@
+1. The text located at the center foreground parking sign, the lower area of the same parking sign, the left building facade under the peaked roof, the blue strip sign under the left building canopy, and the rear/roof of the yellow car on the right.
+2. The text with white, smooth, bold sans-serif, uppercase large; white, smooth, sans-serif, mixed-case with slash; dark blue/gray, smooth, cursive script, sentence-case; white, smooth, narrow sans-serif, uppercase condensed; black, smooth, bold sans-serif, uppercase on yellow background.
+3. The text reading 'P', 'Mutter/Kind', 'Herzlich willkommen', 'BIS SA. 8-22 UHR', and 'ADAC'.

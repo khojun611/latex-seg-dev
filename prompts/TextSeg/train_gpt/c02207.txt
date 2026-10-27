@@ -1,0 +1,3 @@
+1. The text located at the left of the sign, the right of the sign, and the lower-left of the sign.
+2. The text with black painted, weathered/chipped texture, bold uppercase sans-serif block style, black painted, weathered/chipped texture, bold uppercase sans-serif block style, and black painted, heavily faded texture, small condensed sans-serif worn style.
+3. The text reading 'EAST', 'ROAD', and '10 MPH'

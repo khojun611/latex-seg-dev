@@ -1,0 +1,3 @@
+1. The text located at the lower-left, lower-center, and lower-right.
+2. The text with blue, smooth ink texture, cursive font, calligraphic style, magenta, painted brush texture, brushstroke font, decorative style, and blue, smooth ink texture, cursive font, calligraphic style.
+3. The text reading 'Specially', 'W', and 'for you'.

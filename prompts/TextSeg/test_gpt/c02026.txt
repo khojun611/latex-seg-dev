@@ -1,0 +1,3 @@
+1. The text located at the top-center and center.
+2. The text with red color, embossed/3D textured, block uppercase sans-serif font, arched style and blue color, painted brush texture, hand-lettered brush script font, bold brushy style.
+3. The text reading 'JOIN ME' and 'FOR'.

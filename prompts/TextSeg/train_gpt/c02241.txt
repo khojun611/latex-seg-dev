@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, and bottom center.
+2. The text with black color, embossed metal texture, bold uppercase sans-serif font, worn/vintage style, black color, embossed metal texture, bold uppercase sans-serif font, worn/vintage style, and black color, embossed metal texture, bold uppercase sans-serif font, worn/vintage style.
+3. The text reading 'TRAVEL', 'AT YOUR', and 'OWN RISK'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-center, and middle-center.
+2. The text with yellow, smooth painted texture, hand-painted rounded display font, uppercase bold slightly italic; magenta/purple, matte brush-painted texture with visible strokes, hand-painted blocky geometric display font, uppercase bold decorative; magenta/purple, matte brush-painted texture with visible strokes, hand-painted blocky geometric display font, uppercase bold decorative.
+3. The text reading 'PRESENTS', 'FINE', and 'WINE'.

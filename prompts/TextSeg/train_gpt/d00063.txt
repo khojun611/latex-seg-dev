@@ -1,0 +1,3 @@
+1. The text located at the center, the lower-left beneath the main title, and the lower-right overlapping the main title.
+2. The text with white fill and cyan/magenta glitch outlines, glossy neon 3D/glitched texture, bold condensed sans‑serif display font, uppercase block with horizontal glitch lines; white fill with pink/magenta shadow, flat slightly embossed texture, narrow condensed sans‑serif font, small uppercase subtitle style; bright cyan/teal fill with darker outline and glow, smooth hand‑drawn texture, casual handwritten script font, playful cursive style.
+3. The text reading 'LED', 'QUIXERAMOBIM-CE', and 'Party'.

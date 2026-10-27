@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the white card, upper-center/right of the white card, and lower-center of the white card.
+2. The text with purple-to-magenta gradient color, smooth brush-marker texture, hand-lettered brush script font, bold cursive style, blue-to-teal gradient color, smooth brush-marker texture, hand-lettered brush script font, bold cursive style, and yellow-to-orange-to-red-to-pink gradient color, smooth brush-marker texture, hand-lettered brush script font, bold cursive style.
+3. The text reading 'keep', 'moving', and 'Forward'.

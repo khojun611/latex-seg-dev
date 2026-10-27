@@ -1,0 +1,3 @@
+1. The text located at the top center, lower left, lower center, and middle right.
+2. The text with light cyan color, flat solid texture, serif display font, bold weight; magenta color, flat solid texture, serif display font, extra-large uppercase; magenta color, flat solid texture, serif display font, extra-large uppercase; and magenta color, flat solid texture, serif display font, small lowercase spaced.
+3. The text reading 'mermaid bold', 'A', 'B', and 'a b c'.

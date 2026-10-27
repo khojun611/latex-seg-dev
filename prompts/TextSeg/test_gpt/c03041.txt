@@ -1,0 +1,3 @@
+1. The text located at the top-right, center-right, just-below-center, lower-right, and bottom-right.
+2. The text with dark brown color, smooth printed-on-wood texture, rounded slab-serif font, regular weight, dark brown color, smooth printed-on-wood texture, rounded slab-serif font, regular weight, dark brown color, smooth printed-on-wood texture, rounded slab-serif font, regular weight, dark brown color, smooth printed-on-wood texture, rounded slab-serif font, regular weight, and dark brown color, smooth printed-on-wood texture, rounded slab-serif font, regular weight.
+3. The text reading 'Warning', 'Alex', 'is', 'grumpy', and 'without coffee'.

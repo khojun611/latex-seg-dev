@@ -1,0 +1,3 @@
+1. The text located at the upper-center-left of the notebook page, the upper-center-right of the notebook page, and the center of the notebook page.
+2. The text with teal/turquoise gradient, watercolor/brush texture, hand-lettered brush script (decorative swash), light aqua-to-cyan gradient, watercolor/marker texture, hand-lettered brush script (casual), and blue gradient, watercolor brush texture, bold hand-lettered brush script (modern calligraphy).
+3. The text reading 'A', 'New', and 'Start!'.

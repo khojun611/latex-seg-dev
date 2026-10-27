@@ -1,0 +1,3 @@
+1. The text located at the top-left triangle of the yellow header, the center of the yellow header, and the bottom-center/right inside the book/info icon.
+2. The text with black color, smooth matte printed texture, symbol glyph (no standard font) and bold warning style, black color, smooth matte printed texture, bold sans-serif uppercase style, and black color, smooth matte printed texture, simple sans-serif lowercase style.
+3. The text reading '!', 'AIRBAG', and 'i'.

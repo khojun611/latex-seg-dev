@@ -1,0 +1,3 @@
+1. The text located at the bottom center below the shoes.
+2. The text with black color, solid flat texture, bold uppercase sans-serif font, and uppercase bold style.
+3. The text reading 'POKEMON TRAINERS'.

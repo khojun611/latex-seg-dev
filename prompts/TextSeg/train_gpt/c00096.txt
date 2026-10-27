@@ -1,0 +1,3 @@
+1. The text located at the top-center of the sign and the center of the sign.
+2. The text with yellow painted, smooth/slightly weathered texture, cursive/script font, italic/cursive style and red painted with white outline, smooth/slightly weathered texture, bold sans-serif display font, uppercase bold style.
+3. The text reading 'Western Holiday' and 'MOTEL'

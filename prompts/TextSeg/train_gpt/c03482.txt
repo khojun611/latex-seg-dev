@@ -1,0 +1,3 @@
+1. The text located at the upper rectangular sign and the lower circular sign.
+2. The text with black, smooth printed, bold sans-serif (DIN-like), mixed-case non-italic for the upper sign, and black, smooth reflective printed, bold sans-serif numeric (traffic-sign font), non-italic for the circular sign.
+3. The text reading 'Bitte leise', '30'

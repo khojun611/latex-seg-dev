@@ -1,0 +1,3 @@
+1. The text located at the top center, bottom left, and bottom center.
+2. The text with black, smooth matte print, thin sans-serif font, regular title-case, black, smooth matte print, thin sans-serif font, regular title-case, and black, smooth matte print, thin sans-serif font, regular title-case.
+3. The text reading 'Please', 'No', and 'Photography'.

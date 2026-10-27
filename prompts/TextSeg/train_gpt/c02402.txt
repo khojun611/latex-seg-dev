@@ -1,0 +1,3 @@
+1. The text located at the center of the metal street sign, and at the lower-center of the same street sign.
+2. The text with dark grey/black color, painted smooth metal texture, bold sans-serif uppercase font, weathered style, and faded pink color, painted smooth metal texture, small sans-serif uppercase font, faded style.
+3. The text reading 'PEPPER HILL' and 'DY8'.

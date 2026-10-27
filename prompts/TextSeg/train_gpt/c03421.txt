@@ -1,0 +1,3 @@
+1. The text located at the upper-left on the stone slab, center-left on the stone slab, and bottom-center on the stone slab.
+2. The text with black color, slightly distressed speckled texture, narrow tall condensed sans-serif font, uppercase thin/distressed style, black color, distressed ink‑stamped texture, bold condensed sans-serif font, uppercase bold/distressed style, and black color, slightly uneven solid line texture, no font (graphic line), simple underline style.
+3. The text reading 'THE', 'CLIFF HOUSE', and '_____'.

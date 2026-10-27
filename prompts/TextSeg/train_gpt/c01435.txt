@@ -1,0 +1,3 @@
+1. The text located at the left side of the purple rectangular panel, the center of the purple rectangular panel, and the right side of the purple rectangular panel.
+2. The text with bright orange fill, white edge highlight, dark navy drop shadow, painted matte texture, bold 3D block sans-serif-like font and beveled style, bright orange fill, white edge highlight, dark navy drop shadow, painted matte texture, bold 3D block sans-serif-like font and beveled style, and bright orange fill, white edge highlight, dark navy drop shadow, painted matte texture, bold 3D stylized serif-like font and beveled style.
+3. The text reading 'Y', 'E', and 'S'

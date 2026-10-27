@@ -1,0 +1,3 @@
+1. The text located at the top yellow directional sign, the upper line of the lower white directional sign, and the lower line of the lower white directional sign.
+2. The text with black color on a yellow reflective honeycomb background, reflective honeycomb texture, sans-serif (DIN-like) font, bold sentence case, black color on a white reflective background, smooth reflective texture, sans-serif (DIN-like) font, bold sentence case, and black color on a white reflective background, smooth reflective texture, sans-serif (DIN-like) font, bold sentence case.
+3. The text reading 'Maikammer', 'Stadion', and 'Sporthalle'.

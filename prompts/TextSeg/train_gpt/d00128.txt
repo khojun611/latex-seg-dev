@@ -1,0 +1,3 @@
+1. The text located at the top-center and bottom-center.
+2. The text with red, rough brush-stroke texture, brush-style font, and uppercase stylized lettering, and black, rough brush-stroke texture, brush-style font, and uppercase stylized lettering.
+3. The text reading 'THE' and 'SCENATORS'.

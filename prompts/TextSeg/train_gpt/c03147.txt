@@ -1,0 +1,3 @@
+1. The text located at the center below the map, and the text located below that.
+2. The text with dark gray/black color, smooth painted texture, serif font, and regular style, and dark gray/black color, smooth painted texture, serif font, and regular style.
+3. The text reading 'Rutland', and 'Massachusetts'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the brick wall, the middle-center of the brick wall, and the lower-center of the brick wall.
+2. The text with black, painted on rough weathered brick, stenciled serif font, uppercase bold weathered, black, painted on rough weathered brick, stenciled serif font, uppercase bold weathered, and black, painted on rough weathered brick, stenciled serif font, uppercase bold weathered.
+3. The text reading 'CARTELES', 'NO', and 'MULTA 500PTS'.

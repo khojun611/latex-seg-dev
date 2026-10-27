@@ -1,0 +1,3 @@
+1. The text located at the center of the image (large colorful 3D heading) and centered below the heading (white subtitle).
+2. The text with multicolored (blue/orange/teal) letters with white dot accents, 3D extruded block texture, bold geometric display font, uppercase marquee 3D style, and white, flat texture, bold geometric sans-serif font, uppercase flat subtitle style.
+3. The text reading 'LANEWAY' and 'CABARET'.

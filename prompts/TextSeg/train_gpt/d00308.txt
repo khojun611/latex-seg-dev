@@ -1,0 +1,3 @@
+1. The text located at the center-left of the shirt, center-right of the shirt, bottom-center of the shirt, and on the collar tag.
+2. The text with red fill, distressed/grainy texture, bold condensed sans-serif, uppercase filled block letters; black/dark outline (no fill), smooth texture, bold condensed sans-serif, uppercase outlined block letters; navy/dark blue solid, smooth texture, narrow bold sans-serif, uppercase solid letters; and black printed on white tag, smooth paper-print texture, small sans-serif, numeric/barcode style.
+3. The text reading 'NEVER', 'STOP', 'THE', 'HUSTLE', 'CHIPOLITOS', and '14'.

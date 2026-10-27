@@ -1,0 +1,3 @@
+1. The text located at the upper-center and lower-center.
+2. The text with red fill, yellow highlights, teal/green outline, gray drop shadow, hand-drawn 3D block serif, bold uppercase and cartoon style; and red fill, yellow highlights, teal/green outline, gray drop shadow, hand-drawn 3D rounded digits with a yellow smiley face for '0' and a wine bottle illustration for '1', bold and cartoon style.
+3. The text reading 'BEAUJOLAIS' and '2019'.

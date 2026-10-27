@@ -1,0 +1,3 @@
+1. The text located at the center-top, center, and center-bottom and bottom-right.
+2. The text with red color, distressed/grainy texture, bold slab‑serif uppercase lettering, stacked layout, red ampersand inside a white circular badge with red outline and distressed texture, bold slab‑serif, and black color, distressed/grainy texture, bold slab‑serif uppercase inverted (upside‑down) lettering and small gray sans‑serif copyright text.
+3. The text reading 'TYPE GOES WEB', '&', and 'WEB GOES TYPE and © 2011 www.typeatelier.com'

@@ -1,0 +1,3 @@
+1. The text located at the upper-left, upper-center to upper-right, and lower-center.
+2. The text with magenta fill with white outline, dripping paint texture, bold brush-script graffiti, magenta fill with white outline, dripping paint texture, bold brush-script graffiti, and magenta fill with white outline, dripping paint texture, bold brush-script graffiti.
+3. The text reading 'The', 'Great', and 'Divide'.

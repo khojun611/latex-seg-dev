@@ -1,0 +1,3 @@
+1. The text located at the top-center of the yellow sign on the sidewalk, the center of the yellow sign on the sidewalk, and the bottom-center of the yellow sign on the sidewalk.
+2. The text with black, smooth painted texture, bold sans-serif font, uppercase block style, black, smooth painted texture, bold sans-serif font, uppercase block style, and black, smooth painted texture, bold geometric symbol, solid filled style.
+3. The text reading 'GOOD', 'BEER', and '←'.

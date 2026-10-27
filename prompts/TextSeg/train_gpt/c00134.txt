@@ -1,0 +1,3 @@
+1. The text located at the top center (slightly left), center, and lower center (slightly right).
+2. The text with dark teal color, smooth flat texture, hand-drawn script font, flowing cursive style, pastel pink color, smooth flat texture, hand-lettered tall sans-serif font, uppercase playful style, and bright red color, smooth flat texture, hand-drawn script font, bold cursive with flourish style.
+3. The text reading 'You're', 'DOING', and 'great!'.

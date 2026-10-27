@@ -1,0 +1,3 @@
+1. The text located at the top-center of the helmet and the lower front-center of the helmet.
+2. The text with black, glossy, block sans-serif font, uppercase bold, and black, glossy, cursive script font, decorative/stylized.
+3. The text reading 'KIM' and 'Ann'.

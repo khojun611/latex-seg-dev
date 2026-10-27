@@ -1,0 +1,3 @@
+1. The text located at the left, center (compass), center-right, and far right.
+2. The text with pale off-white color, thin smooth outline texture, geometric sans-serif font, outlined uppercase style for 'L'; pale off-white color, thin smooth outline texture, graphic (no font), illustrated circular compass line-art style for 'O'; pale off-white color, thin smooth outline texture, geometric rounded sans-serif font, outlined uppercase style for 'S'; and pale off-white color, thin smooth outline texture, geometric sans-serif font, outlined uppercase style for 'T'.
+3. The text reading 'L', 'O', 'S', and 'T'.

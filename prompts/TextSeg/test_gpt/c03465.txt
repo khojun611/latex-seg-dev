@@ -1,0 +1,3 @@
+1. The text located at the left edge, center-left, center-right, and right edge of the image.
+2. The text with yellow color, rough/gritty painted texture, stencil-like sans-serif font, and uppercase block style.
+3. The text reading 'L', 'I', 'N', and 'E'.

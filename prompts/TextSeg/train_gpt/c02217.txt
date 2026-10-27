@@ -1,0 +1,3 @@
+1. The text located at the top-center and bottom-center.
+2. The text with white, glossy, condensed sans-serif font, uppercase, and white, glossy, condensed sans-serif font, uppercase.
+3. The text reading 'YOUR NAME HERE ST.' and 'MICHAEL JACKSON ST.'

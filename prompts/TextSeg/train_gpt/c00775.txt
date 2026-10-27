@@ -1,0 +1,3 @@
+1. The text located at the center-lower area, the center-lower area with a blue extruded offset to the bottom-right, and the center-lower area with an orange/peach drop shadow offset to the bottom-left.
+2. The text with pale pink/white color, grainy/speckled texture, hand-lettered script font, bold cursive style, blue color, smooth/solid texture, matching script font, 3D extruded style, and orange/peach color, flat texture, matching script font, soft drop-shadow style.
+3. The text reading 'Pride', 'Pride', and 'Pride'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center ('The'), across the center diagonally (center-left to center-right) ('Hunter'), below center-left ('Valley'), and below center-right ('Chocolate').
+2. The text with (dark brown, distressed/grainy, thin script/cursive font, decorative ornate style), (coral/salmon, speckled/distressed, thick brush-script font, large hand-lettered with drop shadow), (dark chocolate brown, slightly distressed, casual script font, medium hand-lettered with swashes), and (dark brown, distressed, flowing script font, medium-large hand-lettered with swashes).
+3. The text reading 'The', 'Hunter', 'Valley', and 'Chocolate'.

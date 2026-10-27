@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center, and lower-center of the card.
+2. The text with dark teal/gray, hand-painted brush texture, hand-lettered uppercase font, bold decorative style; dark teal/gray, smooth ink/brush texture, handwritten cursive font, flowing script style with underline; and dark teal/gray, brush-painted texture with shading, hand-lettered uppercase font, bold decorative shadowed style.
+3. The text reading 'TIME', 'is', and 'PRECIOUS'.

@@ -1,0 +1,3 @@
+1. The text located at the left-center background, the right-center background, and the center foreground.
+2. The text with dark gray, low-opacity, heavy bold sans-serif uppercase, dark gray, low-opacity, heavy bold sans-serif numerals, and white, solid, thin geometric sans-serif with wide letter-spacing.
+3. The text reading 'Nº', '52', and 'ONCE IN A WHILE RENDERS'.

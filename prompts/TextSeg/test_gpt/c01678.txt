@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center, and lower-center.
+2. The text with black, smooth solid fill, brush-script handwritten font, bold cursive style, black, smooth solid fill, brush-script handwritten font, bold cursive style with exclamation, and black, smooth solid fill, brush-script handwritten font, bold cursive style.
+3. The text reading 'Happy', 'Birthday!', and 'Kynlee'.

@@ -1,0 +1,3 @@
+1. The text located at the top center (arched), the left side (vertical), the right side (vertical), and the bottom center (curved).
+2. The text with magenta, flat solid fill, decorative Western-style display font, arched uppercase; magenta, flat solid fill, decorative Western-style display font, vertical stacked uppercase; magenta, flat solid fill, decorative Western-style display font, vertical stacked uppercase; and magenta, flat solid fill, decorative Western-style display font, curved uppercase.
+3. The text reading 'YEE HAW', 'KERN', 'CLUB', and 'COWBOY'.

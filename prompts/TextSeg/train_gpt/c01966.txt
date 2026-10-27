@@ -1,0 +1,3 @@
+1. The text located at the upper-center-left (JON), upper-center (THE), upper-center-right (BARBER), center-below-top (BONAFIDE), lower-center-left (ESTD), and lower-center-right (MMXVI).
+2. The text with off-white, distressed/grainy texture, bold vintage serif, uppercase (JON), off-white, distressed/grainy texture, condensed serif, uppercase boxed/banner (THE), off-white, distressed/grainy texture, bold vintage serif, uppercase (BARBER), off-white, distressed/grainy texture, bold vintage serif, larger uppercase (BONAFIDE), muted rose/red, lightly distressed texture, small serif/uppercase (ESTD), and muted rose/red, lightly distressed texture, small serif/uppercase (MMXVI).
+3. The text reading 'JON', 'THE', 'BARBER', 'BONAFIDE', 'ESTD', and 'MMXVI'.

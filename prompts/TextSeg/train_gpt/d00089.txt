@@ -1,0 +1,3 @@
+1. The text located at the left-center of the wall, just to the right of that left-center (a dot), and the center-right of the wall.
+2. The text with gold metallic color, brushed metal texture, bold rounded sans-serif font, 3D extruded glossy style, gold metallic color, brushed metal texture, circular bold sans-serif dot, 3D extruded glossy style, and gold metallic color, brushed metal texture, bold rounded sans-serif font, 3D extruded glossy style.
+3. The text reading 'H', '.', and 'Ahmed'.

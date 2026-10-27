@@ -1,0 +1,3 @@
+1. The text located at the top (420 and 187), the upper sides (KERN and CLUB), and the bottom arc (COBRA HAM).
+2. The text with yellow blocky stencil numerals, flat solid fill and slightly rough hand-drawn edges, black bold display letters with yellow outline, flat smooth fill and jagged decorative serif style, and black bold display letters with yellow outline, flat smooth fill and curved arrangement.
+3. The text reading '420 and 187', 'KERN and CLUB', and 'COBRA HAM'.

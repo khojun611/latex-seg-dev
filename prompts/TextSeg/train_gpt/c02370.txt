@@ -1,0 +1,3 @@
+1. The text located at the upper area of the red rectangular panel below the dog image and the text located at the lower area of the red rectangular panel.
+2. The text with white color, faded/distressed texture, bold geometric sans-serif font, uppercase style and the text with white color, faded/distressed texture, bold geometric sans-serif font, uppercase style with angled quotation marks.
+3. The text reading 'PERROS' and '«NO»'.

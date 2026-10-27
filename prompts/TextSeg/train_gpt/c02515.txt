@@ -1,0 +1,3 @@
+1. The text located at the bottom-left yellow panel (top line), the bottom-left yellow panel (middle line), the bottom-left yellow panel (bottom line), and the bottom-right faded red/pink panel.
+2. The text with black, smooth printed texture, bold sans-serif font, uppercase style; black, smooth printed texture, regular sans-serif font, sentence-case style; black, smooth printed texture, regular sans-serif font, sentence-case style; and white, weathered/faded printed texture, bold sans-serif font, sentence-case style.
+3. The text reading 'Danger', 'Strong currents', 'Hidden hazards', and 'No Swimming'.

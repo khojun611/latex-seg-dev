@@ -1,0 +1,3 @@
+1. The text located at the top of the sign, the upper-middle of the sign, the lower-middle of the sign, and the bottom of the sign.
+2. The text with black, flat painted, bold condensed sans-serif (road-sign style), uppercase; black, flat painted, bold condensed sans-serif (road-sign style), uppercase; black, flat painted, bold condensed sans-serif (road-sign style), uppercase; and black, flat painted, bold condensed sans-serif (road-sign style), uppercase.
+3. The text reading 'CAUTION', 'WATER ON ROAD', 'DURING', and 'RAIN'.

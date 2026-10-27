@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with gold metallic grainy decorative serif (ornamental/vintage) for the top element, white with gold/grey 3D shading smooth script (calligraphic, swashy) for the center element, and gold metallic grainy bold serif uppercase (embossed/vintage poster) for the bottom element.
+3. The text reading '20', 'Mine', and 'TEEN'.

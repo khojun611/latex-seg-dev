@@ -1,0 +1,3 @@
+1. The text located at the center of the image over the shoreline.
+2. The text with white color, smooth beveled/embossed texture, Didot/Bodoni-like high-contrast serif font, and uppercase display style with a soft drop shadow.
+3. The text reading 'FONTS'.

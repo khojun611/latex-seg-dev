@@ -1,0 +1,3 @@
+1. The text located at the center-left large numerals, the bottom-right inside the left box of the rectangular stamp, and the bottom-right inside the right box of the rectangular stamp.
+2. The text with coral-red color, grainy paper texture, bold decorative serif font with swash-like terminals and large display style, coral-red color, grainy paper texture, sans-serif font and bold boxed label style, and coral-red color, grainy paper texture, sans-serif font and regular boxed label style.
+3. The text reading '2369', 'Ps', and 'Tutorial'.

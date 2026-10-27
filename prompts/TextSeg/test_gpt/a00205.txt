@@ -1,0 +1,3 @@
+1. The text located at the upper center of the red octagon and the lower center of the red octagon.
+2. The text with white color, flat painted texture, bold sans-serif font, uppercase style and white color, flat painted texture, bold sans-serif font, uppercase style.
+3. The text reading 'STOP' and 'H1N1'

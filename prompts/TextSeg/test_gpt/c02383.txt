@@ -1,0 +1,3 @@
+1. The text located at the top-center of the canvas, the center of the canvas (upper line), and the center of the canvas (lower line).
+2. The text with black, flat printed, symbol/glyph (star) font, four filled stars and one outlined star; black, flat printed, slab‑serif font, lowercase, opening quotation mark and centered; and black, flat printed, slab‑serif font, lowercase, closing quotation mark, period and centered.
+3. The text reading '★ ★ ★ ★ ☆', '"would poop', 'here again."'.

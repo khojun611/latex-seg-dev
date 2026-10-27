@@ -1,0 +1,3 @@
+1. The text located at the top center, center-left, and bottom center.
+2. The text with navy blue letters with white outline, smooth painted raised 3D texture, bold serif font, drop-shadowed titlecase; teal/dark turquoise letters, smooth painted raised 3D texture, script/cursive font, flowing connected swash style; and multicolored (pink, light pink, lime green, teal, navy, gray, pink) letters, smooth painted raised 3D texture, bold block sans-serif font, all-caps chunky style.
+3. The text reading 'The', 'Foxy', and 'TEACHER'.

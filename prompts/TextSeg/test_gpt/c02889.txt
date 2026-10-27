@@ -1,0 +1,3 @@
+1. The text located at the bottom-left on the small book, and at the center-right on the large book.
+2. The text with black color, matte peach paper texture, bold rounded sans-serif font, capitalized initial (True love), and black color, matte orange cloth/hardcover texture, bold rounded sans-serif font, mixed case with uppercase 'OK' and lowercase 'love'.
+3. The text reading 'True love', and 'OK love'.

@@ -1,0 +1,3 @@
+1. The text located at the left side of the sign, the right side of the sign, and the center of the sign.
+2. The text with white painted letters, slightly raised/embossed texture, serif uppercase font, classic bold style, white painted letters, slightly raised/embossed texture, serif uppercase font, classic bold style, and none (N/A).
+3. The text reading 'QUIET', 'STREET', and ''.

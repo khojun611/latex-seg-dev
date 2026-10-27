@@ -1,0 +1,3 @@
+1. The text located at the top-left inside the framed glass, the center inside the framed glass, and the bottom-center inside the framed glass.
+2. The text with black, smooth painted texture, cursive/script font, ornamental style, black, smooth painted texture, bold serif/display font with decorative swashes style, and black, smooth painted texture, bold hand-lettered numerals, simple numeric style.
+3. The text reading 'The', 'BAKER'S', and '5·6·2018'.

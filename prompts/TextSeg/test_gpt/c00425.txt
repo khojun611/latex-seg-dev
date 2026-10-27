@@ -1,0 +1,3 @@
+1. The text located at the top arc of the circular badge, the central horizontal rectangular panel, and the bottom arc of the circular badge.
+2. The text with light cyan color, flat solid texture, narrow tall condensed sans-serif font, uppercase elongated style, red/pink color, flat solid texture, narrow ultra-condensed sans-serif font, uppercase compressed style, and light cyan color, flat solid texture, narrow tall condensed sans-serif font, uppercase elongated style.
+3. The text reading 'KERN CLUB', 'OBSESSED COMPRESSED', and 'EXCLUSIVE'.

@@ -1,0 +1,3 @@
+1. The text located at the top-right of the sign, the upper-center of the sign, the center of the sign, the lower-center of the sign, and the bottom-center of the sign.
+2. The text with white color, matte painted texture, bold rounded sans-serif font (in box), white color, matte painted texture, sans-serif italic font, mixed-case style, white color, matte painted texture, sans-serif italic font, title-case style, white color, matte painted texture, sans-serif bold font, uppercase style, and white color, matte painted texture, sans-serif bold font, uppercase style.
+3. The text reading '6', 'Ráschúrsa', 'Cill Bheagáin', 'KILBEGGAN', and 'RACECOURSE'.

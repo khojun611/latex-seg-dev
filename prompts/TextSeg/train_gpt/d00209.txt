@@ -1,0 +1,3 @@
+1. The text located at the left side ("I Make"), the center ("Look"), the right side ("Good"), and the bottom-center ("15").
+2. The text with black, glossy vinyl texture, handwritten script/cursive font, slanted/cursive style, black, glossy vinyl texture, handwritten script/cursive font, slanted/cursive style, black, glossy vinyl texture, handwritten script/cursive font, slanted/bold cursive style, and black, glossy vinyl texture, bold rounded display numerals font, upright style.
+3. The text reading 'I Make', 'Look', 'Good', and '15'.

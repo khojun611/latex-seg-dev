@@ -1,0 +1,3 @@
+1. The text located at the left of the top panel (hospital 'H' symbol), the center of the top panel (Amphia Langendijk), and the center of the lower panel (volg route).
+2. The text with white on blue, smooth flat, sans-serif, bold uppercase, dark navy/black on white strip with blue border, smooth flat, sans-serif, medium-weight titlecase, and white on blue, smooth flat, sans-serif, bold lowercase.
+3. The text reading 'H', 'Amphia Langendijk', and 'volg route'.

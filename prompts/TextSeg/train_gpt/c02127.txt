@@ -1,0 +1,3 @@
+1. The text located at the top center, middle-left, middle-right, and bottom center.
+2. The text with white, glossy/enamel, bold block sans‑serif, uppercase very large (STOP), white, glossy/enamel, bold sans‑serif, uppercase (THIS), white, glossy/enamel, bold sans‑serif, uppercase (KILLING), and white, glossy/enamel, bold sans‑serif, uppercase with exclamation on black background (DRIVE CAREFULLY!).
+3. The text reading 'STOP', 'THIS', 'KILLING', and 'DRIVE CAREFULLY!'.

@@ -1,0 +1,3 @@
+1. The text located at the top center, the upper-middle across the center (diagonal), the center-lower, and the bottom center.
+2. The text with cream (yellow shadow) and dark teal drop-shadow, flat solid texture, bold 3D sans-serif font, uppercase extruded style, white, flat smooth texture, flowing hand-lettered script font, cursive style, cream (yellow shadow) and dark teal drop-shadow, flat solid texture, bold 3D sans-serif font, uppercase extruded style, and white, flat smooth texture, flowing hand-lettered script font, cursive style.
+3. The text reading 'YOUR', 'Adventure', 'BEGINS', and 'Here!'.

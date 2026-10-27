@@ -1,0 +1,3 @@
+1. The text located at the top-center of the card and center of the card.
+2. The text with green gradient, brush-marker texture, hand-lettered brush script, cursive calligraphic style and orange-yellow-green gradient, brush-marker texture, hand-lettered brush script, cursive calligraphic style with thin black outline.
+3. The text reading 'alles' and 'Gute'.

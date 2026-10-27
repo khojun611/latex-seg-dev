@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-center, center, and lower-center.
+2. The text with lime-to-teal gradient color, painted brush texture, hand-lettered decorative serif font with swashes, and 3D embossed/drop-shadow style; teal-to-green gradient color, painted brush texture, hand-lettered decorative serif font, and 3D embossed/drop-shadow style; magenta-to-violet gradient color, painted brush texture, hand-lettered decorative serif font, and 3D embossed/drop-shadow style; and purple-to-pink gradient color, painted brush texture, hand-lettered decorative serif font with swashes, and 3D embossed/drop-shadow style.
+3. The text reading 'LESS', 'FEAR', 'MORE', and 'HOPE'.

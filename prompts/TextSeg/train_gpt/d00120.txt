@@ -1,0 +1,3 @@
+1. The text located at the center-top, the center-below-left, and the center-below-right.
+2. The text with dark charcoal, smooth solid texture, high-contrast serif font, uppercase elegant style, warm copper/orange, thin hand-drawn texture, script/ligature font, cursive underlined style, and warm copper/orange, thin hand-drawn texture, script/ligature font, cursive underlined style.
+3. The text reading 'JASPER', 'Ligature', and 'Font'.

@@ -1,0 +1,3 @@
+1. The text located at the top sign left ('Tea'), top sign center ('For'), top sign right ('Two'), bottom sign top line center ('Appalachian'), bottom sign bottom line left ('Quilt'), and bottom sign bottom line right ('Cabin').
+2. The text with teal/turquoise color, smooth painted/negative-space cutout texture, decorative script/cursive font, cutout sign style, and the text with maroon/burgundy color, smooth painted/negative-space cutout texture, decorative script/cursive font, cutout sign style.
+3. The text reading 'Tea', 'For', 'Two', 'Appalachian', 'Quilt', and 'Cabin'

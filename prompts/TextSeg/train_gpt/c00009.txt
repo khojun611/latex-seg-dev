@@ -1,0 +1,3 @@
+1. The text located at the left side of the red ribbon, the center of the red ribbon, and the right side of the red ribbon.
+2. The text with white, smooth/flat, bold rounded sans-serif, uppercase and slightly arched with subtle brown outline and drop shadow, white, smooth/flat, bold rounded sans-serif, centered ampersand with subtle brown outline and drop shadow, and white, smooth/flat, bold rounded sans-serif, uppercase and slightly arched with subtle brown outline and drop shadow.
+3. The text reading 'CART', '&', and 'BREW'.

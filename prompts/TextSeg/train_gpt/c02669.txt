@@ -1,0 +1,3 @@
+1. The text located at the top-right of the upper half and the top-center of the lower half.
+2. The text with black, flat texture, condensed bold sans-serif font, title/mixed case and black, flat texture, condensed bold sans-serif font, title/mixed case.
+3. The text reading '25 Years Difference' and '40 Years Difference'

@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and lower-center.
+2. The text with white, smooth solid paint, sans-serif bold uppercase, white, smooth solid paint, sans-serif bold uppercase, and white, smooth solid paint, sans-serif regular title case (ends with a period).
+3. The text reading 'BE AFRAID', 'AND', and 'Do It Anyway.'

@@ -1,0 +1,3 @@
+1. The text located at the left arc, top-center arc, and right arc.
+2. The text with white fill, thin gold outline, black drop shadow, smooth engraved texture, condensed tall serif font, uppercase and arched, white fill, thin gold outline, black drop shadow, smooth engraved texture, condensed tall serif font, uppercase and arched, and white fill, thin gold outline, black drop shadow, smooth engraved texture, condensed tall serif font, uppercase and arched.
+3. The text reading 'LES ATELIERS', 'MAGIQUES', and 'DE'.

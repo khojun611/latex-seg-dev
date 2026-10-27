@@ -1,0 +1,3 @@
+1. The text located at the left (I), center (CAN), and right (T).
+2. The text with dark gray color, smooth matte texture, serif font, italic style, dark gray color, smooth matte texture, serif font, italic style, and dark gray color with red hand-drawn scribble overlay, smooth matte texture, serif font, italic style.
+3. The text reading 'I', 'CAN', and 'T'.

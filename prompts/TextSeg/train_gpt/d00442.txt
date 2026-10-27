@@ -1,0 +1,3 @@
+1. The text located at the top-center, the lower-center, and the bottom-center.
+2. The text with black, smooth, serif (thin high-contrast) font, widely letter-spaced title-case, black, slightly grainy, serif font, small italicized centered credit line, and black, slightly grainy, serif font, small italicized centered name.
+3. The text reading 'Emine', 'Written & Directed by', and 'Özge Akarsu'.

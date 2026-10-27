@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center, and bottom-center.
+2. The text with golden yellow color, buttery/dripping texture, bold uppercase display font with black outline and shadow, golden yellow color, buttery/dripping texture, bold uppercase display font with black outline and shadow, and black color, flat texture, condensed uppercase sans-serif font, plain style.
+3. The text reading 'THE BUTTER', 'MUFFIN', and 'AKA THE OTHER MUFFIN'.

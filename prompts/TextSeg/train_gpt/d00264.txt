@@ -1,0 +1,3 @@
+1. The text located at the left-center, center-right, and bottom-center.
+2. The text with black decorative textured brush-style script (ornamental strokes), black solid bold rounded geometric sans-serif slightly italicized, and black smooth thin condensed uppercase sans-serif with wide letter-spacing.
+3. The text reading 'Drive', 'WHEELS', and 'THE CORPORATE'S RIDE'.

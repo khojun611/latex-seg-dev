@@ -1,0 +1,3 @@
+1. The text located at the top-center and center of the chalkboard.
+2. The text with light teal color, chalky textured fill on a blackboard, hand-drawn condensed sans-serif font, outlined decorative uppercase style; and bright teal color, chalky textured fill with visible brush strokes, hand-lettered script font, bold flowing cursive style.
+3. The text reading 'HAPPY', 'Birthday'.

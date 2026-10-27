@@ -1,0 +1,3 @@
+1. The text located at the left character chest near the collar, the left character torso, the right character upper chest, the right character torso, and the right character chest near the collar.
+2. The text with white, matte smooth circular logo texture, bold rounded sans-serif font and clean style, white, slightly distressed/grunge texture, bold uppercase sans-serif font and worn/smudged style, white, thin sans-serif font, smooth texture and sponsor-style uppercase, white, slightly distressed/grunge texture, bold uppercase sans-serif font and worn/smudged style, and white, matte smooth circular logo texture, bold rounded sans-serif font and clean style.
+3. The text reading '100T', 'THIEVES', 'ROCKET', 'THIEVES', and '100T'.

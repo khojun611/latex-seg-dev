@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the white sign (top line), the center of the white sign (middle line), and the lower-center of the white sign (bottom line).
+2. The text with black/dark-gray color, slightly distressed painted texture, narrow sans-serif lowercase style for the top line, black/dark-gray color, slightly distressed painted texture, thin sans-serif lowercase style for the middle line, and black/dark-gray color, slightly distressed painted texture, bold condensed sans-serif uppercase style for the bottom line.
+3. The text reading 'done', 'is better than', and 'PERFECT'.

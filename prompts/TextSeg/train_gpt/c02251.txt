@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-middle-center, middle-center, and bottom-center.
+2. The text with black color, smooth matte printed texture, sans-serif font, bold uppercase, black color, smooth matte printed texture, sans-serif font, bold uppercase, black color, smooth matte printed texture, sans-serif font, bold uppercase, and black color, smooth matte printed texture, serif font, regular uppercase.
+3. The text reading 'MY FIRST', 'VALENTINE', 'IS MY DADDY', and 'AVA ROSE'.

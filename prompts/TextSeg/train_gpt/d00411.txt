@@ -1,0 +1,3 @@
+1. The text located at the center (large word) and bottom-center (small word).
+2. The text with white, outlined (hollow) stroke texture, geometric decorative sans-serif font with internal diamond-cut details, uppercase thin outlined style, and white, solid fill texture, condensed sans-serif font, uppercase very thin spaced style.
+3. The text reading 'TENRE' and '4STYLES'

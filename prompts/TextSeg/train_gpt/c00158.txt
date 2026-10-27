@@ -1,0 +1,3 @@
+1. The text located at the center-left and center-right of the image.
+2. The text with cream/off-white color, hand-drawn brush-stroke texture with visible internal teal accents, hand-lettered script/brush font, decorative bold cursive with swashes for 'Silver', and cream/off-white color, hand-drawn brush-stroke texture with visible internal teal accents, hand-lettered script/brush font, decorative cursive for 'lining'.
+3. The text reading 'Silver' and 'lining'.

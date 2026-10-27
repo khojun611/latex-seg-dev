@@ -1,0 +1,3 @@
+1. The text located at the top-center, center-right, bottom-left (upper), and bottom-left (lower).
+2. The text with dark green, smooth matte painted texture, bold decorative serif display font, and all-caps stylized block letters, dark green, smooth matte painted texture, bold decorative serif display font, and all-caps stylized block letters, red with white outline, smooth painted texture, script/cursive font, and swash titlecase style, and red, smooth painted texture, condensed serif font, and all-caps block style.
+3. The text reading 'DINO'S', 'PLACE', 'Straub', and 'BREWERY INC'.

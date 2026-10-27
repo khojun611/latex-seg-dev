@@ -1,0 +1,3 @@
+1. The text located at the lower-left, lower-center-left, lower-center, lower-center-right, lower-right-center, and lower-right of the image.
+2. The text with yellow color, smooth glossy plastic texture, bold rounded sans-serif font, and uppercase rounded style.
+3. The text reading 'L', 'E', 'M', 'O', 'N', and 'S'.

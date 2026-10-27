@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center-lower, and center-right.
+2. The text with green brush-stroke textured cursive calligraphic font and decorative swashes, dark gray/black brush-stroke textured cursive calligraphic font with flourishes, and dark gray brush-stroke textured stylized punctuation.
+3. The text reading 'Good', 'Morning', and '!'.

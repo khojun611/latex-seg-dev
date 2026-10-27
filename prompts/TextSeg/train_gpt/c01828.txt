@@ -1,0 +1,3 @@
+1. The text located at the top center arc, the left middle, the right middle, and the bottom center.
+2. The text with black color, flat solid texture, bold quirky retro display font, arched/curved style, black color, flat solid texture, condensed block display font, stacked all-caps style, black color, flat solid texture, condensed block display font, stacked all-caps style, and black color, flat solid texture, heavy irregular rounded display font, straight baseline.
+3. The text reading 'FONT THE', 'KERN CLUB', 'COOL FONT', and 'WORLD'.

@@ -1,0 +1,3 @@
+1. The text located at the top of the rectangular wall sign, the middle of the rectangular wall sign, and the bottom of the rectangular wall sign.
+2. The text with gray color, slightly weathered painted texture, condensed sans-serif uppercase font, bold style, gray color, slightly weathered painted texture, condensed sans-serif uppercase font, bold style, and gray color, slightly weathered painted texture, condensed sans-serif uppercase font, bold larger-size style.
+3. The text reading 'CARRER', 'DE LA', and 'RIBERA'.

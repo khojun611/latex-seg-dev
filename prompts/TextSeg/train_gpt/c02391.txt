@@ -1,0 +1,3 @@
+1. The text located at the upper-center (left of top line), upper-center (right of top line), and mid-center (below top line).
+2. The text with white, painted/stenciled texture, bold block sans-serif (stencil-like) font, uppercase style, white, painted/stenciled texture, bold block sans-serif (stencil-like) font, uppercase style, and white, painted/stenciled texture, bold block sans-serif (stencil-like) font, uppercase style.
+3. The text reading 'SHORT', 'GAME', and 'AREA'.

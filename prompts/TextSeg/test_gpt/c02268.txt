@@ -1,0 +1,3 @@
+1. The text located at the top of the yellow panel, the middle of the yellow panel, and the bottom of the yellow panel.
+2. The text with black color, slightly weathered/chipped printed texture, bold sans-serif font, large bold title-case centered, the text with black color, slightly weathered/chipped printed texture, bold sans-serif font, medium bold title-case centered, and the text with black color, slightly weathered/chipped printed texture, bold sans-serif font, medium bold lowercase centered.
+3. The text reading 'Warning', 'Shallow', and 'water'.

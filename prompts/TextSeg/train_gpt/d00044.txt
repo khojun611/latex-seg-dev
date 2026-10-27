@@ -1,0 +1,3 @@
+1. The text located at the center (slightly above middle), center (middle), and center (below middle).
+2. The text with maroon/dark red color, painted/brush texture, brush-script font, hand-lettered cursive style, teal/turquoise color, flat texture, bold geometric sans-serif font, uppercase block style, and dark brown color, smooth texture, thin sans-serif font, regular style.
+3. The text reading 'obrigada', 'THANKS', and 'lhdrxdesign@gmail.com'.

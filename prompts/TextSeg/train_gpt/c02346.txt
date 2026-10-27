@@ -1,0 +1,3 @@
+1. The text located at the top-center of the green sign, lower-left edge (cropped/unreadable), and lower-right edge (cropped/unreadable).
+2. The text with white color, solid texture, bold uppercase sans-serif font and bold uppercase style, white color, solid texture, unknown font and unreadable style, and white color, solid texture, unknown font and unreadable style.
+3. The text reading 'NOTTASTE', '[unreadable]', and '[unreadable]'.

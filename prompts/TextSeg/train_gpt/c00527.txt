@@ -1,0 +1,3 @@
+1. The text located at the upper-left arc of the circular badge, upper-center arc of the circular badge, and upper-right arc of the circular badge.
+2. The text with white fill and dark-blue outline, smooth flat texture, bold geometric sans-serif uppercase font, arched on a circular band, white fill and dark-blue outline, smooth flat texture, bold geometric sans-serif uppercase font, arched on a circular band, and white fill and dark-blue outline, smooth flat texture, bold geometric sans-serif uppercase font, arched on a circular band.
+3. The text reading 'MY', 'SERVICE', and 'CLUB'.

@@ -1,0 +1,3 @@
+1. The text located at the center-left and center-right of the sign.
+2. The text with black color, painted texture, bold sans-serif font, uppercase style and black color, painted texture, bold sans-serif font, uppercase style.
+3. The text reading 'TINKERS' and 'HOLE'.

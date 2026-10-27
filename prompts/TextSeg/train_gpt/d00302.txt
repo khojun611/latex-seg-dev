@@ -1,0 +1,3 @@
+1. The text located at the upper-left, top-center, middle-left, lower-left, and bottom-center.
+2. The text with white, subtle grainy texture, narrow condensed sans-serif font, small uppercase spaced; white, grainy texture with hollow interior, bold geometric display font, very large outlined uppercase; white, subtle grainy texture, bold sans-serif font, medium uppercase; white, subtle grainy texture, bold sans-serif font, small uppercase; and white, subtle grainy texture, condensed sans-serif font, small uppercase.
+3. The text reading 'MODERN', 'RETRO', 'MODEL', 'SUDE TÜLÜ', and 'SAMET KAHRIMAN'.

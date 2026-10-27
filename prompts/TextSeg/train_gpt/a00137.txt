@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with white color, flat solid texture, heavy condensed sans-serif font, bold uppercase, white color, flat solid texture, heavy condensed sans-serif font, bold uppercase, and white color, flat solid texture, heavy condensed sans-serif font, bold uppercase.
+3. The text reading 'LET'S HAVE NATIONAL', 'CITIZEN SERVICE', and 'FOR 16 YEAR-OLDS'

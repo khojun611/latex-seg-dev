@@ -1,0 +1,3 @@
+1. The text located at the bottom-center of the image on the red sign (top line), bottom-center of the image on the red sign (middle line), and bottom-center of the image on the red sign (bottom line).
+2. The text with white, smooth printed on red background, rounded sans-serif, bold lowercase, white, smooth printed on red background, rounded sans-serif, regular lowercase, and white, smooth printed on red background, rounded sans-serif, regular lowercase.
+3. The text reading 'porte coupe-feu', 'ne pas mettre d'obstacle', and 'à la fermeture'.

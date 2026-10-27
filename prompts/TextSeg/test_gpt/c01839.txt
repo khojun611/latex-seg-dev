@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with dark teal/black color, rough painted/chalk-like texture, hand-drawn uppercase rounded sans-serif font and small-caps style, glossy dark teal/black color, brush-painted texture with white highlight accents, hand-lettered cursive script font and bold swash style, and glossy dark teal/black color, brush-painted texture with white highlight accents, hand-lettered cursive script font and bold swash style.
+3. The text reading 'GOOD', 'Food', and 'Mood'.

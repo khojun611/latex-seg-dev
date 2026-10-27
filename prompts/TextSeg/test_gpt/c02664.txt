@@ -1,0 +1,3 @@
+1. The text located on the right wall near the top corner, on the right wall below that, on the right wall further down, and on the right wall near the bottom.
+2. The text with white color, smooth projected light texture, bold sans-serif font, and upright regular style.
+3. The text reading 'I don't', 'even know', 'words', and 'to say.'

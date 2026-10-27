@@ -1,0 +1,3 @@
+1. The text located at the top background "SOCIAL", the center foreground "// SOCIAL", "MEDIA //", and "VOL. 1", and the bottom background "MEDIA".
+2. The text with dark-red, flat matte, very large, semi-transparent bold sans-serif uppercase (top background), bright white with black drop-shadow, smooth, bold sans-serif uppercase and bright yellow solid narrow slashes (center foreground), and dark-red, flat matte, very large, semi-transparent bold sans-serif uppercase (bottom background).
+3. The text reading 'SOCIAL', '// SOCIAL, MEDIA //, and VOL. 1', and 'MEDIA'.

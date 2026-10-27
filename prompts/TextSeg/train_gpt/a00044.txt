@@ -1,0 +1,3 @@
+1. The text located at the top-center of the yellow sign.
+2. The text with purple fill and dark blue outline, smooth flat painted texture, rounded sans-serif font, bold title-case style.
+3. The text reading 'Welcome'

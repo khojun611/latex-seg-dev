@@ -1,0 +1,3 @@
+1. The text located at the signboard top line and signboard bottom line.
+2. The text with black color, smooth painted texture, bold uppercase sans-serif font, flat printed style and black color, smooth painted texture, bold uppercase sans-serif font, flat printed style.
+3. The text reading 'POST OFFICE' and 'ROAD'

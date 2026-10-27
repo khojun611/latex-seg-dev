@@ -1,0 +1,3 @@
+1. The text located at the top-left, upper-center, and center-lower.
+2. The text with white, flat texture, thin serif font, small/light regular style, white, flat texture, heavy geometric sans font, bold uppercase solid style, and white outlined (no fill), flat texture, heavy geometric sans font, bold uppercase outlined style.
+3. The text reading 'Ch. 1', 'KENETIX', and 'FOLIO'.

@@ -1,0 +1,3 @@
+1. The text located at the bottom-left dialogue box start, the bottom-left dialogue box middle, and the bottom-left dialogue box below.
+2. The text with dark gray color, smooth flat texture, rounded sans-serif font, regular style, dark gray color, smooth flat texture, rounded sans-serif font, regular style, and dark gray color, smooth flat texture, rounded sans-serif font, regular style.
+3. The text reading 'Pikachu', 'seems interested in', and 'your mom.'

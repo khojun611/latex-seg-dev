@@ -1,0 +1,3 @@
+1. The text located at the top-center of the page, middle-center of the page, and bottom-center of the page.
+2. The text with white letters on a black polka-dotted bubble, solid fill with dotted texture, hand-drawn bold block sans-serif uppercase font, playful outlined style, solid black, smooth solid texture, condensed hand-drawn sans-serif uppercase font, simple narrow style, and black with white highlights, smooth brush-stroke texture, hand-lettered cursive/modern calligraphy font, flowing decorative style.
+3. The text reading 'EVERYDAY', 'I'M', and 'lettering'.

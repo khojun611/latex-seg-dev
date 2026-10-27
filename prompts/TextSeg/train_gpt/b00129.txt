@@ -1,0 +1,3 @@
+1. The text located at the upper center of the sign, the center of the sign, and the lower center of the sign.
+2. The text with pale pink/beige fill and dark gray outline, raised 3D matte texture, custom decorative rounded display font, uppercase with drop shadow; pale pink/beige fill and dark gray outline, raised 3D matte texture, simple dash glyph in same material, ornamental; pale pink/beige fill and dark gray outline, raised 3D matte texture, custom decorative rounded display font, lowercase with drop shadow.
+3. The text reading 'BEACH', '-', and 'house'.

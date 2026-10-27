@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the purple splash, the lower-left of the purple splash, and the lower-right of the purple splash.
+2. The text with orange solid fill and black drop-shadow, bold hand-painted block/graffiti font, uppercase; yellow solid fill and black drop-shadow, bold hand-painted block font, uppercase; yellow solid fill and black drop-shadow, bold hand-painted block font, uppercase.
+3. The text reading 'SPREADS', 'AND', and 'JAMS'.

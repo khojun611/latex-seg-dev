@@ -1,0 +1,3 @@
+1. The text located at the center of the white sign, slightly left-of-center (Apple logo) and slightly right-of-center (the word WATCH).
+2. The text with black, flat/smooth, icon glyph (no font), minimalist style for the Apple logo, and black, flat/smooth, bold uppercase sans‑serif (San Francisco/Helvetica-like) font for WATCH.
+3. The text reading '', 'WATCH'.

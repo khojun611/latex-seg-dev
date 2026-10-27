@@ -1,0 +1,3 @@
+1. The text located at the top center and bottom center.
+2. The text with black solid fill, smooth vector texture, custom ornate condensed display serif font, bold decorative/psychedelic style and black solid fill, smooth vector texture, custom ornate condensed display serif font, bold decorative/psychedelic style.
+3. The text reading 'SLUG' and 'CLUB'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-left blue tiled wall, the middle-left blue tiled wall, and the lower-left blue tiled wall above the beige tiles.
+2. The text with white color, flat printed on smooth matte blue tiles, bold rounded sans-serif, lowercase bold, white color, flat printed on smooth matte blue tiles, bold rounded sans-serif, lowercase bold, and white color, flat printed on smooth matte blue tiles, thin rounded sans-serif, lowercase regular.
+3. The text reading 'clas', 'ohlson', and 'compact store'.

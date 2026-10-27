@@ -1,0 +1,3 @@
+1. The text located at the top ('SAFETY'), the center ('NEVER'), and the bottom ('TAKES A BREAK!').
+2. The text with yellow fill, thick black outline, pink/red 3D extrusion with diagonal stripes, bold uppercase block comic-style sans-serif, flat painted texture; yellow fill, black outline, pink/red 3D extrusion with diagonal stripes, bold rounded comic-style slanted/italic, flat painted texture; and orange fill, white inner edge with black outer outline, red/pink 3D extrusion, bold uppercase block comic-style sans-serif, flat painted texture.
+3. The text reading 'SAFETY', 'NEVER', and 'TAKES A BREAK!'.

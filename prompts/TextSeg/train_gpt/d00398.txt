@@ -1,0 +1,3 @@
+1. The text located at the center of the image inside the neon rectangular frame.
+2. The text with cyan-blue color, glowing neon texture, script/cursive font, and illuminated neon sign style.
+3. The text reading 'America'.

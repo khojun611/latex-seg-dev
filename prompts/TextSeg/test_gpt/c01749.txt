@@ -1,0 +1,3 @@
+1. The text located at the top center, lower center-left, and lower center-right.
+2. The text with white, distressed speckled texture, bold condensed slab-serif font, uppercase stamped style, white, distressed speckled texture, thin condensed serif/typewriter-like font with decorative ampersand, uppercase letterspaced style, and white, distressed speckled texture, thin condensed serif/typewriter-like font, uppercase letterspaced style.
+3. The text reading 'HIPSTER', 'LABELS &', and 'BADGES'.

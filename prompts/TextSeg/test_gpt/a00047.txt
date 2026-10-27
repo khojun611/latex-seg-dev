@@ -1,0 +1,3 @@
+1. The text located at the top-right rectangular sign below the red triangle, the yellow rectangular sign top line, and the yellow rectangular sign lower lines.
+2. The text with black, smooth/painted, rounded sans-serif font, lowercase regular, black, smooth/painted, bold sans-serif font, lowercase bold, and black, smooth/painted, bold sans-serif font, numerals and lowercase, bold.
+3. The text reading 'zachte berm', 'paddentrek', and 'van19.00 uur tot06.30 uur'.

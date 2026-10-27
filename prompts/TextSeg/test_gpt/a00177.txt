@@ -1,0 +1,3 @@
+1. The text located at the left blue square ('P'), the square immediately to its right ('WC'), the center-top of the sign ('Free'), the center-bottom of the sign ('100 yds'), and the far right arrow symbol.
+2. The text with white, smooth painted, bold sans-serif on a solid blue background; black, smooth painted, bold sans-serif inside a black-outlined square on a light background; black, smooth painted, medium-weight sans-serif (capital F, lowercase rest) for the word; black, smooth painted, bold sans-serif for the numerals and letters; and a black, smooth painted, solid arrow symbol.
+3. The text reading 'P', 'WC', 'Free', '100 yds', and '→'.

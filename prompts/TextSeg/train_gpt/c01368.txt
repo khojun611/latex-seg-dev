@@ -1,0 +1,3 @@
+1. The text located at the center-top over the cookie, slightly left-center below it, and center-bottom over the plate.
+2. The text with white, smooth solid fill, cursive script font, elegant thin swash style, white, smooth solid fill with decorative outline, ornamental calligraphic ampersand font, stylized ornamental style, and white, smooth solid fill, bold slab-serif font, uppercase condensed block style.
+3. The text reading 'Sweet', '&', and 'CRUNCHY'.

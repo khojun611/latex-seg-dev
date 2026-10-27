@@ -1,0 +1,3 @@
+1. The text located at the upper-center-right ('SOUTH'), the upper-center-right ('WEST'), and the lower-center-right ('ANTENNAS').
+2. The text with white, smooth flat texture, thin condensed sans-serif font, uppercase light style, white, smooth flat texture, thin condensed sans-serif font, uppercase light style, and bright cyan/blue, smooth flat texture, bold geometric sans-serif font, uppercase bold slightly italic style.
+3. The text reading 'SOUTH', 'WEST', and 'ANTENNAS'.

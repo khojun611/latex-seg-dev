@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-middle, middle, and lower-center.
+2. The text with aqua/teal color, opaque painted texture, hand-lettered script font, playful cursive; bright turquoise/teal color, opaque painted texture, hand-lettered bold uppercase sans-serif, chunky block; bright turquoise/teal color, opaque painted texture, hand-lettered uppercase sans-serif, tall block; aqua/teal color, opaque painted texture, hand-lettered script font, lowercase cursive with period.
+3. The text reading 'THINK', 'BIG', 'START', and 'SMALL.'

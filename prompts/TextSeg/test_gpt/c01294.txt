@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-center, center (boxed), lower-center, and bottom-center.
+2. The text with pink fill, white interior and black outline, smooth printed ink on fabric, bold condensed sans-serif uppercase; pink fill, white interior and black outline, smooth printed ink on fabric, bold condensed sans-serif uppercase; white text on solid pink rectangular background with black outline, smooth printed ink, bold sans-serif uppercase (boxed); pink fill, white interior and black outline, smooth printed ink, bold condensed sans-serif uppercase; pink fill, white interior and black outline, smooth printed ink, bold condensed sans-serif uppercase (with ribbon overlap).
+3. The text reading 'KEEP', 'CALM', 'AND', 'CARRY', and 'ON'.

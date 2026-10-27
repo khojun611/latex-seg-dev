@@ -1,0 +1,3 @@
+1. The text located at the left vertical border, the repeating center background, and the bottom border.
+2. The text with orange-red color, flat printed texture with water-droplet sheen, bold condensed uppercase sans-serif rotated vertically, orange-red color, flat printed texture with water-droplet sheen, bold condensed uppercase sans-serif horizontal repeat, and orange-red color, flat printed texture with water-droplet sheen, bold condensed uppercase sans-serif upside-down orientation.
+3. The text reading 'WE ARE SCREWED', 'WE ARE SCREWED', and 'WE ARE SCREWED'.

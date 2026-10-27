@@ -1,0 +1,3 @@
+1. The text located at the upper-center and center of the image.
+2. The text with black color, grainy textured, hand-lettered script font, cursive style and black color, grainy textured, hand-lettered script font, bold cursive with swash.
+3. The text reading 'Art' and 'studio'

@@ -1,0 +1,3 @@
+1. The text located at the upper center and lower center.
+2. The text with black, raised painted wood texture, bold geometric sans-serif font, uppercase block style and black, raised painted wood texture, thin serif font, lowercase spaced style.
+3. The text reading 'DECLAN' and 'james'.

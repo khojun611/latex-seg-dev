@@ -1,0 +1,3 @@
+1. The text located at the roadside rectangular traffic sign beneath the circular sign.
+2. The text with black, painted matte texture on white panel, rounded sans-serif font, centered sentence case.
+3. The text reading 'Thank you for driving carefully'.

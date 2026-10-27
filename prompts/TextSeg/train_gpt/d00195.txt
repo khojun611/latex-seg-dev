@@ -1,0 +1,3 @@
+1. The text located at the top-left small caption, the upper-left diagonal distressed text, the large central distressed text, and the lower-right cropped distressed text.
+2. The text with white, smooth solid texture, sans-serif font, small regular style, white, heavy grunge/distressed texture, bold display font, diagonal/rotated style, white, heavy grunge/distressed texture, bold display font, very large/curved style, and white, heavy grunge/distressed texture, bold display font, rotated/cropped style.
+3. The text reading 'Z całej ulicy ludzie zebrali się.', 'Pali się!', 'Pali się!', and 'Pali s'.

@@ -1,0 +1,3 @@
+1. The text located at the center-upper of the window and the center-lower of the window.
+2. The text with white opaque smooth vinyl texture, bold geometric sans‑serif uppercase for 'SOFT', and white opaque smooth vinyl texture, narrow geometric sans‑serif uppercase for 'CAFE'.
+3. The text reading 'SOFT', 'CAFE'.

@@ -1,0 +1,3 @@
+1. The text located at the upper center-right of the sign, the center of the sign, and the bottom center of the sign.
+2. The text with red color, smooth solid texture, sans-serif font, small regular style, teal/aqua color, smooth solid texture, script/cursive font, bold stylized style, and white (on teal stripe) color, smooth solid texture, condensed bold sans-serif font, uppercase italicized style.
+3. The text reading 'Since 1916', 'Nathan's', and 'FAMOUS'.

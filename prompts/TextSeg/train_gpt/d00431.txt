@@ -1,0 +1,3 @@
+1. The text located at the top-left, bottom-left, top-right, and bottom-right.
+2. The text with magenta/pink glossy filled letters, white dashed stitch accents, bold rounded sans-serif font, and drop shadow (top-left), magenta/pink glossy filled letters, white dashed stitch accents, bold rounded sans-serif font, and drop shadow (bottom-left), and white-outlined magenta letters with white dashed stitch accents, thin rounded sans-serif font, and subtle shadow (top-right and bottom-right).
+3. The text reading 'SPRING', 'SALE!', 'SPRING', and 'SALE!'.

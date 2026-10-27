@@ -1,0 +1,3 @@
+1. The text located at the upper part of the yellow rectangular panel (center-right of the image), the middle of the yellow panel, and the lower part of the yellow panel.
+2. The text with black, smooth printed, bold sans-serif, uppercase; black, smooth printed, medium-weight sans-serif, title case; and black, smooth printed, medium-weight sans-serif, lowercase.
+3. The text reading 'CAUTION', 'Industrial', and 'trucks'.

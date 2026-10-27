@@ -1,0 +1,3 @@
+1. The text located at the center-right of the white block (top line), the center-right of the white block (bottom line, left), and the center-right of the white block (bottom line, right).
+2. The text with black color, matte printed texture, bold uppercase sans-serif font, slightly distressed style, black color, matte printed texture, condensed uppercase sans-serif font, regular weight style, and black color, matte printed texture, condensed uppercase sans-serif font, regular weight spaced style.
+3. The text reading 'PLATINUM', 'DEALER', and 'SOLUTIONS'.

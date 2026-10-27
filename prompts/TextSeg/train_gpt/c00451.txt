@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, and bottom center.
+2. The text with red, flat solid fill, slab-serif block font, bold uppercase vintage style, red, flat solid fill, slab-serif block font, bold uppercase vintage style, and red, flat solid fill, slab-serif block font, bold mixed-case vintage style.
+3. The text reading 'DUDE,', 'WHERE'S', and 'My FONT?'.

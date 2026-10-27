@@ -1,0 +1,3 @@
+1. The text located at the upper portion of the red rectangular block and the lower portion of the red rectangular block.
+2. The text with yellow fill, flat solid texture, bold decorative serif font, uppercase letters, black outline and retro style, and yellow fill, flat solid texture, bold decorative serif font, uppercase letters, black outline and retro style.
+3. The text reading 'KERN', and 'CLUB'.

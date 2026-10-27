@@ -1,0 +1,3 @@
+1. The text located at the top-center of the mug front, the top-right of the mug front, the center of the mug front, and the bottom-center of the mug front.
+2. The text with black color, smooth glossy texture, sans-serif font, uppercase bold style, black color, smooth glossy texture, solid heart shape, sans-serif style, solid (heart) symbol, and black color, smooth glossy texture, sans-serif font, uppercase bold style.
+3. The text reading 'PRAY', '♥', 'HUSTLE', and 'REPEAT'.

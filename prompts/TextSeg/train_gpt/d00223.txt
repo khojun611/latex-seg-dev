@@ -1,0 +1,3 @@
+1. The text located at the top-center, top-right, and bottom-center.
+2. The text with light cyan/blue and white color, horizontal scanline/glitch texture, bold futuristic geometric sans-serif font, glowing and distorted; cyan/white color in a cyan boxed background, horizontal scanline/glitch texture, bold geometric sans-serif numeral font, glowing and boxed; and black color on a red metallic strip, distressed/worn texture, condensed stencil-like uppercase font, stamped/weathered style.
+3. The text reading 'XCOM', '2', and 'WAR OF THE CHOSEN'.

@@ -1,0 +1,3 @@
+1. The text located at the top-left on the playing cards, on the left card near the hand, and at the bottom center.
+2. The text with red color, smooth paper texture, serif uppercase card-face font, plain printed style, black color, smooth paper texture, small serif font, vertical rotated style, white fill with pink/purple outline, slightly glossy/glowing texture, decorative western serif font, curved ornamental style.
+3. The text reading 'K A', 'Joker', and 'THE JOKER'.

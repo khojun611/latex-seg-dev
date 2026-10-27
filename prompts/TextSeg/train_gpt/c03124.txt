@@ -1,0 +1,3 @@
+1. The text located at the upper-center (tent graphic), center (WELCOME TO CAMPSITE), and lower-center (AREA 1).
+2. The text with white, flat painted silhouette graphic, no font, graphic symbol; white, raised painted letters, bold sans-serif, uppercase, embossed; and white, raised painted letters, bold sans-serif, uppercase, embossed.
+3. The text reading 'tent symbol', 'WELCOME TO CAMPSITE', and 'AREA 1'.

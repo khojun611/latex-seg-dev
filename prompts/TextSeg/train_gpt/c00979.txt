@@ -1,0 +1,3 @@
+1. The text located at the top-center (first row), middle-center (second row), and bottom-center (third row and ribbon).
+2. The text with white, rough/grainy texture, bold condensed stencil-like display font, uppercase stylized, yellow, rough/grainy texture, bold condensed stencil-like display font, uppercase stylized, and white, rough/grainy texture, bold condensed stencil-like display font, numerals and punctuation, and black, smooth texture, thin italic sans-serif, uppercase on yellow ribbon.
+3. The text reading 'ABCDEFGHIJKLMN', 'OPQRSTUVWXYZ', and '1234567890!?, BASIC CHARACTER SET'

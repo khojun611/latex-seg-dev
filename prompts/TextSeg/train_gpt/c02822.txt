@@ -1,0 +1,3 @@
+1. The text located at the top center, center, and bottom center.
+2. The text with black color, smooth painted texture, thin serif font, and regular sentence-style, black color, smooth painted texture, bold slab-serif (collegiate) font, and uppercase bold style, and black color, smooth painted texture, bold slab-serif (collegiate) font, and lowercase bold style.
+3. The text reading 'We interrupt this marriage to bring you', 'FOOTBALL', and 'season'.

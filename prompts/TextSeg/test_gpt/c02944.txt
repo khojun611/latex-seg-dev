@@ -1,0 +1,3 @@
+1. The text located at the center of the image inside a white circular badge, and at the lower-right overlapping orange circular badge.
+2. The text with red solid fill, smooth texture, bold condensed sans-serif font, uppercase style, centered, and white solid fill, smooth texture, bold condensed sans-serif font, uppercase style, centered.
+3. The text reading 'KING & NORTH', and 'NEW MAKER ALERT'

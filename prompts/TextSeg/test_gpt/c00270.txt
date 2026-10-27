@@ -1,0 +1,3 @@
+1. The text located at the upper-center (YOU), center (Serious), and lower-center (CLARK?).
+2. The text with red, smooth painted wood texture, bold sans-serif font, uppercase style (YOU), cream/off-white, natural wood-grain raised texture, script cursive font, title-case style (Serious), and red, smooth painted wood texture, bold sans-serif font, uppercase style with question mark (CLARK?).
+3. The text reading 'YOU', 'Serious', and 'CLARK?'.

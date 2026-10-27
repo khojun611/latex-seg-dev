@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, and bottom center.
+2. The text with white, solid flat, geometric block stencil font, uppercase bold angular, white, solid flat, ornamental serif/swash font, lowercase curvy decorative, and white, solid flat, modular rounded stencil font, uppercase condensed segmented.
+3. The text reading 'SWEAXY', 'sweaxy', and 'SWEAXY'.

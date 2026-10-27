@@ -1,0 +1,3 @@
+1. The text located at the top, center, bottom-left, and bottom-right.
+2. The text with black, rough/distressed texture, heavy bold block font, uppercase distressed style, black, rough/ragged texture, extra-large heavy bold block font, uppercase distressed style, black, rough/distressed texture, bold block font, uppercase distressed style, and white, smooth solid texture, bold hand-drawn block/symbols font, uppercase/graphic style.
+3. The text reading 'HOKKAIDO', 'FISH', 'MARKET', and '*@ LA'.

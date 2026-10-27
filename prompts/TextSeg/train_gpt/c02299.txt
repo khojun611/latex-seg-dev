@@ -1,0 +1,3 @@
+1. The text located at the left-to-center of the white rectangular street sign, the center-to-right of the white rectangular street sign, and the lower-center of the white rectangular street sign.
+2. The text with black, smooth painted, bold uppercase sans-serif, uppercase bold, black, smooth painted, bold uppercase sans-serif, uppercase bold, and black, smooth painted, regular mixed-case sans-serif, title case with digits.
+3. The text reading 'ENGINE', 'STREET', and 'Oldbury B69'.

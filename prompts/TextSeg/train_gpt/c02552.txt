@@ -1,0 +1,3 @@
+1. The text located at the top-left traffic sign and below the circular number on the same sign.
+2. The text with black, flat printed, sans-serif, bold and black, flat printed, sans-serif, uppercase.
+3. The text reading '30' and 'ZONE'.

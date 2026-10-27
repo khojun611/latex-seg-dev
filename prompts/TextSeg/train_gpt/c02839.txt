@@ -1,0 +1,3 @@
+1. The text located at the left square of the sign, the middle of the rectangular blue sign panel, and the right end of the sign.
+2. The text with white letters on a dark-blue square, smooth painted metal texture, bold geometric sans-serif, uppercase stacked; white letters on a light-blue rectangular background, smooth painted metal texture, narrow sans-serif, uppercase (smaller top line, larger bottom line); light-blue numeral on white panel, smooth painted metal texture, bold sans-serif, large numeric style.
+3. The text reading 'TEMPLE BAR', 'SRÁID CRÓ and CROW STREET', and '2'.

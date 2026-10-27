@@ -1,0 +1,3 @@
+1. The text located at the top-center of the framed rectangle and the large centered script in the lower half of the framed rectangle.
+2. The text with black, solid fill with subtle distressed texture, condensed serif uppercase (tall vintage serif) and black, solid fill with subtle distressed texture, bold hand-lettered brush script with swashes and cursive flourishes.
+3. The text reading 'O COME LET US', 'Adore Him'.

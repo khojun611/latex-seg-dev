@@ -1,0 +1,3 @@
+1. The text located at the top center and bottom center.
+2. The text with bright pink/red fill, light pink inner outline, darker red 3D extrusion and maroon shadow, smooth matte texture with subtle grain shading, bold geometric uppercase display (custom) font, and 3D extruded outlined shadowed style, and the text with bright pink/red fill, light pink inner outline, darker red 3D extrusion and maroon shadow, smooth matte texture with subtle grain shading, bold geometric uppercase display (custom) font, and 3D extruded outlined shadowed style.
+3. The text reading 'DING' and 'DONG'.

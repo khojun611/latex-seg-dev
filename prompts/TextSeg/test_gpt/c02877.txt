@@ -1,0 +1,3 @@
+1. The text located at the left and right of the red sign, the top center of the red sign, and the bottom center of the red sign.
+2. The text with white, smooth glossy printed pictogram arrows, white smooth glossy printed bold sans‑serif uppercase for the heading, and white smooth glossy printed regular sans‑serif lowercase with numerals for the subheading.
+3. The text reading '↑', 'EINWURFZEITEN:', and 'werktags 7:00 bis 20:00 Uhr'.

@@ -1,0 +1,3 @@
+1. The text located at the center of the image on the magenta rectangular sign (top line) and center of the image on the magenta rectangular sign (bottom line).
+2. The text with white color, smooth solid texture, rounded sans-serif font (medium weight), sentence case, and white color, smooth solid texture, rounded sans-serif font (medium weight), sentence case.
+3. The text reading 'Please keep stairs clear' and 'Take care on stairs'.

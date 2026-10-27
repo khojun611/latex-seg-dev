@@ -1,0 +1,3 @@
+1. The text located at the top-right, upper-center, upper-right, center-right, lower-center-right, and lower-right.
+2. The text with white, smooth, script (handwritten) font, cursive style; metallic gold, shiny/foil gradient texture, bold rounded display font, large embossed/drop-shadow style; white, slightly grainy/hand-painted texture, tall hand-drawn uppercase font, brush style; white, slightly grainy/hand-drawn uppercase font, brush style; metallic gold, brushed/foil texture, script (handwritten) font, cursive style; and metallic gold, brushed/foil texture, hand-drawn numeral font, decorative style.
+3. The text reading 'Glamour's', '100', 'BEST', 'DRESSED', 'Women', and '2015'.

@@ -1,0 +1,3 @@
+1. The text located at the left side as a large 'B', the upper-right as the word 'ORANGE', and the lower-right as the word 'LACROSSE'.
+2. The text with solid orange color, flat/smooth texture, bold geometric sans-serif font, heavy uppercase style, solid orange color, flat/smooth texture, bold geometric sans-serif font, uppercase style, and solid orange color, flat/smooth texture, bold geometric sans-serif font, uppercase style.
+3. The text reading 'B', 'ORANGE', and 'LACROSSE'.

@@ -1,0 +1,3 @@
+1. The text located at the top of the framed sign, upper-middle of the framed sign, center of the framed sign, and lower-center of the framed sign.
+2. The text with dark charcoal color, smooth flat printed ink, rounded sans-serif font, title case regular weight, dark charcoal color, smooth flat printed ink, rounded sans-serif font, lowercase regular weight, dark charcoal color, smooth flat printed ink, bold slab-serif font, uppercase bold weight, and dark charcoal color, smooth flat printed ink, condensed sans-serif font, uppercase regular weight.
+3. The text reading 'Most people', 'never meet their', 'HEROES', and 'I RAISED MINE'.

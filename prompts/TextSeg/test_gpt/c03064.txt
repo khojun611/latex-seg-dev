@@ -1,0 +1,3 @@
+1. The text located at the center of the rectangular sign, centered in the upper half of the sign and centered in the lower half of the sign.
+2. The text with black color, printed on a slightly weathered yellow metallic plate, bold sans-serif font, and initial-capital case for 'Vorsicht', and black color, printed on a slightly weathered yellow metallic plate, bold sans-serif font, and initial-capital case for 'Dachlawinen'.
+3. The text reading 'Vorsicht', 'Dachlawinen'.

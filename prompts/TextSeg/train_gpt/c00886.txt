@@ -1,0 +1,3 @@
+1. The text located at the center-right and lower-right.
+2. The text with light pink, smooth solid texture, high-contrast serif (Didot/Bodoni-like) font, lowercase bold style and light pink, smooth solid texture, high-contrast serif (Didot/Bodoni-like) font, lowercase bold style.
+3. The text reading 'harvest' and 'colors...'.

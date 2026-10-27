@@ -1,0 +1,3 @@
+1. The text located at the center-left of the sign and center-right of the sign.
+2. The text with black, matte painted, bold sans-serif, uppercase and black, matte painted, bold sans-serif, uppercase.
+3. The text reading 'HUNCHBACK', 'LANE'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center ('SOCIAL'), center ('MEDIA'), center-overlay (slanted across) ('2020'), and lower-center ('GREETING').
+2. The text with yellow outlined bold geometric sans-serif, no fill, flat outline texture for 'SOCIAL', yellow outlined bold geometric sans-serif, no fill, flat outline texture for 'MEDIA', white hand-painted brush-script with paint-stroke texture and slanted overlay style for '2020', and yellow outlined bold geometric sans-serif, no fill, flat outline texture for 'GREETING'.
+3. The text reading 'SOCIAL', 'MEDIA', '2020', and 'GREETING'.

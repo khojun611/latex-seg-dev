@@ -1,0 +1,3 @@
+1. The text located at the top-center (first line: IF TAPS DO NOT) and center-below (second line: STOP RUNNING).
+2. The text with black color, smooth solid printed texture, serif font, bold uppercase style for all words.
+3. The text reading 'IF', 'TAPS', 'DO', 'NOT', 'STOP', and 'RUNNING'.

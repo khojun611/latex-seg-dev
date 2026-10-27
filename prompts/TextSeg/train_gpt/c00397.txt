@@ -1,0 +1,3 @@
+1. The text located at the top arc and the bottom arc.
+2. The text with light blue color, neon tube glow texture, outlined block neon font, and uppercase outlined style, and the text with light blue color, neon tube glow texture, outlined block neon font, and uppercase outlined style.
+3. The text reading 'DIM LIGHTS' and 'THICK SMOKE'.

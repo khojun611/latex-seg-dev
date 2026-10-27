@@ -1,0 +1,3 @@
+1. The text located at the upper center-right, the middle center-right, and the lower center-right.
+2. The text with dark maroon (solid), smooth flat texture, bold condensed sans-serif, uppercase, dark maroon (solid), smooth flat texture, bold condensed sans-serif, uppercase, and dark maroon (solid), smooth flat texture, bold condensed sans-serif, uppercase.
+3. The text reading 'TT-NOVA', 'ARQUITECTURA', and 'E DESIGN DE INTERIORES'.

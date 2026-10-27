@@ -1,0 +1,3 @@
+1. The text located at the top-center of the sign, center of the sign, lower-center of the sign, and bottom-center of the sign.
+2. The text with dark brown color, smooth printed texture, serif font, all-uppercase centered style, dark brown color, smooth printed texture, serif font, larger size all-uppercase centered style, dark brown color, smooth printed texture, serif font, all-uppercase centered style, and dark brown color, smooth printed texture, serif font, all-uppercase centered style with an upward-right arrow.
+3. The text reading 'WE'RE IN THE', 'GARDEN', 'GO TO THE SIDE', and 'GATE ↗'.

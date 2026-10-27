@@ -1,0 +1,3 @@
+1. The text located at the top-right diagonal banner, center large overlay across the image, and bottom-right diagonal banner.
+2. The text with white, solid slightly grainy fill with subtle drop shadow, bold condensed uppercase sans font, slanted/diagonal banner style, white, solid slightly grainy fill with subtle drop shadow, bold rounded script/cursive font, flowing hand-lettered style, and white, solid slightly grainy fill with subtle drop shadow, bold condensed uppercase sans font, slanted/diagonal banner style.
+3. The text reading 'CRAFTED', 'Beer & Cider', and 'FESTIVAL'.

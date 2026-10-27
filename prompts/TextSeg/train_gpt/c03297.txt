@@ -1,0 +1,3 @@
+1. The text located at the top of the sign and the bottom of the sign.
+2. The text with white color, smooth painted texture, bold sans-serif font, sentence case, and white color, smooth painted texture, bold sans-serif font, sentence case with exclamation mark.
+3. The text reading 'Privatgrundstück', 'Hundeverbot !'

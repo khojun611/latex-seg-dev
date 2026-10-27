@@ -1,0 +1,3 @@
+1. The text located at the left-to-center of the street sign, beneath the center of the street sign, and at the far right of the street sign.
+2. The text with black, weathered painted-on-white-metal texture, sans-serif uppercase font, bold, black, painted-on-white-metal texture, sans-serif mixed-case font, regular, and white, smooth printed-on-blue-panel texture, block-capital glyph font, bold.
+3. The text reading 'BLAKELEY HALL ROAD', 'Oldbury B69', and 'T'.

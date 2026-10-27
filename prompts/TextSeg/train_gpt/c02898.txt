@@ -1,0 +1,3 @@
+1. The text located at the center-top on the blue station sign.
+2. The text with white color, smooth painted texture, bold sans-serif font, and bold mixed-case style.
+3. The text reading 'Barbès - Rochechouart'.

@@ -1,0 +1,3 @@
+1. The text located at the center and bottom center.
+2. The text with dark gray/black color, pencil-hatched texture, hand-drawn brush script font, cursive slanted style, and dark gray/black color, pencil-hatched texture, hand-drawn condensed uppercase sans-serif font, sketched block style.
+3. The text reading 'Brush Script' and 'WEEKEND'.

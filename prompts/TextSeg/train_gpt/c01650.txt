@@ -1,0 +1,3 @@
+1. The text located at the left side vertical, the top and bottom center, and the right side vertical.
+2. The text with black, flat texture, blackletter/gothic font, vertical stacked style, turquoise, flat texture, geometric/stencil-like font, small stylized digits style, and black, flat texture, blackletter/gothic font, vertical stacked style.
+3. The text reading 'KERN', '420 and 187', and 'CLUB'.

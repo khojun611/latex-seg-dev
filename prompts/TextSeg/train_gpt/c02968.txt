@@ -1,0 +1,3 @@
+1. The text located at the left of the sign (OLD), the center of the sign (GUY), the right of the sign (ROAD), and the far right of the sign (13).
+2. The text with black, smooth/enamel surface, bold sans‑serif uppercase, block style; black, smooth/enamel surface, bold sans‑serif uppercase, block style; black, smooth/enamel surface, bold sans‑serif uppercase, block style; and red, smooth/enamel surface, bold sans‑serif digits, smaller size.
+3. The text reading 'OLD', 'GUY', 'ROAD', and '13'.

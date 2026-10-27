@@ -1,0 +1,3 @@
+1. The text located at the top-center, middle-center, and lower-center.
+2. The text with white, smooth painted texture, serif (Roman) font, uppercase centered style, white, smooth painted texture, serif (Roman) font, uppercase centered style, and white, smooth painted texture, serif (Roman) font, uppercase centered style.
+3. The text reading 'ROBERT'S', 'GONE TO', and 'CRICKET'.

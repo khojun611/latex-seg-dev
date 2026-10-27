@@ -1,0 +1,3 @@
+1. The text located at the center of the sign, the upper-right corner of the sign, and the lower-right area of the sign.
+2. The text with cream/off-white color, painted metal texture with light weathering and spiderwebs, large sans-serif title-case bold letters, the text with cream/off-white color, painted metal texture with light weathering, small sans-serif uppercase letters, and the text with pale turquoise color, painted metal texture with light weathering, small sans-serif numerals with a hyphen.
+3. The text reading 'Twitter', 'CT', and '1-2'.

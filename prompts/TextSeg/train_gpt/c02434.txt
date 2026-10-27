@@ -1,0 +1,3 @@
+1. The text located at the top-left, middle-left, and bottom-left.
+2. The text with light gray color, flat solid texture, bold geometric sans-serif font, and title-case style, light gray color, flat solid texture, bold geometric sans-serif font, and title-case style, and light gray color, flat solid texture, bold geometric sans-serif font, and title-case style.
+3. The text reading 'Infinite', 'Security', and 'Solutions'.

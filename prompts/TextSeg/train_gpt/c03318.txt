@@ -1,0 +1,3 @@
+1. The text located at the top-left, center-left, and center-right.
+2. The text with white, flat matte texture, rounded sans-serif quotation-mark glyph, bold decorative, black (dark charcoal), flat matte texture, bold slab-serif font, large bold title-case, and white, flat matte texture, rounded sans-serif quotation-mark glyph, bold decorative.
+3. The text reading '“', 'Design is the silent ambassador to your brand', '”'.

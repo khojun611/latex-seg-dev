@@ -1,0 +1,3 @@
+1. The text located at the top-center of the sign and the lower-center of the sign.
+2. The text with black color, painted and slightly weathered texture, sans-serif font, bold uppercase style, and black color, painted and slightly weathered texture, sans-serif font, bold uppercase style.
+3. The text reading 'PLEASE PARK' and 'BETWEEN LINES'.

@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-center, upper-right of center, middle center, and lower center.
+2. The text with light gray, chalk texture, condensed sans-serif, italic uppercase; mint green, chalk texture, hand-lettered script, bold cursive; pale off-white, chalk texture, condensed sans-serif, small uppercase; dusty coral-pink, chalk texture, vintage serif display, bold uppercase; and dusty coral-pink, chalk texture, vintage serif display, bold uppercase.
+3. The text reading 'WILL', 'Better', 'FOR', 'SHOP', and 'TIME'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center of the blue road sign and the lower-center of the blue road sign.
+2. The text with light grey/white reflective, retroreflective smooth sheeting, sans-serif (Transport-like) font, bold title case and light grey/white reflective, retroreflective smooth sheeting, sans-serif (Transport-like) font, bold mixed case (uppercase HGV, lowercase s).
+3. The text reading 'Unsuitable' and 'for HGVs'.

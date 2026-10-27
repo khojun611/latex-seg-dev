@@ -1,0 +1,3 @@
+1. The text located at the top-left, bottom-left, and right.
+2. The text with dark brown, solid, sans-serif, bold italic; red, solid, sans-serif, extra-bold italic; and red and black, solid, blocky sans-serif, extra-bold (for "JL") and red, solid, sans-serif, uppercase italic (for "ALCALDE").
+3. The text reading 'José Luis', 'Pacheco', and 'JL ALCALDE'.

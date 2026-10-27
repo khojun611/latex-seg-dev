@@ -1,0 +1,3 @@
+1. The text located at the top-center, the center, and the lower-center (on the ribbon).
+2. The text with teal/aqua color, flat solid texture, uppercase condensed sans-serif decorative style (with pointing-hand icons), white color, flat solid texture, heavy rounded geometric display style with cutouts, and black/dark color on a teal/aqua ribbon, flat solid texture, condensed decorative stencil-like display style.
+3. The text reading 'DON'T', 'LOSE', and 'SIGHT'.

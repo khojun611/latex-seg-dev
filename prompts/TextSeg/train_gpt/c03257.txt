@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the teal panel, the middle-left of the teal panel, the lower-left of the teal panel, and the lower-right area of the teal panel.
+2. The text with white color, smooth/matte texture, geometric sans-serif (approx.), thin/light weight and lowercase style, white color, smooth/matte texture, geometric sans-serif (approx.), bold weight and lowercase style, white color, smooth/matte texture, geometric sans-serif (approx.), thin/light weight and lowercase style, and white color, smooth/matte texture, small superscript registered-mark style.
+3. The text reading 'other', 'life', 'lessons', and '®'.

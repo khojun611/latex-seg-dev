@@ -1,0 +1,3 @@
+1. The text located at the top-left banner, center of the image, and bottom-center of the image.
+2. The text with white on orange banner, flat solid fill, bold geometric sans-serif, uppercase, golden-orange to yellow gradient with red shading, metallic glossy 3D beveled texture with lightning overlay, bold condensed retro display font with italic slant and heavy bevel, uppercase, and small white, flat grainy texture, thin condensed sans-serif, uppercase with wide tracking.
+3. The text reading 'FREE PSD', 'BACK TO THE FUTURE', and '80S EFFECTS BY HYPERPIX'.

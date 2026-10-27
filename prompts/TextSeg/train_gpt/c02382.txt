@@ -1,0 +1,3 @@
+1. The text located at the top-right on the brown road sign, the middle-right on the brown road sign, and the lower-middle-right on the brown road sign.
+2. The text with white color, smooth solid texture, small sans-serif regular font and title case style, white color, smooth solid texture, rounded bold sans-serif font and title case style, and white color, smooth solid texture, rounded bold sans-serif font and title case style.
+3. The text reading 'Historic Scotland', 'Urquhart', and 'Castle'.

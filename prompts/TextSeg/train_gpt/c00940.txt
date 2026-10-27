@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, middle right, lower left, and lower center-right.
+2. The text with multicolor gradient (red→orange→yellow→pale green), watercolor paint texture, hand-painted brush script, uppercase bold; teal-to-blue gradient, watercolor paint texture, hand-painted brush script, mixed case flowing; pale peach, solid watercolor, hand-painted simple stroke, plus-sign symbol; magenta/pink solid, watercolor paint texture, hand-painted brush script, lowercase vertical orientation; warm gradient (red→orange→yellow→lime green), watercolor paint texture, hand-painted brush script, large flowing titlecase.
+3. The text reading 'WORK', 'Hard', '+', 'Be', and 'Nice'.

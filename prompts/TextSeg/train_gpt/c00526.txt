@@ -1,0 +1,3 @@
+1. The text located at the left-center, center, and right-center of the image.
+2. The text with green color, slight paper/distressed texture, hand-lettered brush script font, and bold cursive italic style.
+3. The text reading 'Sunflower'

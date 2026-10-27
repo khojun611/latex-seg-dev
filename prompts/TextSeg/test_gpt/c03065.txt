@@ -1,0 +1,3 @@
+1. The text located at the left portion of the rectangular street sign, the right portion of the rectangular street sign, and the far-right corner of the rectangular street sign.
+2. The text with black painted, smooth textured, serif uppercase letters (slightly weathered), black painted, smooth textured, serif uppercase letters (slightly weathered), and small red painted, smooth textured, serif smaller-sized character (superscript-style).
+3. The text reading 'RANDALL', 'STREET', and '2'.

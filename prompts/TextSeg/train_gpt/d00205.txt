@@ -1,0 +1,3 @@
+1. The text located at the top-center, center-left, and bottom-left (inside white rectangle).
+2. The text with dark green gradient, smooth glossy texture, thin serif font, subtle embossed style, light gray/silver, rough grainy/distressed texture, large serif font, chalk/etched style, and blue gradient, smooth glossy beveled texture, serif font, polished/embossed style.
+3. The text reading 'TONY', 'TONY', and 'AR'.

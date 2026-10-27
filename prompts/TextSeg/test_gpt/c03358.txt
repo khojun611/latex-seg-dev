@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the sign, the upper-right of the sign, and the lower-right of the sign.
+2. The text with red color, smooth/matte texture, bold sans-serif font, uppercase style, red color, smooth/matte texture, bold sans-serif font, uppercase style, and red color, smooth/matte texture, bold sans-serif font, uppercase style.
+3. The text reading 'NO', 'SMOKING', and 'IN LAVATORY'.

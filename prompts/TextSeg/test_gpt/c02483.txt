@@ -1,0 +1,3 @@
+1. The text located at the center of the wooden plaque.
+2. The text with black color, burned-wood texture, serif font, uppercase bold centered style.
+3. The text reading 'EASTON'

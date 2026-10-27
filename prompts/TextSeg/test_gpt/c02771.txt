@@ -1,0 +1,3 @@
+1. The text located at the center of the blue sign in the upper part of the image.
+2. The text with light gray/white color, smooth reflective (retroreflective) texture, sans-serif block font, and bold mixed-case style (uppercase "RFC", hyphen, lowercase "weg").
+3. The text reading 'RFC-weg'

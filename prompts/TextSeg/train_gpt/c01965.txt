@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the framed blackboard, and the lower-center of the framed blackboard.
+2. The text with white, matte painted texture, brush script font, cursive lowercase, and white, matte painted texture, tall outlined serif font, uppercase block letters.
+3. The text reading 'hello' and 'FALL'.

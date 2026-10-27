@@ -1,0 +1,3 @@
+1. The text located at the top center, center, and bottom center.
+2. The text with dark maroon color, slightly distressed/aged texture, condensed serif small-caps font, simple uppercase style; dark maroon color, worn/distressed texture, ornate Victorian display serif font with decorative swashes, uppercase style; and dark maroon color, slightly distressed texture, narrow serif small-caps font with wide letter-spacing, uppercase style.
+3. The text reading 'BAND', 'HARRINGTON', and 'LIBRARY'.

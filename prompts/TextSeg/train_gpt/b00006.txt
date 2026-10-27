@@ -1,0 +1,3 @@
+1. The text located at the top center ('the'), upper left ('5'), upper center ('TH'), center ('grade'), and lower center ('RENEGADE').
+2. The text with pink, smooth raised, script, cursive handwritten; teal/mint, smooth raised, bold sans-serif, large numeral; blue, smooth raised, bold sans-serif, uppercase; pink, smooth raised, script, connected cursive; and multicolor (pink/orange/yellow/green/teal/blue), smooth raised, chunky block sans-serif, uppercase.
+3. The text reading 'the', '5', 'TH', 'grade', and 'RENEGADE'.

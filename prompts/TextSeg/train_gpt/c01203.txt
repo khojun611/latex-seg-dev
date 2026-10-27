@@ -1,0 +1,3 @@
+1. The text located at the top panel (upper maroon rectangle), the central large panel (lower maroon rectangle), and no other locations.
+2. The text with yellow/gold color, weathered/distressed texture, bold decorative block serif font with outline and drop shadow, the text with yellow/gold color, weathered/distressed texture, larger bold decorative block serif font with outline and drop shadow, and no additional text styles.
+3. The text reading 'COUNTRY', 'RESTAURANT', and 'NONE'.

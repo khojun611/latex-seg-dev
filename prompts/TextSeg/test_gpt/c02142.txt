@@ -1,0 +1,3 @@
+1. The text located at the upper center-left and upper center-right.
+2. The text with black color, matte texture, bold sans-serif font, uppercase style and black color, matte texture, bold sans-serif font, uppercase style.
+3. The text reading 'NO' and 'EXIT'.

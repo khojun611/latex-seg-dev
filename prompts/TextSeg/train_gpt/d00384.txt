@@ -1,0 +1,3 @@
+1. The text located at the center large stylized 'A!' and the bottom center small-caps tagline.
+2. The text with dark gray solid fill, smooth texture, high-contrast elegant display serif/italic script (center 'A!'), and dark gray solid fill, smooth texture, geometric sans-serif, uppercase small-caps, thin weight with wide tracking (bottom tagline).
+3. The text reading 'A!' and 'DSTYPE FOUNDRY: QUASE'.

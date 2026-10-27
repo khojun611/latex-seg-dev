@@ -1,0 +1,3 @@
+1. The text located at the top arc, inside top of the circle, left arc, right arc, and bottom arc.
+2. The text with dark maroon color, rough printed-paper texture, bold slab-serif appearance, uppercase and arched style, dark maroon color, rough printed-paper texture, small condensed sans-serif appearance, uppercase and curved style, dark maroon color, rough printed-paper texture, bold slab-serif appearance, uppercase and vertical style, dark maroon color, rough printed-paper texture, bold slab-serif appearance, uppercase and vertical style, and dark maroon color, rough printed-paper texture, bold slab-serif appearance, uppercase and arched style.
+3. The text reading 'FLIGHT CLUB', 'EST. 2018', 'FLY', 'FLY', and 'FLY TO LIVE, LIVE TO FLY'.

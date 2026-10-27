@@ -1,0 +1,3 @@
+1. The text located at the top-center, middle-center, and bottom-center.
+2. The text with green-to-blue gradient, watercolor texture, brush script font, hand-lettered cursive, blue gradient, watercolor texture, brush script font, hand-lettered cursive, and blue-to-purple gradient, watercolor texture, brush script font, hand-lettered cursive.
+3. The text reading 'Wake', 'up and smell', and 'the rain'.

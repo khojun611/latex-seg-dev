@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center, and none.
+2. The text with red-orange gradient color, glossy pixelated texture, pixelated 8‑bit block font, 3D extruded retro neon style, light-blue/cyan gradient color, glossy pixelated texture, pixelated 8‑bit block font, 3D extruded retro neon style, and none.
+3. The text reading 'SPACE', 'ARCADE', and 'none'.

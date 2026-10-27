@@ -1,0 +1,3 @@
+1. The text located at the center of the sign, lower center of the sign, and bottom right of the sign.
+2. The text with black, smooth printed, bold sans‑serif, uppercase, black, smooth printed, bold sans‑serif, title case, and black, smooth printed, regular sans‑serif, small size.
+3. The text reading 'DANGER', 'Falling Objects', and 'ENFIELD SAFETY SUPPLIES 020-8443 1123'.

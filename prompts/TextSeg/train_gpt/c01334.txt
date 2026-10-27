@@ -1,0 +1,3 @@
+1. The text located at the upper-right ('REEL') and center-right ('WILD').
+2. The text with solid black color, smooth flat texture, bold condensed uppercase display font, slanted/italic style, and solid black color, smooth flat texture, bold condensed uppercase display font, slanted/italic style.
+3. The text reading 'REEL' and 'WILD'.

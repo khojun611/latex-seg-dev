@@ -1,0 +1,3 @@
+1. The text located at the top center and middle center.
+2. The text with dark brown, smooth solid fill, hand-drawn brush script, thin-to-thick flowing cursive and dark brown, smooth solid fill, hand-drawn brush script, thick flowing cursive with decorative swashes.
+3. The text reading 'Hello' and 'Monday'.

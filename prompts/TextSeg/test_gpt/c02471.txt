@@ -1,0 +1,3 @@
+1. The text located at the top-center of the stone, upper-middle of the stone, center of the stone, and bottom-center of the stone.
+2. The text with black painted serif (mixed-case) with slightly rough/matte texture, large black painted serif numerals with slightly rough/matte texture, black painted serif (title case) with slightly rough/matte texture, and large black painted serif numerals with slightly rough/matte texture.
+3. The text reading 'NorthStone CC', '14', 'Par 4', and '235'.

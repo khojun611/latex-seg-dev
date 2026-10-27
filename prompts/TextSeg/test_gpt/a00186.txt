@@ -1,0 +1,3 @@
+1. The text located at the top blue panel of the street sign and the lower white panel of the street sign.
+2. The text with white, painted, bold sans-serif, uppercase and black, painted, condensed sans-serif, uppercase.
+3. The text reading 'ABBEY ROAD' and 'LEADING TO MELEN STREET'.

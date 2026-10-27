@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the blue sign, the center of the blue sign, and the top-right corner of the blue sign.
+2. The text with white, smooth matte texture, geometric sans-serif font, regular weight and sentence case, white, smooth matte texture, geometric sans-serif font, bold weight and title case, and white, smooth matte texture, geometric sans-serif font, small size and uppercase.
+3. The text reading 'Welcome to', 'London King's Cross', and 'Network Rail'

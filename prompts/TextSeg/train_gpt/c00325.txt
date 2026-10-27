@@ -1,0 +1,3 @@
+1. The text located at the top center (above the large word), and center (large block letters).
+2. The text with black, smooth painted texture, script/cursive font, handwritten cursive style, and black, smooth painted texture, bold condensed sans-serif font, uppercase block style.
+3. The text reading 'I'll be home for' and 'CHRISTMAS'

@@ -1,0 +1,3 @@
+1. The text located at the center-left of the image
+2. The text with black color, smooth flat texture, rounded geometric sans-serif font, and regular lowercase style
+3. The text reading 'how to disappear completely and never be found'

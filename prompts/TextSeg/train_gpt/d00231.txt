@@ -1,0 +1,3 @@
+1. The text located at the top-center of the image (next to the logo), the center-top of the tablet screen, and the bottom-center of the tablet screen.
+2. The text with white, solid, bold uppercase sans-serif logo-style, white, smooth, serif/script title-style, and dark gray, printed, small sans-serif regular body-style.
+3. The text reading 'MSIG', 'Season's Greetings', and 'Let the magic of this festive season bring you and your loved ones happiness and peace. Happy Holidays and have a great 2019. MSIG'

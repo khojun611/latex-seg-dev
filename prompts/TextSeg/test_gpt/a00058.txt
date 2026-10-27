@@ -1,0 +1,3 @@
+1. The text located at the top panel under the triangle, the middle road-name panel, and the lower speed-warning panel.
+2. The text with black on white (yellow surround), smooth reflective metal texture, bold sans-serif road-sign font, mixed case, the text with black on white, smooth reflective metal texture, bold sans-serif road-sign font, uppercase, and the text with black on white, smooth reflective metal texture, bold sans-serif road-sign font, uppercase and stacked.
+3. The text reading 'For 3 miles', 'GRANE RD', and 'CHECK YOUR SPEED'.

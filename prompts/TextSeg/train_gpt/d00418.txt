@@ -1,0 +1,3 @@
+1. The text located at the top-left header, the center large logo bar, and the bottom-left corner.
+2. The text with white, flat texture, condensed geometric sans-like font, thin uppercase style; green/red/white, flat texture, bold geometric/block display font, highly stylized logo form; white, flat texture, small geometric sans-like font, simple numeric style.
+3. The text reading 'LOGO VERSIONS', 'F:D', and '3'.

@@ -1,0 +1,3 @@
+1. The text located at the center of the image on the white rectangular street sign, top line and bottom line.
+2. The text with black color, smooth painted texture, serif font, uppercase style and black color, smooth painted texture, serif font, uppercase style.
+3. The text reading 'DEADMANS' and 'LANE'.

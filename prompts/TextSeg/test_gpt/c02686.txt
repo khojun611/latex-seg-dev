@@ -1,0 +1,3 @@
+1. The text located at the center upper door panel, the center mid-door panel, and the center lower door panel.
+2. The text with white, smooth flat texture, tall condensed sans-serif font, center-aligned regular, white, smooth flat texture, tall condensed sans-serif font, center-aligned regular, and white, smooth flat texture, tall condensed sans-serif font, center-aligned regular.
+3. The text reading 'Ready for Christmas', '& something is', and 'still missing?'.

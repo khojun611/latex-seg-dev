@@ -1,0 +1,3 @@
+1. The text located at the upper-center, lower-left, and lower-center.
+2. The text with pink color, speckled/grainy texture, vintage decorative serif font and ornate uppercase style, pink color, speckled/grainy texture, decorative script-like ampersand with large swashes, and pink color, speckled/grainy texture, vintage decorative serif font and ornate uppercase style.
+3. The text reading 'MOTHER', '&', and 'FATHER'.

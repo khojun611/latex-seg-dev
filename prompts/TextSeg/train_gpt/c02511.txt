@@ -1,0 +1,3 @@
+1. The text located at the center of the large sign, bottom left of the film border, bottom center of the film border, bottom right of the film border, and top center of the film border.
+2. The text with red, weathered/faded painted texture, bold condensed sans-serif font, uppercase block style, yellow‑gold, smooth printed texture, sans‑serif font, uppercase style, yellow‑gold, smooth printed texture, sans‑serif numeric font, small orange, printed texture, small sans‑serif numeric style, and small orange, printed texture, small sans‑serif numeric style.
+3. The text reading 'NO SWIMMI', 'KODAK SAFETY FILM', '6935', '25', and '26'.

@@ -1,0 +1,3 @@
+1. The text located at the top, center, below-center, and bottom.
+2. The text with olive-green solid matte fill, bold rounded display sans-serif font, uppercase with thick black drop-shadow and outline, mustard-golden solid matte fill, extra-bold rounded display sans-serif font, uppercase with thick black 3D shadow and outline, olive-green solid matte fill, bold rounded display sans-serif font, title case with thick black drop-shadow and outline, and mustard-golden solid matte fill, extra-bold rounded display sans-serif font, uppercase with exclamation and thick black 3D shadow and outline.
+3. The text reading 'SMIDGEN', 'FAT', 'Tuesday', and 'SALE!'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-left, center-left, and lower-left of the image.
+2. The text with deep magenta/pink, grainy brush-marker texture, hand-lettered brush script font, cursive with soft grey drop shadow, deep magenta/pink, grainy brush-marker texture, hand-lettered brush script font, cursive with soft grey drop shadow, and deep magenta/pink, grainy brush-marker texture, hand-lettered brush script font, cursive with soft grey drop shadow.
+3. The text reading 'Mondays', 'should be', and 'optional.'

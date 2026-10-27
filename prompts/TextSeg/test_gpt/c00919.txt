@@ -1,0 +1,3 @@
+1. The text located at the above-center and center of the image.
+2. The text with yellow, flat solid texture, hand-lettered script font, small slanted style and yellow, flat solid texture, hand-lettered script font, bold cursive with swash underline style.
+3. The text reading 'The', 'Challenger'

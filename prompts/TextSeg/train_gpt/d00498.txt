@@ -1,0 +1,3 @@
+1. The text located at the large central numerals across the middle, below the numbers centered at the bottom, and to the right of "YEAR" as a small decorative plus.
+2. The text with pale blue fill and black outline, flat texture, bold geometric sans‑serif font, large outlined decorative style; black solid fill, flat texture, uppercase geometric sans‑serif font, spaced bold style; and black solid color, flat texture, simple symbol/glyph, small decorative style.
+3. The text reading '2020', 'HAPPY NEW YEAR', and '+'.

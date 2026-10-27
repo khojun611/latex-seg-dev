@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the shirt, upper-right of the shirt, center of the shirt, center-right of the shirt, and lower-center of the shirt.
+2. The text with yellow color, distressed/grunge texture, bold block sans-serif font, uppercase style; blue (cyan) color, distressed/grunge texture, bold condensed sans-serif font, uppercase and slightly slanted style; pink color, distressed/grunge texture, bold block sans-serif font, uppercase style; yellow color, distressed/grunge texture, small hand-lettered/brush-like font, uppercase style; blue (cyan) color, distressed/grunge texture, bold condensed sans-serif font, uppercase style.
+3. The text reading 'I', 'WAS', 'MADE', 'FOR', and 'THIS'.

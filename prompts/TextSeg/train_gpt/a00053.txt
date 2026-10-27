@@ -1,0 +1,3 @@
+1. The text located at the upper-center below the red logo (first line: Save), the upper-center to the right of the first word (first line: the), and the mid-center below the first line (second line: Children).
+2. The text with black color, smooth flat texture, bold rounded sans-serif font, title case, black color, smooth flat texture, bold rounded sans-serif font, lower case, and black color, smooth flat texture, bold rounded sans-serif font, title case.
+3. The text reading 'Save', 'the', and 'Children'.

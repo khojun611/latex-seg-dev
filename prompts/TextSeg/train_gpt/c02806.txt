@@ -1,0 +1,3 @@
+1. The text located at the top of the sign, center of the sign, and bottom of the sign.
+2. The text with black color, painted-on wood texture, bold condensed sans-serif font, mixed-case bold style, black color, painted-on wood texture, bold condensed sans-serif font, mixed-case bold style, and black color, painted-on wood texture, bold condensed sans-serif font, lowercase bold style.
+3. The text reading 'In my defense,', 'I was left', and 'unsupervised.'.

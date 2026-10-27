@@ -1,0 +1,3 @@
+1. The text located at the upper-center and just below the upper-center.
+2. The text with green, 3D beveled, bold sans-serif, uppercase, drop-shadowed and red, 3D beveled, bold sans-serif, uppercase, ornamented (wreaths, hat, star), drop-shadowed.
+3. The text reading 'MERRY', 'CHRISTMAS'

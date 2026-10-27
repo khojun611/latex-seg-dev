@@ -1,0 +1,3 @@
+1. The text located at the top center of the sign, the bottom center-left of the sign, and the bottom center-right of the sign.
+2. The text with black and red, solid smooth raised acrylic, bold condensed sans‑serif uppercase, the text with red, solid smooth raised acrylic, serif medium-weight slightly italic, and the text with red, solid smooth raised acrylic, serif medium-weight slightly italic.
+3. The text reading 'IRONMOM', '#1', and '24/7'.

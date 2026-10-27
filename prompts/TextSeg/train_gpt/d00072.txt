@@ -1,0 +1,3 @@
+1. The text located at the top-left inside a yellow hexagon, and top-center-right beside the hexagon.
+2. The text with yellow, solid/glossy fill, bold rounded sans-serif font, stylized logotype for the first, and black fill with white outline, subtle bevel/shadow, bold rounded sans-serif font, lowercase style for the second.
+3. The text reading 'Ex' and 'nspect'.

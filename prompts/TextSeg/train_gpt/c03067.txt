@@ -1,0 +1,3 @@
+1. The text located at the center of the rectangular street sign, and at the lower-right of the street sign.
+2. The text with black color, glossy painted texture, serif uppercase font, regular style, and red color, glossy painted texture, sans-serif font, regular style.
+3. The text reading 'FOUR OAKS RD.', '74'.

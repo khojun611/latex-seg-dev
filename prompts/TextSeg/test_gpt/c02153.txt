@@ -1,0 +1,3 @@
+1. The text located at the upper-left, lower-left, and right side.
+2. The text with black smooth serif uppercase bold, black smooth serif uppercase bold, and dark-red smooth serif uppercase bold.
+3. The text reading 'FRIDAY', 'STREET', and 'EC4'.

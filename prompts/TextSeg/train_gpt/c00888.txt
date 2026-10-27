@@ -1,0 +1,3 @@
+1. The text located at the upper-left arc, the upper-right arc, and the bottom arc.
+2. The text with dark navy color, slightly distressed/grainy texture, bold rounded sans-serif font, uppercase curved style, dark navy color, slightly distressed/grainy texture, bold rounded sans-serif font, uppercase curved style, and dark navy color, slightly distressed/grainy texture, bold rounded sans-serif font, uppercase curved style with wider letter spacing.
+3. The text reading 'STRESS LESS,', 'BEACH MORE', and 'COASTLINE'.

@@ -1,0 +1,3 @@
+1. The text located at the left-center, right-center, and bottom-right corner.
+2. The text with white, smooth, decorative hand-drawn script font, cursive style, black, flat, barcode numeric font, machine-printed style, and black, flat, small sans-serif font, printed style.
+3. The text reading 'Merry Christmas', '164587695', and 'SNU'

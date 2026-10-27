@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-center above the large title, center large 3D title, and lower-center neon script overlapping the title.
+2. The text with cyan/white flat vector sans-serif icon style, white thin uppercase narrow sans-serif with wide tracking, metallic chrome gradient (pink/blue/white) textured 3D bold block uppercase with bevel and highlights, and neon pink glowing cursive script with heavy outer glow.
+3. The text reading 'Ps', 'HYPERPIX PRODU', 'AVENG', and 'BackF'

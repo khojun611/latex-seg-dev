@@ -1,0 +1,3 @@
+1. The text located at the upper panel of the road sign, the middle panel of the road sign, and the lower panel of the road sign.
+2. The text with black color, smooth painted metal texture, bold sans-serif font, uppercase style, black color, smooth painted metal texture, bold sans-serif font, uppercase style, and black color, smooth painted metal texture, bold sans-serif font, uppercase style.
+3. The text reading 'DRIVE', 'ON LEFT', and 'IN AUSTRALIA'.

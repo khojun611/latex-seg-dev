@@ -1,0 +1,3 @@
+1. The text located at the left side of the white rectangular sign, the center of the white rectangular sign, and the right side of the white rectangular sign.
+2. The text with black color, smooth painted texture on wood, slab-serif font, bold style, black color, smooth painted texture on wood, slab-serif font, bold style, and black color, smooth painted texture on wood, slab-serif font, bold style.
+3. The text reading 'Dog', 'House', and '2'.

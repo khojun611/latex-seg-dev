@@ -1,0 +1,3 @@
+1. The text located at the bottom-left under the dog, the bottom-right under the cat/parrot, and the bottom-center on the red ribbon.
+2. The text with white fill, gray shading, brown outline, 3D blocky bold sans-serif, uppercase and thick drop-shadow; light blue fill with darker blue shading, white highlight, dark brown outline, 3D extruded rounded bold sans-serif, uppercase and cartoon drop-shadow; and white flat fill, bold condensed sans-serif, uppercase on a red ribbon banner.
+3. The text reading 'MY', 'PETS', and 'MY BEST FRIENDS, FOREVER !'

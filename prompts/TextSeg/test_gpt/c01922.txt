@@ -1,0 +1,3 @@
+1. The text located at the top-center, just below the top-center, center, center-right, center-lower, center-lower-left, center-lower-right, and bottom-center.
+2. The text with black slightly textured bold uppercase sans-serif/hand-lettered, red flat small uppercase sans-serif, pink/red gradient glossy 3D brush script with shadow, black flat bold uppercase sans-serif, pink/red gradient glossy 3D cursive script with shadow, black flat small bold ampersand, black flat bold uppercase sans-serif, and bright red textured bold uppercase sans-serif.
+3. The text reading 'FRIDAY', 'NIGHT', 'goals', 'STAY IN', 'Save Money', '&', 'WATCH', and 'NETFLIX'.

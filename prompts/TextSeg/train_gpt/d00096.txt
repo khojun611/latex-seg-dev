@@ -1,0 +1,3 @@
+1. The text located at the top-left, bottom-left, and top-right.
+2. The text with black color, layered striped 3D extrusion texture, bold condensed geometric sans-serif font, uppercase isometric extruded style, black color, layered striped 3D extrusion texture, bold condensed geometric sans-serif font, uppercase isometric extruded style, and black color, layered striped 3D extrusion texture, bold condensed geometric sans-serif font, uppercase isometric extruded style.
+3. The text reading 'HERKES', 'KÖŞESİNİ', and 'KAPMIŞ'.

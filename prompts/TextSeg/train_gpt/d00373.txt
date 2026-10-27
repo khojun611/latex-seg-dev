@@ -1,0 +1,3 @@
+1. The text located at the center of the image and the bottom-left of the image.
+2. The text with white-to-gray metallic gradient, glossy/embossed texture, bold geometric block display font, angular stylized uppercase logo and white solid color, flat smooth texture, bold sans-serif uppercase font for the caption.
+3. The text reading 'GORA' and '.TEXT LOGO FOLIO'

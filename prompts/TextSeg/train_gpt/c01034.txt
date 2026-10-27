@@ -1,0 +1,3 @@
+1. The text located at the top, the center-right, and the bottom.
+2. The text with dark navy color, solid flat texture, hand-lettered brush script font, bold flowing cursive style, white color, solid flat texture, hand-lettered script font, small cursive with underline flourish, and dark navy color, solid flat texture, hand-lettered brush script font, very large bold flowing cursive style.
+3. The text reading 'Oklahoma', 'City', and 'Thunder'.

@@ -1,0 +1,3 @@
+1. The text located at the top street sign center, the bottom street sign center, and the top street sign right.
+2. The text with white on green, smooth reflective/retroreflective painted texture, sans-serif highway-style font, mixed-case bold for the top sign, white on green, smooth reflective/retroreflective painted texture, sans-serif highway-style font, mixed-case bold for the bottom sign, and white on green, smooth reflective/retroreflective painted texture, sans-serif highway-style font, all-caps bold for the 'PRIVATE' label.
+3. The text reading 'Mayfair Ave N', 'Mayfair Ave N', and 'PRIVATE'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-center, the center-lower, and the lower-right.
+2. The text with a teal-to-green glossy neon gradient, smooth/beveled texture, hand-lettered tall condensed script font, slanted/outlined neon style, a yellow-to-orange glossy neon gradient, smooth/beveled texture, hand-lettered rounded condensed script font, bold/slanted outlined neon style, and a yellow-to-orange glossy neon gradient, smooth texture, matching hand-lettered accent-mark font, outlined neon style.
+3. The text reading 'VENTURE', 'OUT', and '!'.

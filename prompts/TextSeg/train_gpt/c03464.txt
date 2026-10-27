@@ -1,0 +1,3 @@
+1. The text located at the left side of the sign, the right side of the sign, and the lower-right corner of the sign.
+2. The text with black color, worn painted metal texture, bold uppercase sans-serif font, distressed style, black color, worn painted metal texture, bold uppercase sans-serif font, distressed style, and red color, painted texture, small sans-serif font, plain style.
+3. The text reading 'HENRY', 'ROAD', and '25'.

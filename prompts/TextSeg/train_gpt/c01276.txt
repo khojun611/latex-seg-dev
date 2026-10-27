@@ -1,0 +1,3 @@
+1. The text located at the upper-left and center-left of the image.
+2. The text with white, glowing neon tube texture, tall condensed outline sans-serif font, uppercase neon sign style and white, glowing neon tube texture, bold condensed outline sans-serif font, uppercase neon sign style.
+3. The text reading 'I EAT' and 'AREPAS'.

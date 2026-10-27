@@ -1,0 +1,3 @@
+1. The text located at the top-center of the chalkboard and the center of the chalkboard banner.
+2. The text with white chalk color, rough chalk texture, hand-drawn brush script font, cursive style and white chalk color, rough chalk texture, hand-drawn bold condensed sans-serif font, uppercase banner style.
+3. The text reading 'happy', 'BIRTHDAY'

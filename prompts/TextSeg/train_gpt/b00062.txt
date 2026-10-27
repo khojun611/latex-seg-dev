@@ -1,0 +1,3 @@
+1. The text located at the diagonal central banner across the middle of the image.
+2. The text with white fill and thin black inner shadow and gold outline, smooth embossed/beveled texture, serif uppercase font, and bold, letterspaced style.
+3. The text reading 'COLLECTIVE'

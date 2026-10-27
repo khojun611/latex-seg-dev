@@ -1,0 +1,3 @@
+1. The text located at the upper-left, lower-left, and upper-right.
+2. The text with black painted serif uppercase on a slightly weathered white textured background, black painted serif uppercase on a slightly weathered white textured background, and red painted serif uppercase, slightly bolder, on a slightly weathered white textured background.
+3. The text reading 'FISHMONGER'S HALL', 'WHARF', and 'EC4'.

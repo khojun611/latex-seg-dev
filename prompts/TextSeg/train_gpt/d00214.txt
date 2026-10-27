@@ -1,0 +1,3 @@
+1. The text located at the top-left, center, and lower-right.
+2. The text with white, grainy, sans-serif italic with RGB chromatic aberration and blur, white, grainy, large bold sans-serif italic with RGB chromatic aberration and heavy blur/glow, and white, grainy emoticon-style shapes with RGB chromatic aberration and blur.
+3. The text reading 'but', 'why?', and ':)'.

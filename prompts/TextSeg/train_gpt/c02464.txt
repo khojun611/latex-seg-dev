@@ -1,0 +1,3 @@
+1. The text located at the top-center sign (left word) and top-center sign (right word).
+2. The text with white color, smooth/solid texture, geometric sans-serif font, title case (capital B, lowercase oots) and white color, smooth/solid texture, geometric sans-serif font, uppercase.
+3. The text reading 'Boots' and 'CREEK'.

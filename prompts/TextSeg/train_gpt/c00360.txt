@@ -1,0 +1,3 @@
+1. The text located at the upper-left/upper-center of the board, the center-top small tag between words, and the upper-right of the board.
+2. The text with neon green, chalk-marker texture, hand-lettered script font, decorative bold with dotted highlights and shadow; white, chalk-marker texture, condensed sans-serif/handwritten block font, small uppercase label style; neon green, chalk-marker texture, hand-lettered script font, decorative with flourishes and highlights.
+3. The text reading 'Menu', 'DEL', and 'Dia'.

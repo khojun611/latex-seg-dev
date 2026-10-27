@@ -1,0 +1,3 @@
+1. The text located at the top-left of the building facade, the top-center of the building facade, and the top-right of the building facade.
+2. The text with pink/magenta glossy metallic color and weathered texture, white neon outline, retro cursive script font and neon sign style, pink/magenta glossy metallic color and weathered texture, white neon outline, retro cursive script font and neon sign style, and no text.
+3. The text reading 'Coffee', 'Shop', and 'No other text'.

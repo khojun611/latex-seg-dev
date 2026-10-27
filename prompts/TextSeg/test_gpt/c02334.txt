@@ -1,0 +1,3 @@
+1. The text located at the top center of the sign, the central area of the sign, and the bottom area of the sign.
+2. The text with dark brown, smooth painted metal texture, bold condensed sans-serif font, uppercase bold with underline, dark brown, smooth painted metal texture, bold sans-serif font, uppercase bold (medium size), and dark brown, smooth painted metal texture, bold sans-serif font, uppercase bold (smaller).
+3. The text reading 'NOTICE.', 'ONLY THE AUTHORISED ATTENDANT', and 'IS PERMITTED TO ENTER.'

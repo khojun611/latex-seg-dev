@@ -1,0 +1,3 @@
+1. The text located at the upper-central area of the sign ('WRONG') and the central-lower area of the sign ('WAY').
+2. The text with orange fill, white inset stroke, black drop shadow, slightly beveled/3D textured retro condensed display font, uppercase, bold (for 'WRONG') and teal/light-blue fill, white outline, thin inner stripe detailing, flat textured geometric condensed display font, uppercase, outlined (for 'WAY').
+3. The text reading 'WRONG' and 'WAY'.

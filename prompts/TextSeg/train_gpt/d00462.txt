@@ -1,0 +1,3 @@
+1. The text located at the center-left of the card (near the logo), below that center-left, and the top-right corner (QR code).
+2. The text with dark teal/black solid color, smooth texture, uppercase sans-serif font, bold style, dark teal/black solid color, smooth texture, uppercase sans-serif font, light style, and white on dark teal, pixelated texture, no font (QR graphic), blocky style.
+3. The text reading 'COMPANY NAME', 'TAGLINE HERE', and 'QR CODE (no readable text)'.

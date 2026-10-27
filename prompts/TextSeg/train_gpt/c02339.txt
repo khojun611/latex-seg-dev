@@ -1,0 +1,3 @@
+1. The text located at the left-center of the green street sign, the right-center of the green street sign, and on the face of the pole-mounted green street sign.
+2. The text with white color, smooth painted texture, bold sans-serif font, uppercase, white color, smooth painted texture, bold sans-serif font, uppercase, and white color, smooth painted texture, bold sans-serif font, uppercase.
+3. The text reading 'GUMBY', 'RD', and 'GUMBY RD'.

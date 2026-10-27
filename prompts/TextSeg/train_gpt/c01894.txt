@@ -1,0 +1,3 @@
+1. The text located at the center of the image.
+2. The text with white fill and pale pink inner highlights and dark burgundy outer shadow, smooth painted solid fill with hand-drawn hatch shading and bold hand-lettered cursive/brush font, and thick dark outline with 3D drop-shadow retro lettering style.
+3. The text reading 'Matos'.

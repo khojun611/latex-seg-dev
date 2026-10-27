@@ -1,0 +1,3 @@
+1. The text located at the bottom-left (M), the lower-center (A), the upper-center (T), and the top-right (E).
+2. The text with red fill, white outline, teal 3D drop-shadow, smooth painted texture, bold geometric sans-serif (block) font, 3D extruded style for M, A, T, and E.
+3. The text reading 'M', 'A', 'T', and 'E'.

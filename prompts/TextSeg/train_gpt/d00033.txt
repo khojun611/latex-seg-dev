@@ -1,0 +1,3 @@
+1. The text located at the top center, the middle-left (below the top text), and the center-lower area.
+2. The text with white, cracked/grunge texture, bold condensed sans-serif/block font, uppercase distressed style, white, smooth texture, simple sans-serif font, lowercase plain style, and white, speckled/distressed texture, ornate script/cursive font, calligraphic flourish style.
+3. The text reading 'SHATTER', 'the', and 'silence'.

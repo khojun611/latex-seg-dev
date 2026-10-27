@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-center, center, and bottom-center.
+2. The text with light blue color, smooth glossy texture, rounded sans‑serif font, app-icon logo style, white color, matte grainy texture, thin condensed sans‑serif font, all-caps spaced wordmark style, chrome-silver color, reflective metallic texture, heavy block 3D sans‑serif font, embossed chrome style, and red color, glowing neon-tube texture, angular script/hand-drawn font, neon sign style.
+3. The text reading 'Ps', 'HYPERPIX PRODUCTION', 'BLACK FRIDAY', and 'SUPER SALE'.

@@ -1,0 +1,3 @@
+1. The text located at the left side of the green sign and the right side of the green sign.
+2. The text with white color, weathered/chipped texture, sans-serif highway-style font, title case and white color, smooth texture, sans-serif highway-style font, title case.
+3. The text reading 'Onondaga' and 'Nation'.

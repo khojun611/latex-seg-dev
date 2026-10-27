@@ -1,0 +1,3 @@
+1. The text located at the top-left marquee, the top-right marquee, and the lower marquee.
+2. The text with black color, smooth painted texture, bold condensed sans-serif font, uppercase block style, black color, smooth painted texture, bold condensed sans-serif font, uppercase block style, and black color, smooth painted texture, bold condensed sans-serif font, uppercase block style.
+3. The text reading 'AVIATOR', 'NATION', and '10AM TO 8PM'.

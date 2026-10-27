@@ -1,0 +1,3 @@
+1. The text located at the upper-center, center, lower-center, and bottom-center.
+2. The text with red color, reflective diamond-textured background, bold italic sans-serif font, uppercase, red color, reflective diamond-textured background, bold italic sans-serif font, uppercase, red color, reflective diamond-textured background, bold italic sans-serif font, uppercase, and red color, reflective diamond-textured background, bold italic sans-serif font, uppercase.
+3. The text reading 'DO NOT FEED', 'THE BEARS', 'OR', and 'WILD ANIMALS'.

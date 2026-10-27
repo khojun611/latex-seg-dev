@@ -1,0 +1,3 @@
+1. The text located at the center-right of the green rectangular sign.
+2. The text with white color, smooth printed texture, sans-serif bold font, title-case non-italic style.
+3. The text reading 'Exit'

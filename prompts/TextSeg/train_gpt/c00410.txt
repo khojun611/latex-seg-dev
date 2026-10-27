@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-middle, middle, and bottom-center of the sign.
+2. The text with black, smooth painted, script/cursive font, hand-lettered style, red, smooth painted, bold slab-serif font, uppercase style, red, smooth painted, bold slab-serif font, uppercase style, and red, smooth painted, bold slab-serif font, uppercase style with exclamation.
+3. The text reading 'Gramma's', 'STEAK', 'ROUND', and 'UP!'.

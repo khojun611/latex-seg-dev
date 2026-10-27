@@ -1,0 +1,3 @@
+1. The text located at the top-center inside a rounded oval badge, and at the center on a large jagged blue starburst background.
+2. The text with yellow/orange fill, dark blue outline, smooth painted texture, bold rounded sans-serif-like font, italicized and 3D extruded drop-shadow style, and light gray fill with yellow/orange offset outline and dark inner stroke, glossy/beveled texture, hand-lettered script font, 3D layered shading and drop-shadow style.
+3. The text reading 'TOP', 'Deal'

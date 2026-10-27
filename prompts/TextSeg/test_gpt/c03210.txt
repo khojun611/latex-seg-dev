@@ -1,0 +1,3 @@
+1. The text located at the top-right of the upper panel (next to the upward arrow), the center of the upper panel beneath that (below "Dounby"), and the center of the lower panel (left of the right-pointing arrow).
+2. The text with black color, smooth reflective painted texture, bold sans-serif road-sign font, titlecase (initial capital) for "Dounby", black color, smooth reflective painted texture, bold sans-serif road-sign font, uppercase alphanumeric for "B9057", and black color, smooth reflective painted texture, bold sans-serif road-sign font, titlecase (initial capital) for "Twatt".
+3. The text reading 'Dounby', 'B9057', and 'Twatt'.

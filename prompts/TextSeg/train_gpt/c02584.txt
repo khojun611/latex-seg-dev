@@ -1,0 +1,3 @@
+1. The text located at the top-center on the blue box, across the center on the white product labels on each packaged item, and on the barcode/article-number area of the nearest package.
+2. The text with white painted flat print on blue cardboard, bold condensed sans-serif uppercase, the text with black printed smooth ink on glossy white stickers, sans-serif mixed-case, and the text with black small numeric/barcode machine print, thin sans-serif numeric style.
+3. The text reading 'VW ERSATZTEILE', 'EKMEI Türschalen mit Geräuschdämpfung', and 'Art.-Nr. 0 24032 01'.

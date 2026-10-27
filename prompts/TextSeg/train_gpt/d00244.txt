@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-right, and bottom-center.
+2. The text with black color, flat/solid texture, heavy rounded sans-serif font, bold/plain style; marbled pink/red/black/purple color, glossy/liquid texture, bold geometric sans-serif font, decorative style; and white (left) and black (right) two-tone color, flat/solid texture, rounded playful sans-serif font, bold/playful style.
+3. The text reading '?', '5', and 'Portfolio'.

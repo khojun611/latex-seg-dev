@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-center, top-right, bottom-left, bottom-center, and bottom-right.
+2. The text with black, heavily sketched/hatched, hand-drawn block outline, uppercase for top-left, black, heavily sketched/hatched, hand-drawn block outline, uppercase for top-center, black, heavily sketched/hatched, hand-drawn block outline, uppercase for top-right, black, thin hand-drawn, irregular handwritten, mixed-case for bottom-left, black, thin hand-drawn, irregular handwritten, uppercase for bottom-center, and black, thin hand-drawn, irregular handwritten, mixed-case for bottom-right.
+3. The text reading 'S', 'M', 'S', 'Text', 'SIGN', and 'Up'.

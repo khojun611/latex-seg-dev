@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the triangular sign, the upper-right of the triangular sign, and the center of the triangular sign.
+2. The text with black color, rough hand-painted texture, hand-painted block sans-serif font, bold uppercase, black color, rough hand-painted texture, hand-painted block sans-serif font, bold uppercase, and black color, rough hand-painted texture, hand-painted block sans-serif font, bold uppercase.
+3. The text reading 'CEDA', 'EL', and 'PASO'

@@ -1,0 +1,3 @@
+1. The text located at the top blue panel, the blue highway shield on the left of the lower sign, and the lower green panel.
+2. The text with yellow-orange, reflective, bold rounded sans-serif, mixed-case (initial capitals, "Ave"), white on blue shield, reflective, bold sans-serif numerals, highway-shield style, and white, reflective, bold rounded sans-serif, mixed-case (initial capital, "Rd").
+3. The text reading 'Batman Ave', '29', and 'Punt Rd'.

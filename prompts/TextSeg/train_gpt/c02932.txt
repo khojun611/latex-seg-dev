@@ -1,0 +1,3 @@
+1. The text located at the top center, the center of the upper blue header, and the bottom center blue panel.
+2. The text with white color, flat solid texture, sans-serif regular font, title-case style; white color, flat solid texture, sans-serif bold font, uppercase style; and white color, flat solid texture, sans-serif bold font, uppercase style.
+3. The text reading 'Welcome to', 'CHINCHILLA', and 'WARREGO HIGHWAY'.

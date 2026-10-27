@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the chest, the center of the chest, and the lower-center of the chest.
+2. The text with black fill and white outline, smooth printed texture, bold serif font, and uppercase outlined style, black fill and white outline, smooth printed texture, bold serif font, and uppercase outlined style, black fill and white outline, smooth printed texture, bold serif font, and uppercase outlined style.
+3. The text reading 'GOD', 'GOT', and 'ME'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-center and lower-center.
+2. The text with white brush-stroke texture, hand-lettered brush script font, bold cursive style with heavy black 3D shadow, and white brush-stroke texture, hand-lettered brush script font, bold cursive style with heavy black 3D shadow.
+3. The text reading 'Human', 'Bean'.

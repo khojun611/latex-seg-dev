@@ -1,0 +1,3 @@
+1. The text located at the left end of the blue rectangular board, the middle of the blue rectangular board, and the right end of the blue rectangular board.
+2. The text with red foreground, dark navy extruded shadow and teal drop-shadow, smooth painted/acrylic texture, hand-painted brush-script (cursive) font, bold 3D extruded style, red foreground, dark navy extruded shadow and teal drop-shadow, smooth painted/acrylic texture, hand-painted brush-script (cursive) font, bold 3D extruded style, and red foreground, dark navy extruded shadow and teal drop-shadow, smooth painted/acrylic texture, hand-painted brush-script (cursive) font, bold 3D extruded style.
+3. The text reading 'I', 'am', and 'Woman'.

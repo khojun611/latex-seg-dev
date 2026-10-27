@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the chest, center of the chest, and lower-center of the chest.
+2. The text with red color, smooth printed texture, bold sans-serif font, uppercase, white color, smooth printed texture, regular sans-serif font with EXTRA uppercase, and white color, smooth printed texture, regular sans-serif font, sentence case.
+3. The text reading 'WARNING:', 'I'm feeling EXTRA', and 'petty today!'.

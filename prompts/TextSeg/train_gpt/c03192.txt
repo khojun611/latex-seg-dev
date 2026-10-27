@@ -1,0 +1,3 @@
+1. The text located at the top-center semicircular panel, bottom-left of the rectangular panel, and bottom-center of the rectangular panel.
+2. The text with white color, glossy acrylic/vinyl texture, bold sans-serif font, and large centered numeral style, white color, glossy acrylic/vinyl texture, serif font, and uppercase bold small-size left-aligned style, and white color, glossy acrylic/vinyl texture, serif font, and uppercase bold large-size centered style.
+3. The text reading '5', 'JL.', and 'SULAIMAN'.

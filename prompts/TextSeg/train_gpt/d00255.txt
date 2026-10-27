@@ -1,0 +1,3 @@
+1. The text located at the left side of the logo alongside the 'A' (vertical/rotated), the center of the image, and the bottom center beneath the main word.
+2. The text with light gray, flat, thin condensed sans-serif, rotated/italic for the left vertical word; medium gray, flat, bold geometric sans-serif uppercase with a multicolored faceted 'X' (triangular overlapping shapes) for the center word; and light gray, flat, thin rounded sans-serif lowercase for the bottom subtitle.
+3. The text reading 'agência', 'ATIVOX', and 'marketing digital'.

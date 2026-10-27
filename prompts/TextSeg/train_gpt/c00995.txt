@@ -1,0 +1,3 @@
+1. The text located at the bottom of the board, lower-middle of the board, upper-middle of the board, and top-right of the board.
+2. The text with black color, glossy painted texture, blackletter (gothic) font, angular/stylized style, black color, glossy painted texture, blackletter (gothic) font, angular/stylized style, black color, glossy painted texture, blackletter (gothic) font, angular/stylized style, and black color, glossy painted texture, blackletter (gothic) font, angular/stylized style.
+3. The text reading 'S', 'E', 'E', and 'K'.

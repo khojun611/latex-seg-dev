@@ -1,0 +1,3 @@
+1. The text located at the top-left corner of the sign, the top-center of the sign, the center of the sign, and the bottom-center of the sign.
+2. The text with small black sans-serif numerals on white metal (printed, slightly worn), black bold sans-serif wordmark on white metal (printed, slightly weathered), large red bold sans-serif headline on white metal (printed, slightly worn), and black regular sans-serif subtext on white metal (printed, slightly dirty).
+3. The text reading '48', 'Schulbereich', 'Kein Hundekot', and 'Anzeige droht'.

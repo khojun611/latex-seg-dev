@@ -1,0 +1,3 @@
+1. The text located at the top center of the sign.
+2. The text with white color, smooth printed texture, bold sans-serif font, uppercase block style.
+3. The text reading 'BEWARE'.

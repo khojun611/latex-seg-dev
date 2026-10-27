@@ -1,0 +1,3 @@
+1. The text located at the center of the white sign (spanning left-to-right), the right end of the sign, and the lower center of the sign.
+2. The text with black color, smooth flat enamel texture, bold condensed sans-serif font, uppercase block style, red color, smooth flat enamel texture, bold sans-serif font, uppercase small size, and dark red/maroon color, smooth flat enamel texture, medium-weight sans-serif font, uppercase style.
+3. The text reading 'BIRD IN BUSH ROAD', 'SE15', and 'LONDON BOROUGH OF SOUTHWARK'.

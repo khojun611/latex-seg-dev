@@ -1,0 +1,3 @@
+1. The text located at the top of the sign, the middle of the sign, and the bottom of the sign.
+2. The text with black fill and red painted outline, rough hand-painted brush texture, bold block sans-serif uppercase outlined/drop-shadow, black fill and red painted outline, rough hand-painted brush texture, bold block sans-serif uppercase outlined/drop-shadow, and black fill and red painted outline, rough hand-painted brush texture, bold block sans-serif uppercase outlined/drop-shadow with letters separated by periods.
+3. The text reading 'TALLER', 'OPTICO', and 'K.F.Z.'

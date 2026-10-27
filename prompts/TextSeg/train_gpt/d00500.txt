@@ -1,0 +1,3 @@
+1. The text located at the upper-middle left of the building facade (vertical sign) and lower-left on the projecting horizontal sign.
+2. The text with red glowing neon, glass tubing texture, bold uppercase sans-serif neon style for 'TABAC' and warm yellow glowing neon, glass tubing texture, script-like connected neon style for 'BRASSERIE'.
+3. The text reading 'TABAC' and 'BRASSERIE'.

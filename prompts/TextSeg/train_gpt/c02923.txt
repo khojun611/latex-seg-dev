@@ -1,0 +1,3 @@
+1. The text located at the top center of the rectangular print, the middle center of the rectangular print, and the bottom center of the rectangular print.
+2. The text with black, solid printed ink with slight distress, bold slab-serif display font, titlecase with apostrophe; black, solid printed ink, bold condensed sans-serif (or rounded sans) font, lowercase with apostrophe; and black, solid printed ink, bold rounded sans-serif font, lowercase word with numerals.
+3. The text reading 'Shagg's', 'surf'n sport', and 'since 1965'.

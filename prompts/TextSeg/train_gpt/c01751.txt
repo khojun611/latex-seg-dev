@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, and left and right edges.
+2. The text with blue fill and yellow outline, painted rough wall texture, bold uppercase slab-serif font, uppercase block with drop-shadow; red fill and yellow outline, painted rough wall texture, cursive script font, flowing decorative style; and blue fill and yellow outline, painted rough wall texture, stylized quotation-mark glyphs, decorative punctuation style.
+3. The text reading 'RECAUDERIA', 'El Carrito', and '“ ”'.

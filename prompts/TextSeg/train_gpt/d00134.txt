@@ -1,0 +1,3 @@
+1. The text located at the top-left and top-right.
+2. The text with red, smooth solid fill, sans-serif katakana font, small simple style and red, rough brushstroke texture, brush-script display font, bold uppercase stylized style.
+3. The text reading 'ラーメンボーイ', 'RAMEN BOY'.

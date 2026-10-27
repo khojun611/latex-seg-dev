@@ -1,0 +1,3 @@
+1. The text located at the top center of the rectangular sign, the middle of the rectangular sign, and the bottom center of the rectangular sign.
+2. The text with black color, slightly weathered painted texture, bold uppercase sans-serif font, centered block style, black color, slightly weathered painted texture, bold uppercase sans-serif font, centered block style, and black color, slightly weathered painted texture, bold uppercase sans-serif font, centered block style.
+3. The text reading 'EXIT', 'TO OUTSIDE OF', and 'BUILDING'.

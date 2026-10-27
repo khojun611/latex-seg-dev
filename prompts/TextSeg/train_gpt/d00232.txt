@@ -1,0 +1,3 @@
+1. The text located at the top-center and center.
+2. The text with white (red rectangular background for 'MARVEL'; white on dark for 'STUDIOS'), flat texture, bold sans-serif font, uppercase compact logo style, and gold, metallic/grainy/star-speckled texture, thin tall serif font, elegant uppercase with subtle inner glow.
+3. The text reading 'MARVEL STUDIOS' and 'ETERNALS'.

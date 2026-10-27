@@ -1,0 +1,3 @@
+1. The text located at the left-center of the street sign, the top-right of the street sign, and the lower-right of the street sign.
+2. The text with white, smooth matte painted, bold sans-serif (highway-style), mixed-case for 'Grandview', white, smooth matte painted, condensed sans-serif (highway-style), uppercase for 'ST', and white, smooth matte painted, condensed sans-serif (highway-style), numeric for '100'.
+3. The text reading 'Grandview', 'ST', and '100'.

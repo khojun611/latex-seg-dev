@@ -1,0 +1,3 @@
+1. The text located at the center foreground on the gray rectangular sign.
+2. The text with red fill, white outline and teal/dark-gray 3D shadow, painted canvas texture, bold block hand-painted sans-serif font, uppercase 3D outlined and shadowed style.
+3. The text reading 'MATE'.

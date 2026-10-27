@@ -1,0 +1,3 @@
+1. The text located at the upper-center 'BLACK', mid-center 'LIVES', lower-center 'MATTER!', and bottom edge 'FUCK RACISM'.
+2. The text with black color, rough/grainy/distressed texture, hand-drawn tall condensed display serif, bold uppercase (for 'BLACK'), black color, rough/grainy/distressed texture, hand-drawn tall condensed display serif, bold uppercase (for 'LIVES'), black color, rough/grainy/distressed texture, hand-drawn tall condensed display serif, bold uppercase with exclamation (for 'MATTER!'), and black color, thin outlined geometric/monoline hand-drawn font, angular corners, uppercase, narrow (for 'FUCK RACISM').
+3. The text reading 'BLACK', 'LIVES', 'MATTER!', and 'FUCK RACISM'.

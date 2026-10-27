@@ -1,0 +1,3 @@
+1. The text located at the center, lower center, and lower center below it.
+2. The text with teal/turquoise gradient color, glossy 3D brushstroke texture, custom 3D brushstroke (non-standard) font, sculpted bold style, white color, flat smooth texture, thin geometric sans-serif font, mixed-case regular style, and white color, flat smooth texture, thin geometric sans-serif font, hashtag camelCase style.
+3. The text reading 'M', 'C4D Text Model', and '#PhotoGoose'.

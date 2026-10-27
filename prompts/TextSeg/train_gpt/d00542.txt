@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-right, and lower-center/right.
+2. The text with dark blue fill and yellow outline, layered 3D striped extrusion texture, bold geometric sans-serif style; dark blue fill and yellow outline, layered 3D striped extrusion texture, bold geometric sans-serif style; magenta/pink fill with darker magenta layered 3D extrusion for "WAY" and lime-green fill with dark green outline layered 3D extrusion for the question marks, heavy bold sans-serif style.
+3. The text reading 'Half', 'DEcent', and 'WAY???'.

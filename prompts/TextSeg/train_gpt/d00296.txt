@@ -1,0 +1,3 @@
+1. The text located at the top panel, second panel, third panel, and bottom panel.
+2. The text with blue, glowing neon texture, geometric rounded sans font and neon outline/glow style, yellow and white, rough paint-splatter texture, bold italic display font and grunge/splatter style, cyan and white, glossy striped texture, condensed sans font and horizontal stripe/fast-motion style, and magenta and white, pixelated glitch texture, heavy block sans font and glitch/distressed style.
+3. The text reading 'EMST', 'EMST', 'EMST', and 'EMST'.

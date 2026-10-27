@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the stone, the center of the stone, and the lower-center of the stone.
+2. The text with black color, engraved recessed texture filled with black paint, serif font, centered and title case, black color, engraved recessed texture filled with black paint, serif font, centered and title case, and black color, engraved recessed texture filled with black paint, serif font, centered and title case.
+3. The text reading 'Ciao', 'The Melissa's', and 'Jerry & Marilyn'.

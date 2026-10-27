@@ -1,0 +1,3 @@
+1. The text located at the upper part of the street sign (top-center of the image) and the lower part of the street sign (center of the image).
+2. The text with black color, weathered painted texture, serif carved font, uppercase style and black color, weathered painted texture, serif carved font, uppercase style.
+3. The text reading 'LÔN Y GOGARTH' and 'ORME ROAD'

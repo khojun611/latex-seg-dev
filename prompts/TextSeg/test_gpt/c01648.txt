@@ -1,0 +1,3 @@
+1. The text located at the center-top, center-middle, and center-bottom.
+2. The text with teal color, white contour-line patterned fill with paper-grain texture, bold geometric block display font, uppercase decorative geometric style, teal color, white contour-line patterned fill with paper-grain texture, bold geometric block display font, uppercase decorative geometric style, and teal color, white contour-line patterned fill with paper-grain texture, bold geometric block display font, uppercase decorative geometric style.
+3. The text reading 'THE', 'TRAVEL,', and 'TRIBE'.

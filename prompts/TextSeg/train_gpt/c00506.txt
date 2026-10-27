@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center, and bottom center.
+2. The text with white color, light-gray inner shadow/bevel texture, ornate swash script font and cursive decorative style, white color, light-gray inner shadow/bevel texture, ornate swash script font and cursive decorative style, and white color, flat texture, condensed stencil sans-serif font and vintage banner style.
+3. The text reading 'Global', 'Grunge', and 'EST. 2011'.

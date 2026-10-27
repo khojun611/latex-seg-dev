@@ -1,0 +1,3 @@
+1. The text located at the top-center of the card, the upper-middle of the card, the middle of the card, and the bottom-center of the card.
+2. The text with black color, smooth printed texture, bold condensed sans-serif font, uppercase and centered, black color, smooth printed texture, bold condensed sans-serif font, uppercase and centered, black color, smooth printed texture, bold condensed sans-serif font, uppercase and centered, and black color, smooth printed texture, serif font, uppercase and centered.
+3. The text reading 'MY FIRST', 'VALENTINE', 'IS MY DADDY', and 'AVA ROSE'.

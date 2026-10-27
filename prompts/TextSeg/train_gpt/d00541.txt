@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-center, center, and lower-center.
+2. The text with red color, flat solid texture, bold condensed sans-serif font, comic starburst style, black fill with yellow outline and red/orange 3D extrusion, speckled/starfield texture, thick 3D retro block font, extruded outlined style, black fill with yellow outline and red/orange 3D extrusion, speckled/starfield texture, thick 3D retro block font, extruded outlined style, and yellow fill with black outline and red/orange 3D extrusion, speckled texture, geometric retro arcade font, extruded outlined style.
+3. The text reading 'THE', 'LATE', 'NIGHT', and 'ARCADE'.

@@ -1,0 +1,3 @@
+1. The text located at the upper center, middle center, and lower center.
+2. The text with pale yellow fill, cyan/blue layered 3D shadow, smooth flat texture, bold geometric display sans-serif italic and extruded style, pale yellow fill, cyan/blue layered 3D shadow, smooth flat texture, bold geometric display sans-serif italic and extruded style, and pale yellow fill, flat smooth texture, bold geometric sans-serif upright and non-extruded style.
+3. The text reading 'OPORTO', 'UNITY', and 'PORTO LETTERHEADS 2019'.

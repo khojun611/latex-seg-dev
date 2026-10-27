@@ -1,0 +1,3 @@
+1. The text located at the top-center of the framed sign, center of the framed sign, and bottom-center of the framed sign.
+2. The text with gold/yellow color, smooth flat texture with subtle drop shadow, bold rounded sans-serif font, title case and ampersand, metallic silver/gray color, rough embossed metal texture with dark outline, bold condensed sans-serif font, uppercase with 3D effect, and gold/yellow color, smooth flat texture with subtle drop shadow, bold rounded sans-serif font, numeric date style with periods.
+3. The text reading 'Mr & Mrs', 'GRINSTED', and '20.07.18'.

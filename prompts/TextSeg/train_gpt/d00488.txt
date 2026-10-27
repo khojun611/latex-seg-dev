@@ -1,0 +1,3 @@
+1. The text located at the top center and the center below the large '130'.
+2. The text with red, solid flat texture, bold heavy display sans-serif numerals and black, smooth texture, small thin sans-serif sentence-case text.
+3. The text reading '130' and 'Huge collection of 130 Sculptures'.

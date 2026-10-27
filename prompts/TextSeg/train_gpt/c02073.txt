@@ -1,0 +1,3 @@
+1. The text located at the upper-left and lower-center of the sign.
+2. The text with white color, smooth painted texture, sans-serif bold font, mixed-case style, and white color, smooth painted texture, sans-serif regular font, mixed-case style.
+3. The text reading 'Stopp' and 'Dörren larmad'

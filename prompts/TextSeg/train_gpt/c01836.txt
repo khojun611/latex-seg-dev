@@ -1,0 +1,3 @@
+1. The text located at the top center ('WONKY'), middle left ('YEE'), center ('TONK'), middle right ('HAW'), and below center ('FONT').
+2. The text with yellow, flat solid texture, stylized decorative western serif font, large uppercase display (WONKY), yellow, flat solid texture, stylized decorative western serif font, small uppercase display (YEE), black, flat solid texture, stylized decorative western serif font, very large bold uppercase display (TONK), yellow, flat solid texture, stylized decorative western serif font, small uppercase display (HAW), and yellow, flat solid texture, stylized decorative western serif font, medium uppercase display (FONT).
+3. The text reading 'WONKY', 'YEE', 'TONK', 'HAW', and 'FONT'.

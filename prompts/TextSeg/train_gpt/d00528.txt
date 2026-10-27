@@ -1,0 +1,3 @@
+1. The text located at the top area (three large 'a' characters), bottom-right boxed square ('Ps'), and bottom-right boxed rectangle ('Tutorial').
+2. The text with cyan/aqua color, halftone dot texture, bold rounded sans-serif appearance for the three 'a's, cyan/aqua color, solid fill, clean sans-serif, titlecase inside a bordered square for 'Ps', and cyan/aqua color, solid fill, clean sans-serif, titlecase inside a bordered rectangle for 'Tutorial'.
+3. The text reading 'a a a', 'Ps', and 'Tutorial'.

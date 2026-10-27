@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-right.
+2. The text with cyan/aqua color, glowing neon tube texture, rounded geometric sans font, neon outline style, multicolored (teal/coral/beige) color, painted 3D extruded texture, bold condensed 3D sans-serif font, 3D extruded shadowed style, and dark/black color, smooth hand-painted texture, cursive handwritten font, small signature style.
+3. The text reading 'adidas', 'LONDON', and 'illegible signature'.

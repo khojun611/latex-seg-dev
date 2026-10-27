@@ -1,0 +1,3 @@
+1. The text located at the lower-center of the sign, and the bottom-center of the sign.
+2. The text with black smooth printed (metal/sign), bold sans-serif, large title-case on white matte background, and black smooth printed (metal/sign), regular sans-serif, smaller title/lower-case on white matte background.
+3. The text reading 'Caution' and 'Deep water'.

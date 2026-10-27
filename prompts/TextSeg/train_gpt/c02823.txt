@@ -1,0 +1,3 @@
+1. The text located at the upper-center of the plaque, the middle-center of the plaque, and the lower-center of the plaque.
+2. The text with maroon color, smooth painted texture, serif font, large uppercase style, maroon color, smooth painted texture, serif font, small uppercase style, and maroon color, smooth painted texture, serif font, large uppercase style with a cedilla on the 'Ç'.
+3. The text reading 'CARRER', 'DE LA', and 'FORÇA'.

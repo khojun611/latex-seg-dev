@@ -1,0 +1,3 @@
+1. The text located at the upper left of the sign, upper right of the sign, and lower center of the sign.
+2. The text with white, painted slightly weathered, bold sans-serif, uppercase, white, painted slightly weathered, bold sans-serif, uppercase, and white, painted slightly weathered, serif italic, title case (with numeral).
+3. The text reading 'THAMES', 'PATH', and 'Oxford 5m'.

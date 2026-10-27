@@ -1,0 +1,3 @@
+1. The text located at the left panel, the right upper panel, and the right lower panel.
+2. The text with dark-to-light blue gradient, flat solid texture, bold geometric sans-serif, uppercase stylized logo, white, flat smooth texture, thin sans-serif, title case, and white, flat smooth texture, bold sans-serif, spaced numerals.
+3. The text reading 'SE', 'Hydro Vac | Excavation', and '6241 2268'.

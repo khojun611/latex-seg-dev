@@ -1,0 +1,3 @@
+1. The text located at the lower-center of the left (blue) board and the lower-center of the right (red) board.
+2. The text with white, smooth painted, bold sans-serif font, uppercase style and gold/yellow, smooth painted, bold sans-serif font, uppercase style.
+3. The text reading 'U.S. AIRFORCE' and 'U.S. MARINES'.

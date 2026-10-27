@@ -1,0 +1,3 @@
+1. The text located at the upper-left, upper-center, and upper-right of the page.
+2. The text with black solid fill, hatched extruded faces, hand-lettered bold sans-serif, uppercase 3D hand-drawn, black solid fill, diagonal parallel-line hatched extruded faces, hand-lettered condensed sans-serif, uppercase 3D hand-drawn, and black solid fill, diagonal parallel-line hatched extruded faces, hand-lettered tall sans-serif, uppercase 3D hand-drawn.
+3. The text reading 'FORTUNES', 'FORTUNES', and 'FORTUNES'.

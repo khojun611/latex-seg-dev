@@ -1,0 +1,3 @@
+1. The text located at the top-center banner, the center-left as a large numeral, and the center-right as a cursive word.
+2. The text with green/teal fill with orange accents, painted/canvas texture, hand-drawn block serif font, uppercase banner style; orange fill with green outline, painted/canvas texture, decorative vintage serif font, large ornamental numeral style; and green/teal fill with dark outline, painted/canvas texture, hand-lettered script font, swashy cursive style.
+3. The text reading 'OFERTA', '12', and 'Ostras'.

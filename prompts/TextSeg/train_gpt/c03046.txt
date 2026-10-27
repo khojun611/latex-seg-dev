@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the green highway sign, lower-left of the green highway sign, and upper-right and lower-right of the green highway sign.
+2. The text with white, smooth-painted, sans-serif highway font, bold, white, smooth-painted, sans-serif highway font, bold, and white, smooth-painted, sans-serif highway font, bold.
+3. The text reading 'Dayton', 'Indianapolis', and '31 and 134'.

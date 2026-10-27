@@ -1,0 +1,3 @@
+1. The text located at the left, left-center, center-right, and right.
+2. The text with multicolored gradient (pink, purple, cyan, green), glossy tubular/pill texture, rounded geometric display font, glowing neon 3D style, multicolored gradient (cyan, green, purple, pink), glossy segmented tubular texture, rounded geometric display font, glowing neon 3D style, warm multicolored gradient (yellow, orange, pink, green), glossy tubular crossing texture, rounded geometric display font, glowing neon 3D style, and multicolored gradient (pink, yellow, green), glossy tubular/pill texture, rounded geometric display font, glowing neon 3D style.
+3. The text reading 'T', 'E', 'X', and 'T'.

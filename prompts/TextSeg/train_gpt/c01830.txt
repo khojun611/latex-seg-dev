@@ -1,0 +1,3 @@
+1. The text located at the top-center, just below top-center (crossed-out), center, slightly below center, lower-center, lower-middle (black rectangle), and bottom-center.
+2. The text with black, rough-speckled, hand-stamped uppercase sans-serif style, black smooth cursive with a strikethrough, black hatched/outlined hand-drawn block display, black thin uppercase sans-serif, black smooth flowing cursive script, white cursive on a solid black rectangular background, and black bold smooth brush-script cursive with a period.
+3. The text reading 'IT'S NOT', 'the' (crossed out), 'TIME', 'THAT', 'matters', 'it's the', and 'Person.'

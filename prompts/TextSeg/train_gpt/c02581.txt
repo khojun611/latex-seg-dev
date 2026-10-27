@@ -1,0 +1,3 @@
+1. The text located at the left edge of the sign (left arrow), the top center of the sign (BAREFOOT STREET), and the bottom center/right of the sign (HECKLER LANE and right arrow).
+2. The text with black, smooth painted, glyph (no specific font), solid filled left-pointing arrow, black, smooth painted, serif typeface, uppercase spaced letters, and black, smooth painted, serif typeface, uppercase spaced letters with a solid filled right-pointing arrow.
+3. The text reading '←', 'BAREFOOT STREET', and 'HECKLER LANE →'.

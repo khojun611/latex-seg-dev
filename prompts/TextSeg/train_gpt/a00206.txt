@@ -1,0 +1,3 @@
+1. The text located at the left, center, and right of the sign.
+2. The text with black color, slightly weathered painted metal texture, sans-serif bold uppercase style, black color, slightly weathered painted metal texture, sans-serif bold uppercase style, and black color, slightly weathered painted metal texture, sans-serif bold uppercase style.
+3. The text reading 'CHERRY', 'HILL', and 'AVENUE'.

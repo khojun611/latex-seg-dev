@@ -1,0 +1,3 @@
+1. The text located at the center-left, center, and center-right.
+2. The text with white outline and transparent fill, smooth texture, bold geometric sans-serif uppercase and outlined stroke, white outline and transparent fill, smooth texture, bold geometric sans-serif uppercase with acute accent on the O and outlined stroke, and a small white outlined registered symbol with smooth texture and matching outlined sans-serif style.
+3. The text reading 'REY', 'LIMÓN', and '®'.

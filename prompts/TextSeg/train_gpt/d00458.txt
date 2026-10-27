@@ -1,0 +1,3 @@
+1. The text located at the center of the image and directly below the center.
+2. The text with white, flat smooth texture, bold uppercase sans-serif, modern style and orange, flat smooth texture, thin lowercase sans-serif with letter spacing, light style.
+3. The text reading 'DYNAMIC', 'Lorem ipsum'.

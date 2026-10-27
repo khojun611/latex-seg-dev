@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-right, middle-left, and middle-right.
+2. The text with black color, rough/distressed texture, tall condensed bold sans-serif font, and uppercase block style, black color, rough/distressed texture, tall condensed bold sans-serif font, and uppercase block style, black color, rough/distressed texture, tall condensed bold sans-serif font, and uppercase block style, and black color, rough/distressed texture, tall condensed bold sans-serif font, and uppercase block style.
+3. The text reading 'MY', 'BLOCK', 'MY', and 'HOOD'.

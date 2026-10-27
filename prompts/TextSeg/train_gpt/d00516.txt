@@ -1,0 +1,3 @@
+1. The text located at the center foreground and the lower-center of the image.
+2. The text with pale beige color, flat solid texture, heavy geometric sans-serif font, and bold uppercase block style, and the text with pale beige color, flat solid texture, narrow geometric sans-serif font, and uppercase letterspaced style.
+3. The text reading 'FAN' and 'FESTIVAL DE ARTE NEGRA'.

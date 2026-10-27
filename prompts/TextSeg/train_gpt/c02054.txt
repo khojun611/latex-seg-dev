@@ -1,0 +1,3 @@
+1. The text located at the center of the image on the rectangular road sign (left section), on the rectangular road sign (middle section), and on the rectangular road sign (right end).
+2. The text with black, smooth painted, sans-serif, uppercase bold, black, smooth painted, sans-serif, uppercase bold, and black, smooth painted, pictogram, bold.
+3. The text reading 'LYE', 'BY-PASS', and '→'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-left and lower-left.
+2. The text with dark navy-blue color, grainy/worn printed texture, bold condensed sans-serif font, uppercase style, and dark navy-blue color, grainy/worn printed texture, bold condensed sans-serif font, uppercase style.
+3. The text reading 'HEWLETT' and 'PACKARD'.

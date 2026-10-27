@@ -1,0 +1,3 @@
+1. The text located at the upper-center (top), center (between top and middle), center (middle), center-right (middle-right), and lower-center (bottom).
+2. The text with green, grainy/paint texture, tall hand-lettered serif caps, uppercase decorative; white, smooth brush texture, small hand-lettered cursive, italic script; red with orange highlights, smooth brush stroke texture, bold hand-lettered brush script, swash cursive; white, smooth brush texture, small hand-lettered cursive, italic script; blue, rough textured with internal hatching/ornamental pattern, heavy block slab-serif, uppercase decorative.
+3. The text reading 'BREVITY', 'is the', 'Soul', 'of', and 'WIT'.

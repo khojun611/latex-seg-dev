@@ -1,0 +1,3 @@
+1. The text located at the top-left corner and the center.
+2. The text with white color, solid flat texture, bold sans-serif font, uppercase badge style and blue fill with gold outline color, marbled/metallic textured fill with gradient, bold condensed display serif font, 3D beveled/extruded metallic style.
+3. The text reading 'FREE PSD' and 'BLACK PANTHER'.

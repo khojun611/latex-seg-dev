@@ -1,0 +1,3 @@
+1. The text located at the lower-center-left and lower-center-right of the image.
+2. The text with gray pencil color, hatched/shaded texture, hand-lettered script font, slanted cursive style and gray pencil color, hatched/shaded texture, hand-lettered script font, slanted cursive style.
+3. The text reading 'market' and 'shift'.

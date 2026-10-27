@@ -1,0 +1,3 @@
+1. The text located at the top-center of the black panel above the blue horizontal stripe.
+2. The text with white color, painted texture, sans-serif blocky uppercase font, regular style.
+3. The text reading 'I WALK THE LINE'

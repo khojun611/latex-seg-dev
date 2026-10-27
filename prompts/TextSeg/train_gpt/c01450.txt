@@ -1,0 +1,3 @@
+1. The text located at the top-center ('music'), the top-right near the pens ('on'), the center-left ('drama'), and the middle-right ('off').
+2. The text with blue-to-turquoise gradient, glossy marker texture, hand-lettered brush script with white highlights and black outline ('music' and 'drama'), the text with light-blue solid marker texture, handwritten sans-serif style ('on'), and the text with purple solid marker texture, handwritten sans-serif style ('off').
+3. The text reading 'music', 'on', 'drama', and 'off'.

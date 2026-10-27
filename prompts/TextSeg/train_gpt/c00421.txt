@@ -1,0 +1,3 @@
+1. The text located at the top center, center, middle-lower center, and bottom center.
+2. The text with white, chalk texture, hand-lettered cursive, flowing script; white with light-gray shading, chalk texture, tall hand-drawn serif, uppercase decorative; white, chalk texture, cursive script, small flowing lowercase; light blue with white accents, chalk texture, bold decorative block serif, uppercase outlined with stripes and shadow.
+3. The text reading 'Even', 'MIRACLES', 'take a little', and 'TIME'.

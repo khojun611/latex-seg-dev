@@ -1,0 +1,3 @@
+1. The text located at the center-bottom and bottom-right.
+2. The text with yellow, solid texture, sans-serif font, regular subtitling style and light gray, solid texture, geometric sans-serif font, bold uppercase stylized logo.
+3. The text reading 'Everyone hides behind a mask', 'FX'.

@@ -1,0 +1,3 @@
+1. The text located at the upper area spanning left-to-right and the lower-left beneath the logo.
+2. The text with orange (left letters) and dark navy with orange accent (right letters), flat solid texture, custom bold condensed sans-serif, uppercase slanted/italic, and dark navy, flat solid texture, condensed sans-serif, uppercase italic.
+3. The text reading 'DYLHA' and 'TRANSPORTES'.

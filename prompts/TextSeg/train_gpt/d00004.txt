@@ -1,0 +1,3 @@
+1. The text located at the upper-left, upper-center-left, upper-center-right, and upper-right.
+2. The text with bright white-blue glow, smooth neon light-trail texture, hand-drawn cursive/light-painting font, single continuous stroke style for the upper-left, bright white-blue glow, smooth spiral neon texture, hand-drawn cursive/light-painting font, spiral stroke style for the upper-center-left, bright white-blue glow, smooth neon light-trail texture, hand-drawn cursive/light-painting font, single continuous stroke style for the upper-center-right, and bright white-blue glow with starburst, smooth circular neon texture, hand-drawn circular/light-painting font, emphasized starburst highlight style for the upper-right.
+3. The text reading '2', '0', '2', and '0'.

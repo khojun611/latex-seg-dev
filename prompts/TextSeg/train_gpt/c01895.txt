@@ -1,0 +1,3 @@
+1. The text located at the top-center, upper-center, middle-center, and lower-center.
+2. The text with white, chalk-like texture, hand-drawn block uppercase font, outlined and shadowed; white, chalk-like texture, hand-drawn cursive/script font, large flowing swirls with 3D striped shadow; white, chalk-like texture, hand-drawn condensed uppercase sans-serif font, slanted with diagonal shadow stripes; white, chalk-like texture, hand-drawn cursive/script font, flowing ornate swashes and shadow.
+3. The text reading 'PACK', 'Smarter', 'TRAVEL', and 'Farther'.

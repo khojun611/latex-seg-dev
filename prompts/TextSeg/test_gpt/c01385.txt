@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with gold/yellow fill and white outline, flat solid texture, blackletter/gothic font, bold uppercase decorative, gold/yellow fill and white outline, flat solid texture, blackletter/gothic font, bold uppercase decorative, and white fill with black outline, flat solid texture, blackletter/gothic font, uppercase decorative.
+3. The text reading 'BATTLE', 'HAMMER', and 'CRAFT FONT'

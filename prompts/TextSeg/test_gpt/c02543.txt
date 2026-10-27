@@ -1,0 +1,3 @@
+1. The text located at the top-center small green rectangular sign, the upper-middle large green sign, and the center-lower portion of the large green sign.
+2. The text with white color, smooth painted texture, bold sans-serif font, uppercase style, white color, smooth painted texture, bold sans-serif font, title/mixed-case style, and white color, smooth painted texture, bold sans-serif font, numeric/fraction with uppercase style.
+3. The text reading 'EXIT 18B', 'Lefferts Blvd', and '1 1/2 MILES'.

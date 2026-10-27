@@ -1,0 +1,3 @@
+1. The text located at the center-upper of the sign, center of the sign, and lower-center of the sign.
+2. The text with white, flat/solid texture, slab-serif bold uppercase font, centered, white, flat/solid texture, slab-serif regular title-case font, centered, and white, flat/solid texture, slab-serif numeric font, centered.
+3. The text reading 'THE SIPPING PLANT', 'Freehold, NJ', and '732-994-3682'.

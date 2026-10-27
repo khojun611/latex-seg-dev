@@ -1,0 +1,3 @@
+1. The text located at the left, center, and right.
+2. The text with black, smooth matte with subtle drop shadow, bold uppercase sans-serif, widely letter-spaced; black, smooth matte with subtle drop shadow, bold uppercase sans-serif, widely letter-spaced; and black, smooth matte with subtle drop shadow, bold uppercase sans-serif, widely letter-spaced.
+3. The text reading 'THE', 'FACIAL', and 'HUB'.

@@ -1,0 +1,3 @@
+1. The text located at the bottom-center of the image.
+2. The text with red foreground and white inner fill with blue drop shadow, painted (smooth) on a light wood-grain textured board, ornamental serif (circus) font, decorative vintage sign style.
+3. The text reading 'CIRCUS'

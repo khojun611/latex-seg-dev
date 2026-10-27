@@ -1,0 +1,3 @@
+1. The text located at the top-center of the plaque, middle-center of the plaque, and bottom-center of the plaque.
+2. The text with white color, smooth painted texture, bold serif font, uppercase style, white color, smooth painted texture, bold serif font, uppercase style, and white color, smooth painted texture, bold serif font, uppercase style.
+3. The text reading 'RESERVED', 'FOR', and 'CAPITAN ENERGY'.

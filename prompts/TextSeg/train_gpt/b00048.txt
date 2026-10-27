@@ -1,0 +1,3 @@
+1. The text located at the upper-center and lower-center of the black curved panel.
+2. The text with red color, flat/matte texture, pixelated geometric (8‑bit) font and uppercase blocky style, and red color, flat/matte texture, pixelated geometric (8‑bit) font and uppercase blocky style.
+3. The text reading 'GAME', 'OVER'

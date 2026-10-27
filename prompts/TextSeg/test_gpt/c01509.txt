@@ -1,0 +1,3 @@
+1. The text located at the upper-center, the middle-center, and the lower-center of the image.
+2. The text with deep purple, soft/grainy paper texture, hand-lettered brush script font, bold cursive style, deep purple, soft/grainy paper texture, hand-lettered casual script font, small decorative cursive style, and deep purple, soft/grainy paper texture, hand-lettered bold script font, large flowing bold cursive style.
+3. The text reading 'Playin'', 'with', and 'Type'.

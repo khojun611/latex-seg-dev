@@ -1,0 +1,3 @@
+1. The text located at the top center sign, the lower center sign, and the right-side diamond sign.
+2. The text with black bold sans-serif uppercase on a smooth white reflective background, orange bold sans-serif uppercase (with orange arrow) on a black reflective background, and black bold sans-serif uppercase on a yellow reflective diamond background.
+3. The text reading 'ROAD', 'CLOSED', and 'DETOUR'.

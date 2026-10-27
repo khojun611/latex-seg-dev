@@ -1,0 +1,3 @@
+1. The text located at the center-left and center-right of the horizontal white street sign mounted on the brick wall.
+2. The text with black color, smooth painted texture, serif font, uppercase style for 'FRIENDSHIP', and black color, smooth painted texture, serif font, uppercase style for 'LANE'.
+3. The text reading 'FRIENDSHIP' and 'LANE'.

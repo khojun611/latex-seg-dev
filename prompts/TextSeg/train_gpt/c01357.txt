@@ -1,0 +1,3 @@
+1. The text located at the top-center, center-lower, and bottom-left.
+2. The text with neon pink/red color, glowing glass-tube texture, ornate decorative script/serif font and hand-lettered swash style, neon pink/red color, glowing glass-tube texture, ornate decorative script/serif font and hand-lettered swash style, and white color, solid flat texture, bold sans-serif block style.
+3. The text reading 'Happy', 'Hour', and 'M (partial)'.

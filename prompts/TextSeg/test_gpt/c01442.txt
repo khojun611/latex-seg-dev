@@ -1,0 +1,3 @@
+1. The text located at the top arched banner, left of the boar head, right of the boar head, and bottom arched banner.
+2. The text with white solid fill, smooth texture, bold display sans‑serif uppercase, arched banner style with black inner outline and red outer border (TRUE BOARS), white solid fill, smooth texture, bold sans‑serif uppercase, straight horizontal (EST.), white solid fill, smooth texture, bold sans‑serif uppercase, straight horizontal (2013), and white solid fill, smooth texture, bold display sans‑serif uppercase, inverted arched banner style with black inner outline and red outer border (ST. PETERSBURG).
+3. The text reading 'TRUE BOARS', 'EST.', '2013', and 'ST. PETERSBURG'.

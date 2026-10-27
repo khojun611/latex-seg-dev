@@ -1,0 +1,3 @@
+1. The text located at the center of the sign, below the center of the sign, and at the bottom-left of the sign.
+2. The text with black, smooth glossy printed on white metal, large serif uppercase, bold, black, smooth printed on white metal, smaller serif uppercase, regular, red, smooth printed on white metal, small sans-serif digits, regular.
+3. The text reading 'CADNAM CLOSE', 'CUL - DE - SAC', and '17'.

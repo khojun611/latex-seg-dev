@@ -1,0 +1,3 @@
+1. The text located at the upper-center street sign, the center horizontal street sign, and the right end of the lower street sign.
+2. The text with white on green, smooth reflective texture, bold sans-serif highway-style font, large digits with a small superscript 'th' and capitalized 'St', white on green, smooth reflective texture, bold sans-serif highway-style font, titlecase 'Stroud Ave N', and white on green, smooth reflective texture, bold sans-serif highway-style font, small numeric '2000'.
+3. The text reading '80th St', 'Stroud Ave N', and '2000'.

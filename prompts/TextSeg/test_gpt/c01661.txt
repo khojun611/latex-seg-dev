@@ -1,0 +1,3 @@
+1. The text located at the center of the image, diagonally from lower-left to upper-right.
+2. The text with pink fill and white highlights, diagonal hatching/striped texture with light pink extruded shadow, bold condensed sans-serif (all caps) font, 3D slanted retro style.
+3. The text reading 'ANEMONE'.

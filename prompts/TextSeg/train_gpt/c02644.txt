@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and lower-center.
+2. The text with solid black color, smooth/flat texture, bold condensed sans-serif font, uppercase style, solid black color, smooth/flat texture, bold condensed sans-serif font, uppercase style, and solid black color, smooth/flat texture, bold condensed sans-serif font, title case style.
+3. The text reading 'FREE PARTY PACKAGE -', 'INCLUDES', and 'Handprint Art'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center and bottom-center.
+2. The text with white fill and light-blue outline, distressed rough texture, bold block sans-serif, uppercase and grungy, and blue fill with white outline, smooth cartoon/bubble texture, rounded graffiti-style font, stylized with face motifs.
+3. The text reading 'PIXEL' and '<unreadable stylized text>'

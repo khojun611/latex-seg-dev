@@ -1,0 +1,3 @@
+1. The text located at the top edge of the white panel and in the center of the white panel inside the red-bordered rectangle.
+2. The text with black, flat painted, sans-serif, lowercase regular and black, flat painted, sans-serif, bold uppercase.
+3. The text reading 'nier geen tiet en plaatsen' and 'B'

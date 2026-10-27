@@ -1,0 +1,3 @@
+1. The text located at the top center of the sign, the middle center of the sign, and the lower center of the sign.
+2. The text with black, smooth printed, bold geometric sans-serif, title case, black, smooth printed, bold geometric sans-serif, title case, and black, smooth printed, medium-weight geometric sans-serif, title case.
+3. The text reading 'Stress 1', 'Difficulty 1', and 'No Support 1'.

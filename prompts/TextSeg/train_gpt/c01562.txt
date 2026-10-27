@@ -1,0 +1,3 @@
+1. The text located at the upper center of the sign and the lower center of the sign.
+2. The text with light gray fill, white outline and black shadow, distressed/rough texture, tall condensed 3D block sans‑serif font, uppercase bold extruded style, and light gray fill, white outline and black shadow, smoother texture, rounded condensed 3D sans‑serif font, uppercase bold extruded style.
+3. The text reading 'VALLETTA' and 'BAR'

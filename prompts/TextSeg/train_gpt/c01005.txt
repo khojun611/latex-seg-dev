@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with silver (and a red 'I') glitter texture, bold block slab‑serif font, uppercase, silver letters with a red glitter heart texture, bold block slab‑serif font, uppercase, and red glitter texture, bold block slab‑serif font, uppercase.
+3. The text reading 'LIVE', 'L♥VE', and 'CHEER'.

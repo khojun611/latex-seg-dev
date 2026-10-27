@@ -1,0 +1,3 @@
+1. The text located at the center-bottom and the lower-base of the image.
+2. The text with red, flat/solid texture, bold condensed sans-serif, slanted and white, flat/solid texture, condensed sans-serif, slanted.
+3. The text reading 'KEON' and 'CLUB'.

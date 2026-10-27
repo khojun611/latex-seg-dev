@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the green street sign, the lower-left of the green street sign, and the center-right of the green street sign.
+2. The text with white, smooth reflective, sans-serif, uppercase; white, smooth reflective, sans-serif, numeric; and white, smooth reflective, sans-serif, uppercase.
+3. The text reading 'SR', '1550', and 'DIRTY ANKLE RD'

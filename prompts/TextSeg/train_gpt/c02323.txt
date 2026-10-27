@@ -1,0 +1,3 @@
+1. The text located at the top center of the sign, the center of the sign, and the lower center of the sign.
+2. The text with black, smooth painted texture, sans-serif uppercase font, small uppercase style; black, smooth painted texture, serif uppercase font with high-contrast strokes, large decorative uppercase style; and black, smooth painted texture, serif uppercase font with high-contrast strokes, large centered uppercase style.
+3. The text reading 'BOROUGH OF POOLE', 'FISHERMANS', and 'ROAD'.

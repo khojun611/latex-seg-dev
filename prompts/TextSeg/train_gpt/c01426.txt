@@ -1,0 +1,3 @@
+1. The text located at the top-left, center, and bottom-left.
+2. The text with white fill, black outline and red/cyan offset shadows, smooth flat texture, bold hand-lettered script font, cursive outlined anaglyph style, white fill, black outline and red/cyan offset shadows, smooth flat texture, bold hand-lettered script font, cursive outlined anaglyph style, and white fill, black outline and red/cyan offset shadows, smooth flat texture, bold hand-lettered script font, cursive outlined anaglyph style.
+3. The text reading 'Thank', 'you so', and 'Much'.

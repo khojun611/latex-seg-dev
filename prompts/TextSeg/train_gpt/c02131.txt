@@ -1,0 +1,3 @@
+1. The text located at the upper part of the red rectangle (center), the middle part of the red rectangle (center), and the lower part of the red rectangle (center).
+2. The text with white, smooth printed, bold sans-serif, sentence case, white, smooth printed, bold sans-serif, sentence case, and white, smooth printed, bold sans-serif, sentence case.
+3. The text reading 'Children must', 'not play on this', and 'site'.

@@ -1,0 +1,3 @@
+1. The text located at the top-left ('STAY SAFE'), the upper-left above the headline ('THE'), the left-center large headline ('CORONAVIRUS'), and the lower-left ('STAY HOME').
+2. The text with dark rust/brown color, smooth flat texture, thin uppercase sans-serif font with wide letter-spacing and light weight ('STAY SAFE'), dark rust/brown color, smooth flat texture, uppercase sans-serif bold condensed font ('THE'), dark rust/brown color, smooth flat texture, uppercase sans-serif heavy bold font and large size ('CORONAVIRUS'), and dark rust/brown color, smooth flat texture, thin uppercase sans-serif font with wide letter-spacing and light weight ('STAY HOME').
+3. The text reading 'STAY SAFE', 'THE', 'CORONAVIRUS', and 'STAY HOME'.

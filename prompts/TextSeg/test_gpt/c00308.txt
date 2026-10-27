@@ -1,0 +1,3 @@
+1. The text located at the top arc around the globe, the bottom-left arc under the globe, and the bottom-right arc under the globe.
+2. The text with white, solid texture, hand-drawn decorative serif font, stylized curved uppercase, white, solid texture, hand-drawn decorative serif font, irregular stylized uppercase, and white, solid texture, hand-drawn decorative serif font, irregular stylized uppercase.
+3. The text reading 'FOR THE WORLD', 'KERNEL', and 'CLUB'.

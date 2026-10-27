@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the green panel, the center-left of the green panel, and the center-right of the green panel.
+2. The text with white, smooth/flat texture, condensed bold sans‑serif font, uppercase, white, smooth/flat texture, condensed bold sans‑serif font, uppercase, and white, smooth/flat texture, condensed bold sans‑serif font, uppercase.
+3. The text reading 'E-BIKES.', 'DEMO', and 'NOW!'

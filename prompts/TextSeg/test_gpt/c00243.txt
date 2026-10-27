@@ -1,0 +1,3 @@
+1. The text located at the bottom-left, bottom-center, and bottom-right.
+2. The text with black color, smooth matte texture, condensed tall sans-serif font, uppercase thin style, black color, smooth matte texture, condensed tall sans-serif font, uppercase thin style, and black color, smooth matte texture, condensed tall sans-serif font, uppercase thin style.
+3. The text reading 'ONLY', '$24', and 'FREE SHIPPING!'

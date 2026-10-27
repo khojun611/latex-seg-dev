@@ -1,0 +1,3 @@
+1. The text located at the top-center ('Photo') and center ('Shop').
+2. The text with dark charred gray foreground and bright orange-red/yellow inner glow, cracked molten-metal texture with smoke highlights, bold rounded sans-serif font, 3D embossed glowing burned style, and dark charred gray foreground and bright orange-red/yellow inner glow, cracked molten-metal texture with smoke highlights, bold rounded sans-serif font, 3D embossed glowing burned style.
+3. The text reading 'Photo' and 'Shop'.

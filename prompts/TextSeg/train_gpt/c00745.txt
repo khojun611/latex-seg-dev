@@ -1,0 +1,3 @@
+1. The text located at the top center, middle center (flanked by flame graphics), and bottom center (with a globe as the 'O').
+2. The text with black, flat solid texture, bold decorative display font with tapered/angular serifs, uppercase stylized; black, flat solid texture, bold decorative display font with tapered/angular serifs, uppercase stylized (flanked by flame graphics); and black, flat solid texture, bold decorative display font with tapered/angular serifs, uppercase stylized (globe used as the 'O').
+3. The text reading 'FONT', 'THE', and 'WORLD'.

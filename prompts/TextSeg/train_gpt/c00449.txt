@@ -1,0 +1,3 @@
+1. The text located at the top center, directly below the top center, and centered beneath them in the upper-middle area.
+2. The text with red/pink, lightly distressed speckled texture, bold block sans-serif, uppercase; teal/turquoise, smooth texture, condensed sans-serif, small uppercase; coral/red, lightly distressed texture, cursive script, title-case decorative.
+3. The text reading 'HOME', 'FOR THE', and 'Holidays'.

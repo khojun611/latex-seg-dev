@@ -1,0 +1,3 @@
+1. The text located at the top near 1 o'clock, at the bottom left near 7 o'clock, and at the bottom center near 6 o'clock.
+2. The text with black, smooth metallic texture, sans-serif bold uppercase font, printed style, black, brushed metallic texture, sans-serif regular uppercase font, printed style, and black, smooth metallic texture, sans-serif single-stroke font, printed delimiter style.
+3. The text reading 'FOSSIL', 'AUTOMATIC', and 'I'.

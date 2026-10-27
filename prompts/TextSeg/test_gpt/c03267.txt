@@ -1,0 +1,3 @@
+1. The text located at the upper-left of the sign, the middle-left of the sign, the lower-left of the sign, and the bottom-center of the sign.
+2. The text with black color, matte printed texture, bold sans-serif font, mixed-case bold style; black color, matte printed texture, bold sans-serif font, lowercase bold style; black color, matte printed texture, bold sans-serif font, lowercase with exclamation style; and black color, matte printed texture, bold sans-serif font, title-case bold style.
+3. The text reading 'Hier', 'wache', 'ich!', and 'Betreten auf eigene Gefahr'

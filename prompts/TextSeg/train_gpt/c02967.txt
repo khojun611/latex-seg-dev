@@ -1,0 +1,3 @@
+1. The text located at the top center and middle center.
+2. The text with black color, flat solid texture, bold sans-serif font, uppercase bold style and black color, flat solid texture, bold sans-serif font, uppercase bold style.
+3. The text reading 'SMOKING' and 'ZONE'.

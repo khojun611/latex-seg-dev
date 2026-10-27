@@ -1,0 +1,3 @@
+1. The text located at the top panel of the illuminated wall sign and the bottom panel of the illuminated wall sign.
+2. The text with black color, smooth flat (backlit) texture, bold sans-serif font, title-case for 'Drive', and black color, smooth flat (backlit) texture, bold sans-serif font, title-case for 'Thru'.
+3. The text reading 'Drive' and 'Thru'

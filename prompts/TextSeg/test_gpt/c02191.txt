@@ -1,0 +1,3 @@
+1. The text located at the top center of the wooden block front, the middle center of the wooden block front, and the bottom center of the wooden block front.
+2. The text with black color, painted-on distressed white wood texture, sans-serif uppercase block font, bold centered, black color, painted-on distressed white wood texture, sans-serif uppercase block font, bold centered, and black color, painted-on distressed white wood texture, sans-serif uppercase block font, bold centered.
+3. The text reading 'BIS', 'MIL', and 'LAH'.

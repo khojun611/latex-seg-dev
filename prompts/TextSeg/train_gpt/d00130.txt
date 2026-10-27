@@ -1,0 +1,3 @@
+1. The text located at the left top, left center, left bottom, right top, right center, and right bottom.
+2. The text with red, distressed/grunge texture with dripping, condensed tall block sans-serif font, bold uppercase, white, rough brushstroke texture, hand-painted brush script font, slanted/italic brush style, white, solid flat texture, geometric sans-serif font, regular uppercase, red, distressed/grunge texture with dripping, condensed tall block sans-serif font, bold uppercase, dark gray, rough brushstroke texture, hand-painted brush script font, slanted/italic brush style, gray, solid flat texture, geometric sans-serif font, regular uppercase.
+3. The text reading 'BLOOD', 'KRIEG', 'RECORDS', 'BLOOD', 'KRIEG', and 'RECORDS'.

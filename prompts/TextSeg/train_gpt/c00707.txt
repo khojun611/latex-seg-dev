@@ -1,0 +1,3 @@
+1. The text located at the top-left corner, top-right corner, bottom-left corner, bottom-right corner, bottom-center (title area), and bottom-center below the title (subtitle area).
+2. The text with red flat solid bold geometric sans-serif uppercase single-letter, red flat with yellow center flat rounded geometric single-letter, yellow flat rounded display single-letter, yellow flat bold sans-serif single-letter, yellow flat with thick black outline/drop-shadow retro rounded display bold uppercase, and yellow flat condensed rounded sans-serif uppercase with surrounding bullet dots.
+3. The text reading 'F', 'O', 'N', 'T', 'FUNK WAGON', and '• FLY ASS FONT •'

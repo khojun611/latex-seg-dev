@@ -1,0 +1,3 @@
+1. The text located at the top-center, bottom-center, and center/bottom-right.
+2. The text with multicolored pink/orange/yellow gradient, striped rounded-bar texture, custom decorative stroked display font and bold stylized, multicolored pink/orange/yellow gradient, striped rounded-bar texture, custom decorative stroked display font and bold stylized, and light gray solid smooth texture, simple sans-serif lowercase and watermark style.
+3. The text reading 'STAY', 'HOME', and 'fiverr.com/khair_shajib'.

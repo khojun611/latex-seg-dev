@@ -1,0 +1,3 @@
+1. The text located at the top center of the sign, middle center of the sign, and bottom center of the sign.
+2. The text with black color, smooth painted texture, condensed sans-serif font, bold uppercase style, black color, smooth painted texture, condensed sans-serif font, bold uppercase style, and black color, smooth painted texture, condensed sans-serif font, bold uppercase style.
+3. The text reading 'ROAD CLOSED', 'LOCAL TRAFFIC', and 'ONLY'.

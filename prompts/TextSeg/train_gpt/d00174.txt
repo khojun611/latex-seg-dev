@@ -1,0 +1,3 @@
+1. The text located at the top-left red triangular banner, the left-center neon tube, the center neon tube, and the right-center neon tube.
+2. The text with white, smooth flat fill, sans-serif bold, regular; dark gray/metallic, glass/neon tube texture, tubular neon-style font, unlit/dim; bright white, illuminated glass tube, rounded neon-tube font, glowing/lit; gray/smoky, glass tube texture, curved neon-tube font, unlit/dim.
+3. The

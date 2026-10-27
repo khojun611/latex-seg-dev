@@ -1,0 +1,3 @@
+1. The text located at the bottom-center on a horizontal tiled strip along the pavement, on tiles left-to-right: C, H, A, R, T, R, E, S
+2. The text with light-blue fill and dark outline, glazed ceramic tile texture, serif ornamental uppercase font, decorative vintage style (applies to each tile C, H, A, R, T, R, E, S)
+3. The text reading 'C','H','A','R','T','R','E','S'

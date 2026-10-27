@@ -1,0 +1,3 @@
+1. The text located at the center of the image.
+2. The text with white fill and orange-red outline with black shadow, smooth flat texture, condensed angular decorative display font, bold uppercase with sharp serifs and outlined.
+3. The text reading 'ALTADORA'.

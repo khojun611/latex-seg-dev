@@ -1,0 +1,3 @@
+1. The text located at the top-left circular logo, the center of the rectangular box (top line), and the center of the rectangular box (bottom line).
+2. The text with white, smooth flat/semi-transparent circle background, geometric rounded icon font, simple rounded icon; white, flat solid, bold uppercase sans-serif (condensed), centered; white, flat solid, bold uppercase sans-serif, centered.
+3. The text reading 't', 'BEATS BY DR. DRE', and 'SNARKITECTURE'.

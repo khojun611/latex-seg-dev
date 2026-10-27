@@ -1,0 +1,3 @@
+1. The text located at the upper-left, upper-center, and upper-right.
+2. The text with white color, smooth painted texture, serif font, slightly italicized, white color, smooth painted texture, serif font, slightly italicized, and white color, smooth painted texture, serif font, slightly italicized.
+3. The text reading 'We', 'never had to', and 'force'.

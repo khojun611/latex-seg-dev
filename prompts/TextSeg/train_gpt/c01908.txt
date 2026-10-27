@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-right, and center.
+2. The text with red, smooth flat texture, hand-lettered brush-script font, bold flowing cursive; light blue, smooth flat texture, hand-lettered brush-script font, delicate looping script; and blue and red, smooth flat texture, hand-lettered script font, playful mixed-width flowing cursive.
+3. The text reading 'shape', 'of', and 'my heart'.

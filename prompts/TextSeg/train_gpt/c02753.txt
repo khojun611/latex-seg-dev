@@ -1,0 +1,3 @@
+1. The text located at the upper center of the yellow rectangular sign and the middle-lower center of the yellow rectangular sign.
+2. The text with reddish-purple color, weathered painted texture, condensed sans-serif font, uppercase bold style for 'WARNUNG', and dark grey/black color, weathered painted texture, sans-serif font, lowercase with initial capital style for 'vor dem Hunde'.
+3. The text reading 'WARNUNG', 'vor dem Hunde'.

@@ -1,0 +1,3 @@
+1. The text located at the leftmost, left-center, center-left, center-right, right-center, and rightmost.
+2. The text with cyan-teal outline, dotted halftone texture, isometric 3D outlined block font, neon gradient style, cyan-blue outline, dotted halftone texture, isometric 3D outlined block font, neon gradient style, blue-violet outline, dotted halftone texture, isometric 3D outlined block font, neon gradient style, violet outline, smooth texture, isometric 3D outlined block font, neon gradient style, magenta-pink outline, dotted halftone texture, isometric 3D outlined block font, neon gradient style, and magenta outline, dotted halftone texture, isometric 3D outlined block font, neon gradient style.
+3. The text reading 'V', 'I', 'S', 'I', 'O', and 'N'.

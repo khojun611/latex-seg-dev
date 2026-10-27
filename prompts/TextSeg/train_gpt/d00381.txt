@@ -1,0 +1,3 @@
+1. The text located at the upper-center (Year of the Monkey), the center-right (2016), the center-right below 2016 and slightly left (年历), and the center-right below 2016 and slightly right (CALENDAR).
+2. The text with gold foil color, metallic reflective (foil-stamped) texture, cursive script font and decorative style for 'Year of the Monkey', gold foil color, metallic reflective texture, large elegant serif numeral font and bold style for '2016', gold foil color, metallic reflective texture, small Chinese serif/typeface and regular style for '年历', and gold foil color, metallic reflective texture, uppercase serif font and letterspaced style for 'CALENDAR'.
+3. The text reading 'Year of the Monkey', '2016', '年历', and 'CALENDAR'.

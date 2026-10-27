@@ -1,0 +1,3 @@
+1. The text located at the top of the sign, the center of the sign, and the right side of the sign.
+2. The text with red thin painted serif uppercase, black bold painted condensed sans-serif uppercase, and red painted italic sans-serif uppercase with periods.
+3. The text reading 'BOROUGH OF HOLBORN', 'SAFFRON HILL', and 'E.C.1.'

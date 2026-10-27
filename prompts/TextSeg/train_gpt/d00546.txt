@@ -1,0 +1,3 @@
+1. The text located at the upper-left, upper-right, and center-bottom.
+2. The text with dark red fill and gold/yellow outline, glossy beveled/metallic texture, bold condensed sans-serif (Impact-like) font, 3D embossed/extruded style with drop shadow, dark red fill and gold/yellow outline, glossy beveled/metallic texture, bold condensed sans-serif (Impact-like) font, 3D embossed/extruded style with drop shadow, and dark red fill and gold/yellow outline, glossy beveled/metallic texture, bold condensed sans-serif (Impact-like) font, 3D embossed/extruded style with drop shadow.
+3. The text reading 'Magic', 'of Graphic', and 'Design'.

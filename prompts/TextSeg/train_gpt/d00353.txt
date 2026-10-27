@@ -1,0 +1,3 @@
+1. The text located at the left of center, the front face of the cube, and the right face of the cube.
+2. The text with an orange, solid/flat textured, bold geometric sans-serif, uppercase and slightly rounded style, a white, solid/flat textured, bold sans-serif numeral on a dark-blue 3D cube face, and a white, solid/flat textured, bold rounded sans-serif numeral on a dark-blue 3D 3D cube face.
+3. The text reading 'MOVE', '1', and '8'

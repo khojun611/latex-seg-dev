@@ -1,0 +1,3 @@
+1. The text located at the top cloud/banner, the banner below the cloud, the top-center of the clock face, the left-center of the clock face, the right-center of the clock face, and the bottom-center of the clock face.
+2. The text with white, solid fill, bold rounded sans-serif uppercase, white, solid fill, bold cursive script with thick strokes and slight italic, white, solid fill, bold rounded handwritten numeral, white, solid fill, bold rounded handwritten numeral, white, solid fill, bold rounded handwritten numeral, and white, solid fill, bold rounded handwritten numeral.
+3. The text reading 'Happy Wedding', 'Vio & Fery', '12', '9', '3', and '6'.

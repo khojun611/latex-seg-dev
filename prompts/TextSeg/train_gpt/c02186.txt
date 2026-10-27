@@ -1,0 +1,3 @@
+1. The text located at the top-left opening quotation mark, top-left 'Perfection', middle-left 'is the enemy', lower-left 'of progress', and lower-right closing quotation mark.
+2. The text with dark mauve, flat solid texture, decorative rounded glyphs and bold weight (opening quotation mark), white, flat matte texture, bold slab-serif font and heavy weight (Perfection), white, flat matte texture, bold slab-serif font and heavy weight (is the enemy), white, flat matte texture, bold slab-serif font and heavy weight (of progress), and dark mauve, flat solid texture, decorative rounded glyphs and bold weight (closing quotation mark).
+3. The text reading '“', 'Perfection', 'is the enemy', 'of progress', '”'.

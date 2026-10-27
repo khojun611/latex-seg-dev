@@ -1,0 +1,3 @@
+1. The text located at the top center, center-bottom, and bottom-right.
+2. The text with white fuzzy fabric texture, bold rounded sans-serif, titlecase; multicolored (wood grain, green glitter, American-flag, blue fur, clapperboard), mixed textures, bold block uppercase; and white small condensed sans-serif on a black clapperboard.
+3. The text reading 'Thomas', 'WORLD', and 'HOLLYWOOD, PRODUCTION, DIRECTOR, CAMERA'.

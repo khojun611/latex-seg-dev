@@ -1,0 +1,3 @@
+1. The text located at the bottom-center as the upper word and bottom-center just beneath it as the lower word.
+2. The text with yellow-to-orange gradient, smooth/glossy texture, bold cartoon block font, dark-brown outline and 3D shadow (upper word), and white-to-light-gray gradient, smooth texture, bold cartoon block font, dark-brown outline and 3D shadow (lower word).
+3. The text reading 'PUPPY' and 'PADS'.

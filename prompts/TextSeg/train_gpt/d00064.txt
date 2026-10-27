@@ -1,0 +1,3 @@
+1. The text located at the center, across the background in vertical columns, and scattered faintly throughout the image.
+2. The text with metallic silver gradient fill, bright neon green outline, beveled 3D texture and bold geometric sans-serif style, and light green semi-transparent monospaced digits with soft blurred/matrix-like texture and thin weight, and faint darker green digits with low opacity and blurred texture.
+3. The text reading 'QUANTIX', '0', and '1'.

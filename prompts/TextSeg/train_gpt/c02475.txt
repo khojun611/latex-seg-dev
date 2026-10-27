@@ -1,0 +1,3 @@
+1. The text located at the bottom center of the image.
+2. The text with white with black outline, smooth, bold sans-serif, centered subtitle style.
+3. The text reading 'The real world isn't real at all.'

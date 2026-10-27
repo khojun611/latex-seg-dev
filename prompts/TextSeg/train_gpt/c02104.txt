@@ -1,0 +1,3 @@
+1. The text located at the left-center shield, the top-center of the sign, and the lower-center of the sign.
+2. The text with white on red/blue shield, smooth reflective surface, sans-serif highway font (FHWA/Clearview), uppercase and numerals; white on green background, smooth reflective surface, sans-serif highway font (FHWA/Clearview), uppercase; white on green background, smooth reflective surface, sans-serif highway font (FHWA/Clearview), capitalized (title case).
+3. The text reading 'INTERSTATE 680', 'NORTH', and 'Youngstown'.

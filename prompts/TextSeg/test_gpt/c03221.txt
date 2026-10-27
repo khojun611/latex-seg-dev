@@ -1,0 +1,3 @@
+1. The text located at the center of the sign and the right side of the sign.
+2. The text with black, smooth painted, serif font, uppercase style and red, smooth printed, sans-serif font, small numeric style.
+3. The text reading 'HOLLY LANE' and '24'.

@@ -1,0 +1,3 @@
+1. The text located at the upper-left, center-left, and lower-left.
+2. The text with white color, smooth matte printed texture, rounded sans-serif font, capitalized initial, white color, smooth matte printed texture, rounded sans-serif font, lowercase, and white color, smooth matte printed texture, rounded sans-serif font, lowercase.
+3. The text reading 'Gone', 'to', and 'football'.

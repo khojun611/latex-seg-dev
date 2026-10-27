@@ -1,0 +1,3 @@
+1. The text located at the upper-left, lower-left, and center-right.
+2. The text with white color, smooth matte printed texture, bold condensed sans-serif font, uppercase block letters, white color, smooth matte printed texture, bold condensed sans-serif font, uppercase block letters, and white color, smooth matte printed texture, bold condensed sans-serif font, punctuation.
+3. The text reading 'PROUD TO SUPPORT', 'OUR ARMED FORCES', and '.'.

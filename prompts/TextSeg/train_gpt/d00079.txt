@@ -1,0 +1,3 @@
+1. The text located at the top-center, middle-center, and bottom-center.
+2. The text with black, crosshatched/engraved texture, ornate serif font, decorative shaded style, black, hatched engraved texture, condensed serif font, vintage letterpress style, and black, smooth ink texture, flowing calligraphic script font, cursive hand-lettered style.
+3. The text reading 'Doubt', 'truth', and 'But never doubt'.

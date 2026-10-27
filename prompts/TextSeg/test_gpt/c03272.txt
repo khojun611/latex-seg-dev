@@ -1,0 +1,3 @@
+1. The text located at the upper-left street sign, the upper-right street sign, and the lower-center stop sign.
+2. The text with white letters on blue background, smooth reflective metal texture, bold condensed sans-serif font, all-uppercase horizontal style, white letters on blue background, smooth reflective metal texture, bold sans-serif font, all-uppercase horizontal style, and white letters on red octagonal background, dotted reflective sheeting texture, bold sans-serif font, all-uppercase centered style.
+3. The text reading 'NO NAME RD', 'GOVERNMENT RD', and 'STOP'.

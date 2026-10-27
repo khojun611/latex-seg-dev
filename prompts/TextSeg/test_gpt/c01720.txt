@@ -1,0 +1,3 @@
+1. The text located at the top-center and middle-center.
+2. The text with black ink, hand-drawn bold display lettering, outlined with inner shading, drip effects and stippled texture for the first, and black ink, hand-drawn bold display lettering, outlined with inner shading, vertical drip effects and stippled gradient for the second.
+3. The text reading 'DR.' and 'SEUSS'.

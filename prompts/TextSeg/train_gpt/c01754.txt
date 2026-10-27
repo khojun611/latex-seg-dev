@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and bottom-center.
+2. The text with coral-pink solid fill, flat texture, bold condensed geometric sans-serif, uppercase display, coral-pink solid fill, flat texture, geometric double-headed arrow symbol inside a diamond, and coral-pink solid fill, flat texture, bold geometric sans-serif with slightly rounded terminals, uppercase display.
+3. The text reading 'KERN', '<-->', and 'CLUB'.

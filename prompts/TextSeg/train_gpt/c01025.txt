@@ -1,0 +1,3 @@
+1. The text located at the top arc, center, and bottom arc.
+2. The text with white, distressed/grunge texture, condensed uppercase sans-serif, curved arc style; white, distressed/grunge texture, bold condensed uppercase sans-serif, large and slightly diagonal; white, distressed/grunge texture, condensed uppercase sans-serif, curved arc style.
+3. The text reading 'JUST WANNA', 'GRILLS', and 'HAVE FUN'.

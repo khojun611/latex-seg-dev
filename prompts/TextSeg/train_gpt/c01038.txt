@@ -1,0 +1,3 @@
+1. The text located at the top-center of the sign, below that left-of-center, center-middle first line, and center-middle second line.
+2. The text with white fill and blue drop-shadow, painted/distressed texture, bold block sans-serif (hand-painted), 3D shadowed uppercase; blue fill, smooth painted brush texture, small script/cursive (hand-painted), italic; cream/white fill with orange drop-shadow, painted brush texture, bold condensed script (hand-painted), slanted uppercase; cream/white fill with orange drop-shadow, painted brush texture, bold condensed script (hand-painted), slanted uppercase.
+3. The text reading 'TATTOOS', 'by', 'MICAH PAUL', and 'SAINT JOHN'.

@@ -1,0 +1,3 @@
+1. The text located at the top-center sign, the center shield sign, and the bottom green directional sign.
+2. The text with black, smooth reflective metal, bold sans-serif uppercase, centered; black on white, smooth reflective shield, bold sans-serif numerals, large; and white on green, smooth reflective, bold sans-serif mixed-case, left-aligned with arrows.
+3. The text reading 'WEST', '250', and 'Skyline Drive and Waynesboro'.

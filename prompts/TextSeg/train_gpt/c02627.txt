@@ -1,0 +1,3 @@
+1. The text located at the top-center of the white rectangular plaque, the middle-center of the white rectangular plaque, and the bottom of the white rectangular plaque.
+2. The text with dark red color, smooth painted-on marble texture, serif font, uppercase centered style, dark red color, smooth painted-on marble texture, serif font, uppercase centered style, and dark red color, smooth painted-on marble texture, serif font, uppercase left-and-right aligned style.
+3. The text reading 'CARRER', 'DEL', and 'CÓS DEL BOU'.

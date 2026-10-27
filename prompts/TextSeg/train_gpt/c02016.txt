@@ -1,0 +1,3 @@
+1. The text located at the top-center, center, and lower-center of the page.
+2. The text with purple/blue gradient color, brush-marker texture, hand-lettered brush script font, bold thick uppercase style, black color, flat ink texture, small handwritten sans-serif font, simple uppercase style, and red/pink gradient color, brush-marker texture, hand-lettered brush script font, bold thick uppercase style.
+3. The text reading 'MONA', 'DER', and 'VAMPIR'.

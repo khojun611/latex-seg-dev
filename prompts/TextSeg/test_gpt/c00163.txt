@@ -1,0 +1,3 @@
+1. The text located at the top center and bottom center.
+2. The text with dark gray/black, speckled and shaded 3D texture, bold block 3D sans-serif font, uppercase 3D lettering and dark gray/black, smooth solid texture, cursive brush script font, flowing handwritten style.
+3. The text reading 'KIND' and 'Lady'.

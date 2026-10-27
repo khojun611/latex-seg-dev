@@ -1,0 +1,3 @@
+1. The text located at the top-center, middle-center, and bottom-center.
+2. The text with white fill, light-blue outline and darker-blue drop-shadow, smooth beveled texture, cursive hand-lettered style, white fill, light-blue outline and darker-blue drop-shadow, smooth beveled texture, tall condensed sans-serif/block style, and white fill, light-blue outline and darker-blue drop-shadow, smooth beveled texture, cursive hand-lettered style.
+3. The text reading 'weit', 'WEIT', and 'weg'

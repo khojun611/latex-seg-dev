@@ -1,0 +1,3 @@
+1. The text located at the top-left, upper-center, and middle-left.
+2. The text with dark maroon, flat solid texture, slab-serif font, bold, white, flat with subtle drop shadow texture, slab-serif font, bold display, and dark maroon, flat solid texture, slab-serif font, bold.
+3. The text reading '“', 'Pantone 16-1546', and 'Colour of the year 2019”'.

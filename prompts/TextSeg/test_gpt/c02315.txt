@@ -1,0 +1,3 @@
+1. The text located at the top center, upper-center, mid-center, and bottom center.
+2. The text with white color, smooth illuminated texture, bold condensed sans-serif font, and uppercase style; white color, smooth illuminated texture, very large bold sans-serif font, and uppercase style; white color, smooth illuminated texture, very large bold sans-serif font, and uppercase style; and white color, smooth illuminated texture, bold sans-serif font, and uppercase style.
+3. The text reading 'TOWER', 'SELF', 'PARK', and '211 WEST ADAMS'.

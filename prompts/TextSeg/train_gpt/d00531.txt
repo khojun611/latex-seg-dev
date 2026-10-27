@@ -1,0 +1,3 @@
+1. The text located at the center and bottom center.
+2. The text with pink outlined letters and a red patterned heart (flat smooth texture, bold rounded sans-serif font, outline letters and filled decorative heart) and small solid pink text (flat smooth texture, thin sans-serif font, title-case regular style).
+3. The text reading 'amor' and 'Te Quiero'.

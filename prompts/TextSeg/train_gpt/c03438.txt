@@ -1,0 +1,3 @@
+1. The text located at the top-center of the sign, upper-middle of the sign, center of the sign, lower-middle of the sign, and bottom of the sign.
+2. The text with black color, matte painted wood texture, serif font, title case; black color, matte painted wood texture, serif font, title case; dark navy/black color, matte painted wood texture, serif font, uppercase bold; black color, matte painted wood texture, serif font, lowercase title case; black color, matte painted wood texture, serif font, title case.
+3. The text reading 'Leave room', 'in your', 'GARDEN', 'for the', and 'Angels to dance'.

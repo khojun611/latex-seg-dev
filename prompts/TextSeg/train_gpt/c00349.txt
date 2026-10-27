@@ -1,0 +1,3 @@
+1. The text located at the upper-center ("you"), upper-center-right ("got"), and lower-center ("this!").
+2. The text with pink/red to orange gradient color, speckled/painted marker texture, hand-lettered brush-script font, bold cursive connected style; pink/red to orange gradient color, speckled/painted marker texture, hand-lettered brush-script font, bold cursive connected style; orange to pink gradient color, speckled/painted marker texture, hand-lettered brush-script font, bold cursive connected style with exclamation mark.
+3. The text reading 'you', 'got', and 'this!'.

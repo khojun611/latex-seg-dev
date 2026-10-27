@@ -1,0 +1,3 @@
+1. The text located at the upper-left above the main word, centered across the middle of the image, and below the main word centered on a purple bar.
+2. The text with pink color, solid flat texture, bold condensed sans-serif font, outlined style; bright magenta color, solid flat texture, extra-bold condensed sans-serif font, uppercase outlined style with subtle shadow; and white color, solid flat texture, bold condensed sans-serif font, uppercase outlined style placed on a purple bar.
+3. The text reading 'TEAM', 'POWERFUL', and 'E-SPORTS'.

@@ -1,0 +1,3 @@
+1. The text located at the center of the plaque below the map, the lower-center of the plaque, and the bottom-center of the plaque.
+2. The text with white, painted smooth finish on stained wood, serif (Georgia/Times-like) font, medium-weight title-case centered, white, painted smooth finish on stained wood, serif (Georgia/Times-like) font, larger medium-weight title-case centered, and white, painted smooth finish on stained wood, serif (Georgia/Times-like) font, small-size lowercase centered.
+3. The text reading 'Sterling', 'Massachusetts', and 'inc. 1781'.

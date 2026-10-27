@@ -1,0 +1,3 @@
+1. The text located at the top-center, middle-left, and middle-right.
+2. The text with black, smooth backlit plastic, condensed sans-serif, uppercase, black, smooth backlit plastic, bold sans-serif, uppercase, and black, smooth backlit plastic, bold sans-serif, uppercase.
+3. The text reading 'CERVECERIA', 'EL', and 'TREMENDO'.

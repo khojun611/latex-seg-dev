@@ -1,0 +1,3 @@
+1. The text located at the top-center inside a small red diamond, the upper-center inside the circle above the main word, the center across and overlapping the circle, and the lower-center inside the circle.
+2. The text with white color, flat texture, condensed sans-serif uppercase font and small bold style; brown/gold color, flat texture, sans-serif uppercase font and bold letterspaced style; red color with white highlights and gray drop shadow, brush-stroke textured, script/hand-lettered font and bold italic style; and brown/gold color, flat texture, sans-serif uppercase font and bold style.
+3. The text reading 'MAY', 'NATIONAL', 'BARBECUE', and 'MONTH'.

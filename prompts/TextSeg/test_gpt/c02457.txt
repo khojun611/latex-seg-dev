@@ -1,0 +1,3 @@
+1. The text located at the top center of the concrete plaque, the middle center of the concrete plaque, and the bottom center of the concrete plaque.
+2. The text with dark charcoal/black painted lettering on rough speckled concrete, rounded sans-serif font, mixed-case with initial capital for "Hightower", dark charcoal/black painted lettering on rough speckled concrete, rounded sans-serif font, mixed-case with hyphen for "Hole - 1", and dark charcoal/black painted lettering on rough speckled concrete, bold rounded sans-serif font, large numerals for "30".
+3. The text reading 'Hightower', 'Hole - 1', and '30'.

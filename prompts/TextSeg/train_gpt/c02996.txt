@@ -1,0 +1,3 @@
+1. The text located at the top of the framed sign, the middle of the framed sign, and the bottom of the framed sign.
+2. The text with dark brown color, painted-on-wood slightly distressed texture, serif font, lowercase regular style, dark brown color, painted-on-wood slightly distressed texture, serif font, lowercase regular style, and dark brown color, painted-on-wood slightly distressed texture, serif font, uppercase bold style.
+3. The text reading 'there's no', 'place like', and 'HOME'.

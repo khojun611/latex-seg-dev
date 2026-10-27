@@ -1,0 +1,3 @@
+1. The text located at the top-left, top-center-right, center, lower-center-left, and lower-right.
+2. The text with white with dark red shadow, distressed/grainy texture, decorative serif, 3D extruded; white, smooth, slightly distressed, script/cursive, hand-lettered; turquoise/teal with white highlights and dark teal shadow, speckled/distressed texture, bold ornamental serif, 3D extruded; white, smooth, slightly distressed, script/cursive, hand-lettered; and white with orange/red shadow, distressed/grainy texture, decorative serif, 3D extruded.
+3. The text reading 'He', 'is', 'MIGHTY', 'to', and 'SAVE'.

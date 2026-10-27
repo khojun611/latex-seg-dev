@@ -1,0 +1,3 @@
+1. The text located at the top-left, center-left, and bottom-right.
+2. The text with an orange front face, yellow 3D extrusion, white outline, smooth flat texture with inner lighter‑orange stripes, bold block 3D display font, retro extruded style, an orange front face, yellow 3D extrusion, white outline, smooth flat texture with inner lighter‑orange stripes, bold block 3D display font, retro extruded style, and an orange front face, yellow 3D extrusion, white outline, smooth flat texture with inner lighter‑orange stripes, bold block 3D display font, retro extruded style.
+3. The text reading 'LA', 'DE', and 'DA'.
