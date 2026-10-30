@@ -7,6 +7,13 @@ As in Hi-SAM, the pretrained weights are frozen and each block gets two trainabl
     x = x + ls1(SpaceAdapter(attn(norm1(x))))
     x = x + ls2(mlp(norm2(x))) + 0.5 * MLPAdapter(norm2(x))
 The stride-16 patch tokens are turned into p2-p6 by detectron2's SimpleFeaturePyramid (ViTDet).
+
+MODEL.DINOV3.SPACE_ADAPTER_OUTSIDE_LS: DINOv3's LayerScale ls1 ranges ~0.05 (block 0) .. ~16 (block 23) in ViT-L, so
+an adapter inside ls1 is nearly dead early and over-amplified late. With the flag the Space_Adapter residual is added
+outside ls1 and zero-initialised:  x = x + ls1(attn) + SpaceAdapterDelta(attn).
+MODEL.DINOV3.CONV_STEM: SFP's p2/p3 are deconvolutions of the stride-16 map (no sub-patch detail). The stem adds real
+stride-4/8 features from the first two stages of the frozen DINOv3 ConvNeXt (same 7B teacher) to p2/p3 through
+trainable zero-initialised projections, so training starts exactly at the plain SFP.
 """
 import math
 import os
@@ -39,8 +46,11 @@ class Adapter(nn.Module):
         self.D_fc1 = nn.Linear(dim, hidden)
         self.D_fc2 = nn.Linear(hidden, dim)
 
+    def delta(self, x):
+        return self.D_fc2(self.act(self.D_fc1(x)))
+
     def forward(self, x):
-        xs = self.D_fc2(self.act(self.D_fc1(x)))
+        xs = self.delta(x)
         return x + xs if self.skip_connect else xs
 
 
@@ -114,7 +124,7 @@ class Mlp(nn.Module):
 
 
 class Block(nn.Module):
-    def __init__(self, dim, num_heads, adapters=True, adapter_scale=0.5):
+    def __init__(self, dim, num_heads, adapters=True, adapter_scale=0.5, space_outside_ls=False):
         super().__init__()
         self.norm1 = nn.LayerNorm(dim, eps=1e-5)
         self.attn = Attention(dim, num_heads)
@@ -127,12 +137,19 @@ class Block(nn.Module):
             self.Space_Adapter = Adapter(dim)
             self.MLP_Adapter = Adapter(dim, skip_connect=False)
             self.adapter_scale = adapter_scale
+        self.space_outside_ls = adapters and space_outside_ls
+        if self.space_outside_ls:  # starts as the exact pretrained block
+            nn.init.zeros_(self.Space_Adapter.D_fc2.weight)
+            nn.init.zeros_(self.Space_Adapter.D_fc2.bias)
 
     def forward(self, x, rope):
         a = self.attn(self.norm1(x), rope)
-        if self.adapters:
-            a = self.Space_Adapter(a)
-        x = x + self.ls1(a)
+        if self.space_outside_ls:
+            x = x + self.ls1(a) + self.Space_Adapter.delta(a)
+        else:
+            if self.adapters:
+                a = self.Space_Adapter(a)
+            x = x + self.ls1(a)
         h = self.norm2(x)
         x = x + self.ls2(self.mlp(h))
         if self.adapters:
@@ -143,7 +160,7 @@ class Block(nn.Module):
 class DINOv3ViT(Backbone):
     """Outputs the final-norm patch tokens as a stride-16 map {"last_feat": [B, C, H/16, W/16]}."""
 
-    def __init__(self, arch="vitb16", n_storage_tokens=4, adapters=True, grad_checkpoint=False):
+    def __init__(self, arch="vitb16", n_storage_tokens=4, adapters=True, grad_checkpoint=False, space_outside_ls=False):
         super().__init__()
         self.grad_checkpoint = grad_checkpoint
         dim, depth, heads = ARCHS[arch]
@@ -156,7 +173,7 @@ class DINOv3ViT(Backbone):
         self.storage_tokens = nn.Parameter(torch.zeros(1, n_storage_tokens, dim))
         self.mask_token = nn.Parameter(torch.zeros(1, dim))  # unused, kept for strict loading
         self.rope_embed = RopePositionEmbedding(dim, heads)
-        self.blocks = nn.ModuleList(Block(dim, heads, adapters) for _ in range(depth))
+        self.blocks = nn.ModuleList(Block(dim, heads, adapters, space_outside_ls=space_outside_ls) for _ in range(depth))
         for blk in self.blocks:
             blk.n_prefix_tokens = self.n_prefix_tokens  # read by the text-injection hooks
         self.norm = nn.LayerNorm(dim, eps=1e-5)
@@ -239,16 +256,64 @@ class _SimpleFeaturePyramid(SimpleFeaturePyramid):
         return {"size_divisibility": self._size_divisibility, "square_size": self._square_pad}
 
 
+class ConvNeXtStem(nn.Module):
+    """Frozen first two stages of the DINOv3 ConvNeXt -> {"p2": stride 4, "p3": stride 8} residuals for the SFP levels,
+    through trainable 1x1 conv -> LN -> 3x3 conv projections whose last conv is zero-initialised."""
+
+    STAGES = {"p2": 0, "p3": 1}
+
+    def __init__(self, size, weights, out_channels, levels=("p2", "p3")):
+        super().__init__()
+        from .dinov3_convnext_backbone import DINOv3ConvNeXt, LayerNorm2d
+        self.levels = tuple(levels)
+        n = max(self.STAGES[l] for l in self.levels) + 1
+        cnx = DINOv3ConvNeXt(size, out_features=(), adapters=False)
+        if weights:
+            cnx.load_pretrained(weights)
+        self.downsample_layers = cnx.downsample_layers[:n]
+        self.stages = cnx.stages[:n]
+        for p in list(self.downsample_layers.parameters()) + list(self.stages.parameters()):
+            p.requires_grad = False
+        dims = [cnx._out_feature_channels[f"res{i + 2}"] for i in range(n)]
+        self.proj = nn.ModuleDict()
+        for l in self.levels:
+            c = dims[self.STAGES[l]]
+            last = nn.Conv2d(out_channels, out_channels, 3, padding=1)
+            nn.init.zeros_(last.weight); nn.init.zeros_(last.bias)
+            self.proj[l] = nn.Sequential(nn.Conv2d(c, out_channels, 1), LayerNorm2d(out_channels, eps=1e-6), last)
+
+    def forward(self, x):
+        feats = []
+        with torch.no_grad():  # frozen
+            for ds, st in zip(self.downsample_layers, self.stages):
+                x = st(ds(x))
+                feats.append(x)
+        return {l: self.proj[l](feats[self.STAGES[l]]) for l in self.levels}
+
+
+class _SimpleFeaturePyramidWithStem(_SimpleFeaturePyramid):
+    def __init__(self, stem, **kwargs):
+        super().__init__(**kwargs)
+        self.stem = stem
+
+    def forward(self, x):
+        out = super().forward(x)
+        for l, r in self.stem(x).items():
+            out[l] = out[l] + r
+        return out
+
+
 @BACKBONE_REGISTRY.register()
 def build_dinov3_vit_sfp_backbone(cfg, input_shape: ShapeSpec):
     c = cfg.MODEL.DINOV3
-    net = DINOv3ViT(c.ARCH, adapters=c.ADAPTERS, grad_checkpoint=c.GRAD_CHECKPOINT)
+    net = DINOv3ViT(c.ARCH, adapters=c.ADAPTERS, grad_checkpoint=c.GRAD_CHECKPOINT,
+                    space_outside_ls=c.SPACE_ADAPTER_OUTSIDE_LS)
     if c.WEIGHTS:
         net.load_pretrained(c.WEIGHTS)
     if c.FREEZE:  # Hi-SAM: train only the adapters (text-injection modules live outside the backbone)
         for n, p in net.named_parameters():
             p.requires_grad = "Adapter" in n
-    return _SimpleFeaturePyramid(
+    sfp_kwargs = dict(
         net=net,
         in_feature="last_feat",
         out_channels=cfg.MODEL.FPN.OUT_CHANNELS,
@@ -256,3 +321,8 @@ def build_dinov3_vit_sfp_backbone(cfg, input_shape: ShapeSpec):
         top_block=LastLevelMaxPool(),
         norm="LN",
     )
+    s = c.CONV_STEM
+    if s.ENABLED:
+        stem = ConvNeXtStem(s.SIZE, s.WEIGHTS, cfg.MODEL.FPN.OUT_CHANNELS, s.LEVELS)
+        return _SimpleFeaturePyramidWithStem(stem, **sfp_kwargs)
+    return _SimpleFeaturePyramid(**sfp_kwargs)

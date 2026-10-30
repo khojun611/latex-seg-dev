@@ -72,6 +72,7 @@ class LaTeXSegHead(nn.Module):
             cfg.MODEL.SEM_SEG_HEAD.COARSE_HEAD_NAME
         )(cfg, input_shape)
         self.igr_enabled = cfg.MODEL.IGR.ENABLED
+        assert not (self.igr_enabled and cfg.MODEL.RGB_SKIP.ENABLED), "RGB_SKIP is for the IGR-off path"
         if self.igr_enabled:
             self._init_igr(cfg, input_shape)
 
@@ -118,7 +119,8 @@ class LaTeXSegHead(nn.Module):
             return None, losses
 
         if not self.igr_enabled:
-            return F.interpolate(coarse_sem_seg_logits, scale_factor=4, mode="bilinear", align_corners=False), {}
+            up = F.interpolate(coarse_sem_seg_logits, scale_factor=4, mode="bilinear", align_corners=False)
+            return self.coarse_sem_seg_head.refine(up), {}
         sem_seg_logits = coarse_sem_seg_logits.clone()
         for _ in range(self.subdivision_steps):
             sem_seg_logits = F.interpolate(

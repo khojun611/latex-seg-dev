@@ -19,6 +19,7 @@ Each prompt file has 3 lines: location / style / recognition.
 """
 import os
 import random
+import re
 import sys
 import time
 
@@ -78,6 +79,7 @@ _DATASET_ROOT = os.getenv("DETECTRON2_DATASETS", "datasets")
 _DATASETS = {
     "Textseg_sem_train":  ("TextSeg/train", "TextSeg/seg_train", "TextSeg/train_gpt"),
     "Textseg_sem_test":   ("TextSeg/test", "TextSeg/seg_test", "TextSeg/test_gpt"),
+    "Textseg_sem_valid":  ("TextSeg/valid", "TextSeg/seg_valid", "TextSeg/valid_gpt"),
     "HierText_sem_train": ("HierText/train", "HierText/train_gt", "HierText/train_gemini"),
     "HierText_sem_test":  ("HierText/test", "HierText/test_gt", "HierText/test_gemini"),
 }
@@ -126,13 +128,94 @@ def read_prompt_triplet(txt_path):
     return loc, sty, sem
 
 
+_NUMBERED = re.compile(r"(?:^|\n)\s*([123])[.)]\s*")
+
+
+def parse_prompt_lines(txt_path):
+    """Strict parse for prompt mixing: (location, style, recognition) or None per line when the line is missing or
+    degenerate (VLM failure modes seen in train_qwen3vl / train_deepseek: coordinate dumps, number loops,
+    two items on one line)."""
+    try:
+        with open(txt_path, "r", encoding="utf-8") as f:
+            text = f.read()
+    except OSError:
+        return (None, None, None)
+    parts = _NUMBERED.split(text)  # ["", "1", body, "2", body, ...]
+    found = {}
+    for k in range(1, len(parts) - 1, 2):
+        found.setdefault(int(parts[k]), " ".join(parts[k + 1].split()))
+    out = []
+    for i in (1, 2, 3):
+        t = found.get(i)
+        toks = t.split() if t else []
+        bad = (not t or len(t) > 4000 or re.search(r"\b[123][.)] The text", t)
+               or (i == 1 and sum(c.isdigit() for c in t) > 20)
+               or (len(toks) > 10 and sum(w.strip(",.;").isdigit() for w in toks) > 0.5 * len(toks)))
+        out.append(None if bad else t)
+    return tuple(out)
+
+
+class PromptMixer:
+    """Draws the training prompt of an image from several LLM prompt dirs (cfg.INPUT.PROMPT_MIX).
+    Malformed lines are skipped; if no source has a valid line, the dataset's own prompt file is used as is."""
+
+    def __init__(self, own_dir, sources, weights=(), per_line=False):
+        root = os.path.dirname(own_dir.rstrip("/"))
+        self.own_dir = own_dir
+        self.dirs = [os.path.join(root, s) for s in sources]
+        for d in self.dirs:
+            assert os.path.isdir(d), f"PROMPT_MIX source not found: {d}"
+        self.weights = list(weights) if weights else [1.0] * len(self.dirs)
+        assert len(self.weights) == len(self.dirs), (weights, sources)
+        self.per_line = per_line
+        self._cache = {}
+
+    def _lines(self, stem):
+        if stem not in self._cache:
+            self._cache[stem] = [parse_prompt_lines(os.path.join(d, stem + ".txt")) for d in self.dirs]
+        return self._cache[stem]
+
+    def _draw(self, cands):
+        return random.choices([c for c, _ in cands], weights=[w for _, w in cands])[0]
+
+    def __call__(self, stem):
+        lines = self._lines(stem)
+        own = None
+        if self.per_line:
+            out = []
+            for i in range(3):
+                cands = [(ls[i], w) for ls, w in zip(lines, self.weights) if ls[i] is not None]
+                if cands:
+                    out.append(self._draw(cands))
+                else:
+                    own = own or read_prompt_triplet(os.path.join(self.own_dir, stem + ".txt"))
+                    out.append(own[i])
+            return tuple(out)
+        cands = [(ls, w) for ls, w in zip(lines, self.weights) if None not in ls]
+        if cands:
+            return tuple(self._draw(cands))
+        return read_prompt_triplet(os.path.join(self.own_dir, stem + ".txt"))
+
+
 class TextPromptDatasetMapper(DatasetMapper):
     """DatasetMapper that also attaches location/style/recognition text
-    (read from `<prompt_dir>/<image-stem>.txt`) to each sample."""
+    (read from `<prompt_dir>/<image-stem>.txt`, or drawn by a PromptMixer) to each sample."""
+
+    prompt_mix = None
 
     def set_prompt_dir(self, prompt_dir):
         self.prompt_dir = prompt_dir
         return self
+
+    def set_prompt_mix(self, mix_cfg):
+        if mix_cfg.SOURCES:
+            self.prompt_mix = PromptMixer(self.prompt_dir, mix_cfg.SOURCES, mix_cfg.WEIGHTS, mix_cfg.PER_LINE)
+        return self
+
+    def read_prompt(self, stem):
+        if self.prompt_mix is not None:
+            return self.prompt_mix(stem)
+        return read_prompt_triplet(os.path.join(self.prompt_dir, stem + ".txt"))
 
     def __call__(self, dataset_dict):
         stem = os.path.splitext(os.path.basename(dataset_dict["file_name"]))[0]
@@ -140,7 +223,7 @@ class TextPromptDatasetMapper(DatasetMapper):
         # GT 마스크가 0/255인데 ignore_label도 255 -> 텍스트=1, 배경=0으로 이진화
         if "sem_seg" in out:
             out["sem_seg"] = (out["sem_seg"] > 127).long()
-        loc, sty, rec = read_prompt_triplet(os.path.join(self.prompt_dir, stem + ".txt"))
+        loc, sty, rec = self.read_prompt(stem)
         out["location_text"] = loc
         out["style_text"] = sty
         out["recognition_text"] = rec
@@ -185,7 +268,7 @@ class PVTextPromptDatasetMapper(TextPromptDatasetMapper):
         half = cv2.resize(txt, (2 * w, 2 * h), interpolation=cv2.INTER_NEAREST)
         heat = skeleton_heatmap(half, out_hw=(h, w))[1] if half.any() else np.zeros((h, w), np.float32)
         out["skel_heat"] = torch.from_numpy(heat)
-        loc, sty, rec = read_prompt_triplet(os.path.join(self.prompt_dir, stem + ".txt"))
+        loc, sty, rec = self.read_prompt(stem)
         out["location_text"], out["style_text"], out["recognition_text"] = loc, sty, rec
         return out
 
@@ -260,7 +343,7 @@ class TextConsistencyMixin:
         if self._tc_buf is None:
             self._tc_buf = []
         for x in data:
-            self._tc_buf.append((x["location_text"], x["style_text"], x["recognition_text"]))
+            self._tc_buf.append((x["file_name"], (x["location_text"], x["style_text"], x["recognition_text"])))
         while len(self._tc_buf) > self.TC_BUFFER:
             self._tc_buf.pop(0)
         if len(self._tc_buf) < 8:
@@ -273,8 +356,8 @@ class TextConsistencyMixin:
         wrong = []
         for x in sub:
             d = dict(x)
-            own = (x["location_text"], x["style_text"], x["recognition_text"])
-            others = [t for t in self._tc_buf if t != own]   # never the image's own prompt
+            # never the image's own prompt (from any LLM source)
+            others = [t for f, t in self._tc_buf if f != x["file_name"]]
             d["location_text"], d["style_text"], d["recognition_text"] = random.choice(others)
             wrong.append(d)
 
@@ -441,11 +524,11 @@ class Trainer(TextConsistencyMixin, DefaultTrainer):
         if cfg.MODEL.PV.ENABLED or cfg.MODEL.ROLE_HEADS.ENABLED:
             mapper = PVTextPromptDatasetMapper(
                 cfg, is_train=True, augmentations=build_sem_seg_train_aug(cfg)
-            ).set_prompt_dir(prompt_dir).set_anno_dir(cfg.MODEL.PV.ANNO_DIR)
+            ).set_prompt_dir(prompt_dir).set_prompt_mix(cfg.INPUT.PROMPT_MIX).set_anno_dir(cfg.MODEL.PV.ANNO_DIR)
         else:
             mapper = TextPromptDatasetMapper(
                 cfg, is_train=True, augmentations=build_sem_seg_train_aug(cfg)
-            ).set_prompt_dir(prompt_dir)
+            ).set_prompt_dir(prompt_dir).set_prompt_mix(cfg.INPUT.PROMPT_MIX)
         return build_detection_train_loader(cfg, mapper=mapper)
 
     @classmethod

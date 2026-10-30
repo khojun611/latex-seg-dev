@@ -13,6 +13,15 @@ def add_latexseg_config(cfg):
     # Color augmentatition from SSD paper for semantic segmentation model during training.
     cfg.INPUT.COLOR_AUG_SSD = False
 
+    # Training-prompt mixing across LLMs: sibling dirs of the train prompt dir (e.g. train_gpt, train_gemini, ...).
+    # Empty = only the dataset's own prompt dir. A source whose file is malformed (missing 1./2./3. lines, coordinate
+    # or repetition garbage) is skipped for that image; the dataset's own prompt dir is the final fallback.
+    # PER_LINE: draw location / style / recognition lines independently (4 sources -> 64 combinations per image).
+    cfg.INPUT.PROMPT_MIX = CN()
+    cfg.INPUT.PROMPT_MIX.SOURCES = ()
+    cfg.INPUT.PROMPT_MIX.WEIGHTS = ()  # same length as SOURCES; empty = uniform
+    cfg.INPUT.PROMPT_MIX.PER_LINE = False
+
     # Optimizer: "SGD" (detectron2 default) or "ADAMW".
     cfg.SOLVER.OPTIMIZER = "SGD"
 
@@ -28,6 +37,13 @@ def add_latexseg_config(cfg):
     # "backbone" only: explicit block indices (l, s, m) for location / style / semantic (Hi-SAM --pv_blocks);
     # empty = the last NUM_BLOCKS blocks (semantic -> style -> location).
     cfg.MODEL.TEXT_INJECTION.BLOCKS = ()
+
+    # Text encoder: "clip" (OpenAI CLIP ViT-B/32 text, 512-d) or "dinotxt" (frozen dino.txt text tower aligned with
+    # DINOv3 ViT-L/16; latex_seg/dinotxt_text.py). DINOTXT_PART: "patch" (patch-aligned half, 1024-d), "cls", "all" (2048).
+    cfg.MODEL.TEXT_ENCODER = CN()
+    cfg.MODEL.TEXT_ENCODER.NAME = "clip"
+    cfg.MODEL.TEXT_ENCODER.DINOTXT_WEIGHTS = ""
+    cfg.MODEL.TEXT_ENCODER.DINOTXT_PART = "patch"
 
     # Hi-SAM role heads on the injection blocks (latex_seg/role_heads.py; needs TEXT_INJECTION.BLOCKS):
     # location block -> text region, style block -> [glyph SDF, word SDF], semantic block -> skeleton.
@@ -73,6 +89,21 @@ def add_latexseg_config(cfg):
     cfg.MODEL.DINOV3.FREEZE = True      # Hi-SAM: train only the adapters
     cfg.MODEL.DINOV3.ADAPTERS = True
     cfg.MODEL.DINOV3.GRAD_CHECKPOINT = False
+    # Space_Adapter residual outside the frozen LayerScale ls1 (zero-init); see dinov3_backbone.py.
+    cfg.MODEL.DINOV3.SPACE_ADAPTER_OUTSIDE_LS = False
+    # Frozen DINOv3 ConvNeXt stages 1-2 added to SFP p2 / p3 through zero-init projections (stride-4/8 detail).
+    cfg.MODEL.DINOV3.CONV_STEM = CN()
+    cfg.MODEL.DINOV3.CONV_STEM.ENABLED = False
+    cfg.MODEL.DINOV3.CONV_STEM.SIZE = "large"
+    cfg.MODEL.DINOV3.CONV_STEM.WEIGHTS = ""  # official .pth, .safetensors or HF model directory
+    cfg.MODEL.DINOV3.CONV_STEM.LEVELS = ("p2", "p3")
+
+    # RGB skip (latex_seg/text_fpn.py RGBRefiner): full-resolution residual on the x4-upsampled coarse logits from
+    # the input image (conv3x3 x NUM_CONVS, last conv zero-init -> starts as plain bilinear upsampling). IGR off only.
+    cfg.MODEL.RGB_SKIP = CN()
+    cfg.MODEL.RGB_SKIP.ENABLED = False
+    cfg.MODEL.RGB_SKIP.DIM = 32
+    cfg.MODEL.RGB_SKIP.NUM_CONVS = 2
 
     # DINOv3 ConvNeXt backbone (MODEL.BACKBONE.NAME = "build_dinov3_convnext_fpn_backbone").
     cfg.MODEL.DINOV3_CONVNEXT = CN()

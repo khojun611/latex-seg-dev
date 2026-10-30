@@ -1,0 +1,12 @@
+_BASE_: latexseg_DINOv3_ViTL16_HiSAMRoles_dinotxt_content_mixprompt_textseg.yaml
+
+# mixprompt run + two backbone changes (latex_seg/dinov3_backbone.py):
+#  - Space_Adapter residual outside the frozen LayerScale ls1 (zero-init); MLP_Adapter was already outside ls2
+#  - frozen DINOv3 ConvNeXt-L stages 1-2 added to SFP p2/p3 via zero-init projections (CONV_STEM.WEIGHTS set in the run script)
+MODEL:
+  DINOV3:
+    SPACE_ADAPTER_OUTSIDE_LS: True
+    CONV_STEM:
+      ENABLED: True
+      SIZE: "large"
+      LEVELS: ("p2", "p3")

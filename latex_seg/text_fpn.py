@@ -32,6 +32,7 @@ from detectron2.structures import ImageList
 
 from .pv_heads import PVHeads, split_semantic_words
 from .role_heads import RoleHeads
+from .dinotxt_text import DinoTxtTextEncoder
 
 
 # ----------------------------------------------------------------------------
@@ -291,37 +292,48 @@ class TextSemanticSegmentor(nn.Module):
     @configurable
     def __init__(self, *, backbone: Backbone, sem_seg_head: nn.Module, pixel_mean, pixel_std,
                  inject_location: str = "backbone", inject_blocks: int = 3, inject_heads: int = 8,
-                 inject_gate_init: float = 0.05, inject_block_ids=(), pv_cfg=None, role_cfg=None):
+                 inject_gate_init: float = 0.05, inject_block_ids=(), pv_cfg=None, role_cfg=None,
+                 text_encoder: str = "clip", dinotxt_weights: str = "", dinotxt_part: str = "patch"):
         super().__init__()
         self.backbone = backbone
         self.sem_seg_head = sem_seg_head
         self.register_buffer("pixel_mean", torch.tensor(pixel_mean).view(-1, 1, 1), False)
         self.register_buffer("pixel_std", torch.tensor(pixel_std).view(-1, 1, 1), False)
 
-        # CLIP ViT-B/32 text encoder: frozen + LoRA (r=8)
-        clip_model, _ = clip.load("ViT-B/32", device="cuda")
-        self.text_model = clip_model
-        for param in self.text_model.parameters():
-            param.requires_grad = False
-        lora_config = LoraConfig(
-            r=8,
-            lora_alpha=16,
-            target_modules=["q_proj", "k_proj", "v_proj", "out_proj"],
-            lora_dropout=0.05,
-            bias="none",
-        )
-        self.text_model.transformer = get_peft_model(self.text_model.transformer, lora_config)
+        self.text_encoder = text_encoder
+        if text_encoder == "dinotxt":
+            # frozen dino.txt text tower, aligned with the frozen DINOv3 ViT-L/16 patch features (dinotxt_text.py);
+            # same BPE tokenizer as CLIP
+            self.text_model = DinoTxtTextEncoder(dinotxt_weights, dinotxt_part)
+            text_dim = self.text_model.out_dim
+        elif text_encoder == "clip":
+            # CLIP ViT-B/32 text encoder: frozen + LoRA (r=8)
+            clip_model, _ = clip.load("ViT-B/32", device="cuda")
+            self.text_model = clip_model
+            for param in self.text_model.parameters():
+                param.requires_grad = False
+            lora_config = LoraConfig(
+                r=8,
+                lora_alpha=16,
+                target_modules=["q_proj", "k_proj", "v_proj", "out_proj"],
+                lora_dropout=0.05,
+                bias="none",
+            )
+            self.text_model.transformer = get_peft_model(self.text_model.transformer, lora_config)
+            text_dim = 512
+        else:
+            raise ValueError(f"Unknown MODEL.TEXT_ENCODER.NAME: {text_encoder}")
 
         self._text_ctx = {}  # role -> (tokens, pad_mask), set for the duration of a forward
         self.inject_location = inject_location
         if inject_location == "fpn":
             dim = backbone.output_shape()["p2"].channels
-            self.text_fusion = ProgressiveTextFusion(dim, 512, inject_heads, inject_gate_init)
+            self.text_fusion = ProgressiveTextFusion(dim, text_dim, inject_heads, inject_gate_init)
         elif inject_location == "backbone":
             # Hi-SAM-style injection into the last `inject_blocks` blocks of the stride-16 stage
             blocks, dim = stride16_blocks(backbone)
             self.text_adapters = nn.ModuleList(
-                TextInjection(dim, 512, inject_heads, inject_gate_init) for _ in range(inject_blocks)
+                TextInjection(dim, text_dim, inject_heads, inject_gate_init) for _ in range(inject_blocks)
             )
             n = len(blocks)
             if inject_block_ids:
@@ -343,14 +355,14 @@ class TextSemanticSegmentor(nn.Module):
         self._role_feats = {}
         self.aux_losses_off = False  # set by the trainer around the text-consistency forwards
         if role_cfg is not None and role_cfg.ENABLED:
-            assert inject_location == "backbone" and inject_block_ids, \
-                "role heads need backbone injection with explicit TEXT_INJECTION.BLOCKS"
+            assert inject_location == "backbone" and inject_block_ids and hasattr(backbone, "net"), \
+                "role heads need ViT backbone injection with explicit TEXT_INJECTION.BLOCKS"
             self.role_heads = RoleHeads(dim, role_cfg.REGION_WEIGHT, role_cfg.SDF_WEIGHT, role_cfg.SKEL_WEIGHT)
 
         self.pv = None
         if pv_cfg is not None and pv_cfg.ENABLED:
             self.pv = PVHeads(dim=sem_seg_head.coarse_sem_seg_head.gdf_predictor.feat_proj[0].in_channels,
-                              text_dim=512, ignore_value=255,
+                              text_dim=text_dim, ignore_value=255,
                               w_prop=pv_cfg.PROPOSAL_WEIGHT, w_sdf=pv_cfg.WORD_SDF_WEIGHT,
                               w_skel=pv_cfg.SKEL_WEIGHT, w_ver=pv_cfg.VERIFY_WEIGHT)
             self.pv_max_words = pv_cfg.MAX_WORDS
@@ -389,6 +401,9 @@ class TextSemanticSegmentor(nn.Module):
             "inject_block_ids": t.BLOCKS,
             "pv_cfg": cfg.MODEL.PV,
             "role_cfg": cfg.MODEL.ROLE_HEADS,
+            "text_encoder": cfg.MODEL.TEXT_ENCODER.NAME,
+            "dinotxt_weights": cfg.MODEL.TEXT_ENCODER.DINOTXT_WEIGHTS,
+            "dinotxt_part": cfg.MODEL.TEXT_ENCODER.DINOTXT_PART,
         }
 
     @property
@@ -396,15 +411,19 @@ class TextSemanticSegmentor(nn.Module):
         return self.pixel_mean.device
 
     def _encode_text_pertoken(self, tokens):
-        """CLIP text encoder -> per-token features [B, T', 512] (no pooling, PAD zeroed,
-        T' cropped to the longest non-PAD length in the batch)."""
+        """Text encoder -> per-token features [B, T', D] (no pooling, PAD zeroed,
+        T' cropped to the longest non-PAD length in the batch). D = 512 (CLIP) or 1024/2048 (dino.txt)."""
         m = self.text_model
-        x = m.token_embedding(tokens).type(m.dtype)
-        x = x + m.positional_embedding.type(m.dtype)
-        x = m.transformer(x.permute(1, 0, 2)).permute(1, 0, 2)
-        x = m.ln_final(x).type(m.dtype)
-        if getattr(m, "text_projection", None) is not None:
-            x = x @ m.text_projection
+        if self.text_encoder == "dinotxt":
+            with torch.no_grad():
+                x = m(tokens)
+        else:
+            x = m.token_embedding(tokens).type(m.dtype)
+            x = x + m.positional_embedding.type(m.dtype)
+            x = m.transformer(x.permute(1, 0, 2)).permute(1, 0, 2)
+            x = m.ln_final(x).type(m.dtype)
+            if getattr(m, "text_projection", None) is not None:
+                x = x @ m.text_projection
         pad = tokens.eq(0)
         x = x.masked_fill(pad.unsqueeze(-1), 0.0)
         keep = (~pad).any(dim=0)
@@ -501,6 +520,7 @@ class TextSemanticSegmentor(nn.Module):
                 targets, self.backbone.size_divisibility, self.sem_seg_head.ignore_value
             ).tensor
 
+        self.sem_seg_head.coarse_sem_seg_head.rgb_input = images.tensor
         results, losses = self.sem_seg_head(features, targets)
         if self.training:
             if self.pv is not None and not self.aux_losses_off:
@@ -515,6 +535,23 @@ class TextSemanticSegmentor(nn.Module):
             width = input_per_image.get("width", image_size[1])
             processed_results.append({"sem_seg": sem_seg_postprocess(result, image_size, height, width)})
         return processed_results
+
+
+class RGBRefiner(nn.Module):
+    """RGB skip: logits + conv([logits, image]) at full resolution; zero-init output -> identity at start."""
+
+    def __init__(self, num_classes, dim=32, num_convs=2):
+        super().__init__()
+        layers, c = [], num_classes + 3
+        for _ in range(num_convs):
+            layers += [nn.Conv2d(c, dim, 3, padding=1), nn.ReLU(inplace=True)]
+            c = dim
+        self.body = nn.Sequential(*layers)
+        self.out = nn.Conv2d(dim, num_classes, 3, padding=1)
+        nn.init.zeros_(self.out.weight); nn.init.zeros_(self.out.bias)
+
+    def forward(self, logits, image):
+        return logits + self.out(self.body(torch.cat([logits, image.to(logits.dtype)], 1)))
 
 
 # ----------------------------------------------------------------------------
@@ -537,6 +574,9 @@ class TextSemSegFPNHead(nn.Module):
         gdf_hidden_dim: int = 256,
         gdf_num_layers: int = 3,
         gdf_w0: float = 30.0,
+        rgb_skip: bool = False,
+        rgb_skip_dim: int = 32,
+        rgb_skip_convs: int = 2,
     ):
         super().__init__()
         input_shape = sorted(input_shape.items(), key=lambda x: x[1].stride)
@@ -583,6 +623,8 @@ class TextSemSegFPNHead(nn.Module):
         self.batch_norm2 = nn.BatchNorm2d(128)
         self.predictor = Conv2d(128, num_classes, kernel_size=1, stride=1, padding=0)
         weight_init.c2_msra_fill(self.predictor)
+        self.rgb_refiner = RGBRefiner(num_classes, rgb_skip_dim, rgb_skip_convs) if rgb_skip else None
+        self.rgb_input = None   # normalized padded image [B,3,H,W], set by TextSemanticSegmentor.forward
 
     @classmethod
     def from_config(cls, cfg, input_shape: Dict[str, ShapeSpec]):
@@ -600,6 +642,9 @@ class TextSemSegFPNHead(nn.Module):
             "gdf_hidden_dim": cfg.MODEL.GDF.HIDDEN_DIM,
             "gdf_num_layers": cfg.MODEL.GDF.NUM_LAYERS,
             "gdf_w0": cfg.MODEL.GDF.W0,
+            "rgb_skip": cfg.MODEL.RGB_SKIP.ENABLED,
+            "rgb_skip_dim": cfg.MODEL.RGB_SKIP.DIM,
+            "rgb_skip_convs": cfg.MODEL.RGB_SKIP.NUM_CONVS,
         }
 
     def forward(self, features, targets=None):
@@ -607,7 +652,13 @@ class TextSemSegFPNHead(nn.Module):
         if self.training:
             return None, self.losses(x, targets, gdf)
         x = F.interpolate(x, scale_factor=self.common_stride, mode="bilinear", align_corners=False)
-        return x, {}
+        return self.refine(x), {}
+
+    def refine(self, x):
+        """RGB skip on full-resolution (upsampled) logits; identity when disabled."""
+        if self.rgb_refiner is None:
+            return x
+        return self.rgb_refiner(x, self.rgb_input[..., : x.shape[-2], : x.shape[-1]])
 
     def layers(self, features):
         """Returns (coarse logits [B,C,H/4,W/4], predicted GDF [B,1,H/4,W/4])."""
@@ -645,6 +696,7 @@ class TextSemSegFPNHead(nn.Module):
         predictions = F.interpolate(
             predictions, scale_factor=self.common_stride, mode="bilinear", align_corners=True
         )
+        predictions = self.refine(predictions)
         cs_loss = F.cross_entropy(predictions, targets, reduction="mean", ignore_index=self.ignore_value)
         focal_loss = self.focal_loss(predictions, targets)
         dice_loss = self.dice_loss(predictions, targets)

@@ -1,0 +1,13 @@
+_BASE_: latexseg_DINOv3_ViTL16_HiSAMRoles_dinotxt_content_textseg.yaml
+
+# Same as the dino.txt content run, with training prompts drawn per line from four LLMs (anti text-memorization);
+# GPT weighted higher since test prompts are GPT. Val split (340) registered as Textseg_sem_valid for ckpt selection.
+INPUT:
+  PROMPT_MIX:
+    SOURCES: ("train_gpt", "train_gemini", "train_qwen3vl", "train_deepseek")
+    WEIGHTS: (0.4, 0.2, 0.2, 0.2)
+    PER_LINE: True
+DATASETS:
+  TEST: ("Textseg_sem_valid",)
+TEST:
+  EVAL_PERIOD: 2500  # val (340 images, GPT prompts) every checkpoint -> val-based checkpoint selection

@@ -1,0 +1,9 @@
+_BASE_: latexseg_DINOv3_ViTL16_HiSAMRoles_dinotxt_content_mixprompt_stem_lsfix_textseg.yaml
+
+# + RGB skip (latex_seg/text_fpn.py RGBRefiner): full-resolution residual on the x4-upsampled coarse logits from the
+#   input image, zero-init -> starts as plain bilinear upsampling. IGR stays off.
+MODEL:
+  RGB_SKIP:
+    ENABLED: True
+    DIM: 32
+    NUM_CONVS: 2

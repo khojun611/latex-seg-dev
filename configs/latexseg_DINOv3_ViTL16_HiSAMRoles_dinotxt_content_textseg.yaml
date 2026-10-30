@@ -1,0 +1,9 @@
+_BASE_: latexseg_DINOv3_ViTL16_HiSAMRoles_content_textseg.yaml
+# = the content run (relative help margin 0.1 + per-image content hinge, no IGR) with the CLIP ViT-B/32 text encoder
+# replaced by the frozen dino.txt text tower (aligned with this DINOv3 ViT-L/16 backbone). Per-token features use the
+# patch-aligned half (1024-d), which feeds kv_proj of the injection blocks 11/17/22.
+MODEL:
+  TEXT_ENCODER:
+    NAME: "dinotxt"
+    DINOTXT_WEIGHTS: "pretrained/dinotxt_vitl16/dinov3_vitl16_dinotxt_vision_head_and_text_encoder-a442d8f5.pth"
+    DINOTXT_PART: "patch"
