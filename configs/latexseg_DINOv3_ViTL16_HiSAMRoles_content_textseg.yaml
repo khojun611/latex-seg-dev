@@ -1,0 +1,10 @@
+_BASE_: latexseg_DINOv3_ViTL16_HiSAMRoles_textseg.yaml
+# Same as the Hi-SAM-roles ViT-L run (no IGR) with a relative help margin + the per-image content hinge on the text path:
+#   relu(Q(correct) - (1 - rho) * sg[Q(wrong)]), wrong = FIFO prompt of another image
+MODEL:
+  IGR:
+    ENABLED: False
+TEXT_CONSISTENCY:
+  HELP_REL_MARGIN: 0.1   # help: Q(correct) < 0.9 Q(no-text) (the absolute 0.2 margin is > Q itself, always on)
+  CONTENT_WEIGHT: 0.5
+  CONTENT_RHO: 0.1

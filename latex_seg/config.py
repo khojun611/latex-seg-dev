@@ -90,6 +90,9 @@ def add_latexseg_config(cfg):
     cfg.TEXT_CONSISTENCY.SAFE_WEIGHT = 0.1        # relu(Q(wrong) - sg[Q(no-text)])
     cfg.TEXT_CONSISTENCY.HELP_WEIGHT = 0.5        # relu(Q(correct) - sg[Q(no-text)] + margin), text path only
     cfg.TEXT_CONSISTENCY.HELP_MARGIN = 0.2
+    cfg.TEXT_CONSISTENCY.HELP_REL_MARGIN = 0.0    # > 0: relu(Q(correct) - (1-rel) sg[Q(no-text)]) instead (scale-free)
+    cfg.TEXT_CONSISTENCY.CONTENT_WEIGHT = 0.0     # relu(Q(correct) - (1-rho) sg[Q(wrong)]) per image, text path only
+    cfg.TEXT_CONSISTENCY.CONTENT_RHO = 0.1
     cfg.TEXT_CONSISTENCY.BUFFER = 64              # FIFO of past texts used as the wrong text
     cfg.TEXT_CONSISTENCY.NEG_BATCH = 2            # samples used for the extra forwards (memory limit)
 

@@ -30,6 +30,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # this folder's 
 
 import detectron2.data.transforms as T
 import detectron2.utils.comm as comm
+from detectron2.utils.events import get_event_storage
 from detectron2.checkpoint import DetectionCheckpointer
 from detectron2.config import get_cfg
 from detectron2.data import (
@@ -231,7 +232,11 @@ class TextConsistencyMixin:
       no-text seg : NOTEXT_SEG_WEIGHT * Seg(no-text)                        (전체 파라미터)
       safe        : SAFE_WEIGHT * relu(Q(wrong) - sg[Q(no-text)])            (전체 파라미터)
       help        : HELP_WEIGHT * relu(Q(correct) - sg[Q(no-text)] + HELP_MARGIN)
+                    or, with HELP_REL_MARGIN > 0, HELP_WEIGHT * relu(Q(correct) - (1 - HELP_REL_MARGIN) * sg[Q(no-text)])
                     (텍스트 경로 파라미터에만 gradient; 별도 backward)
+      content     : CONTENT_WEIGHT * mean_i relu(Q_i(correct) - (1 - RHO) * sg[Q_i(wrong)])
+                    (이미지별 hinge 후 평균; help 와 같은 텍스트 경로 파라미터에만 gradient)
+    help / safe 는 배치(NEG_BATCH) 평균 Q 에 한 번 hinge, content 는 이미지별 Q.
     """
     TC_ENABLED = False
     TC_NOTEXT_SEG_WEIGHT = 1.0
@@ -240,7 +245,11 @@ class TextConsistencyMixin:
     TC_HELP_MARGIN = 0.2
     TC_BUFFER = 64
     TC_NEG_BATCH = 2
+    TC_HELP_REL_MARGIN = 0.0
+    TC_CONTENT_WEIGHT = 0.0
+    TC_CONTENT_RHO = 0.1
     _tc_buf = None
+    _tc_stats_file = None
 
     def _tc_backward(self, data):
         """3가지 조건 forward 를 하고 gradient 를 .grad 에 누적한다. 메인 손실 backward 뒤에 호출.
@@ -264,34 +273,79 @@ class TextConsistencyMixin:
         wrong = []
         for x in sub:
             d = dict(x)
-            d["location_text"], d["style_text"], d["recognition_text"] = \
-                self._tc_buf[random.randrange(len(self._tc_buf))]
+            own = (x["location_text"], x["style_text"], x["recognition_text"])
+            others = [t for t in self._tc_buf if t != own]   # never the image's own prompt
+            d["location_text"], d["style_text"], d["recognition_text"] = random.choice(others)
             wrong.append(d)
 
         model = self._unwrapped_model()
+        coarse = model.sem_seg_head.coarse_sem_seg_head
         model.aux_losses_off = True   # PV / role-head losses only on the main forward
+        coarse.per_image_q = True     # also return the per-image Q ("q_img")
         try:
             return self._tc_forwards(model, sub, notext, wrong)
         finally:
             model.aux_losses_off = False
+            coarse.per_image_q = False
 
     def _tc_forwards(self, model, sub, notext, wrong):
         # (1) no-text seg + safe: 전체 파라미터
         nt_losses = model(notext)
         nt_q = nt_losses["loss_sem_seg"].detach()
+        nt_q_img = nt_losses["q_img"].detach()
         nt_seg = self.TC_NOTEXT_SEG_WEIGHT * (nt_losses["loss_sem_seg"] + nt_losses.get("loss_igr", 0.0))
-        safe = self.TC_SAFE_WEIGHT * torch.relu(model(wrong)["loss_sem_seg"] - nt_q)
+        wr_losses = model(wrong)
+        wr_q, wr_q_img = wr_losses["loss_sem_seg"], wr_losses["q_img"].detach()
+        safe = self.TC_SAFE_WEIGHT * torch.relu(wr_q - nt_q)
         self._add_grads(nt_seg + safe, [p for p in model.parameters() if p.requires_grad])
-        # (2) help: 텍스트 경로 파라미터만
-        help_term = self.TC_HELP_WEIGHT * torch.relu(
-            model(sub)["loss_sem_seg"] - nt_q + self.TC_HELP_MARGIN)
-        if help_term.item() > 0.0:
-            self._add_grads(help_term, self._text_path_params())
+        # (2) help + content: 텍스트 경로 파라미터만
+        co_losses = model(sub)
+        co_q, co_q_img = co_losses["loss_sem_seg"], co_losses["q_img"]
+        help_term = self.TC_HELP_WEIGHT * torch.relu(co_q - self._help_target(nt_q))
+        content_img = torch.relu(co_q_img - (1.0 - self.TC_CONTENT_RHO) * wr_q_img)
+        content = self.TC_CONTENT_WEIGHT * content_img.mean()
+        text_term = help_term + content
+        if text_term.item() > 0.0:
+            self._add_grads(text_term, self._text_path_params())
+        co_q_img = co_q_img.detach()
+        stats = {
+            "tc_q_correct": co_q.item(), "tc_q_notext": nt_q.item(), "tc_q_wrong": wr_q.item(),
+            "tc_q_correct_img": co_q_img.mean().item(), "tc_q_notext_img": nt_q_img.mean().item(),
+            "tc_q_wrong_img": wr_q_img.mean().item(),
+            # help / safe hinge on the batch Q (0 or 1) and, for reference, per image
+            "tc_on_help": float(help_term.item() > 0), "tc_on_safe": float(safe.item() > 0),
+            "tc_on_help_img": (co_q_img - self._help_target(nt_q_img) > 0).float().mean().item(),
+            "tc_on_safe_img": (wr_q_img - nt_q_img > 0).float().mean().item(),
+            "tc_on_content_img": (content_img > 0).float().mean().item(),
+        }
+        self._log_tc_stats(stats, help_term.item(), content.item(), safe.item())
         return {
             "loss_notext_seg": nt_seg.detach(),
             "loss_cons_safe": safe.detach(),
             "loss_cons_help": help_term.detach(),
+            "loss_cons_content": content.detach(),
         }
+
+    def _help_target(self, nt_q):
+        """help hinge threshold: absolute (Q(no-text) - margin) or relative ((1 - rel) * Q(no-text))."""
+        if self.TC_HELP_REL_MARGIN > 0:
+            return (1.0 - self.TC_HELP_REL_MARGIN) * nt_q
+        return nt_q - self.TC_HELP_MARGIN
+
+    def _log_tc_stats(self, stats, help_v, content_v, safe_v):
+        """metrics.json (via the event storage) + every iteration to <OUTPUT_DIR>/tc_stats.tsv."""
+        get_event_storage().put_scalars(smoothing_hint=False, **stats)
+        if not comm.is_main_process():
+            return
+        row = dict(iter=self._trainer.iter, help=help_v, content=content_v, safe=safe_v, **stats)
+        if self._tc_stats_file is None:
+            path = os.path.join(self.cfg.OUTPUT_DIR, "tc_stats.tsv")
+            new = not os.path.exists(path)
+            self._tc_stats_file = open(path, "a", buffering=1)
+            if new:
+                self._tc_stats_file.write("\t".join(row) + "\n")
+        self._tc_stats_file.write("\t".join(f"{v:.5g}" if isinstance(v, float) else str(v)
+                                             for v in row.values()) + "\n")
 
     def _unwrapped_model(self):
         m = self._trainer.model
@@ -434,10 +488,14 @@ def main(args):
     Trainer.TC_HELP_MARGIN = tc.HELP_MARGIN
     Trainer.TC_BUFFER = tc.BUFFER
     Trainer.TC_NEG_BATCH = tc.NEG_BATCH
+    Trainer.TC_HELP_REL_MARGIN = tc.HELP_REL_MARGIN
+    Trainer.TC_CONTENT_WEIGHT = tc.CONTENT_WEIGHT
+    Trainer.TC_CONTENT_RHO = tc.CONTENT_RHO
     if tc.ENABLED:
         _patch_run_step(trainer)
         print(f"[text-consistency] notext_seg={tc.NOTEXT_SEG_WEIGHT} safe={tc.SAFE_WEIGHT} "
-              f"help={tc.HELP_WEIGHT} (margin {tc.HELP_MARGIN}) buffer={tc.BUFFER}")
+              f"help={tc.HELP_WEIGHT} (margin {tc.HELP_MARGIN}, rel {tc.HELP_REL_MARGIN}) content={tc.CONTENT_WEIGHT} "
+              f"(rho {tc.CONTENT_RHO}) buffer={tc.BUFFER}")
     trainer.resume_or_load(resume=args.resume)
     return trainer.train()
 

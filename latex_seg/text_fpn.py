@@ -550,6 +550,7 @@ class TextSemSegFPNHead(nn.Module):
         self.common_stride = common_stride
         self.loss_weight = loss_weight
         self.focal_loss = FocalLoss()
+        self.per_image_q = False   # set by the trainer around the text-consistency forwards
         self.dice_loss = DiceLoss()
 
         # PanopticFPN scale heads: every level -> stride `common_stride`, then summed
@@ -621,6 +622,24 @@ class TextSemSegFPNHead(nn.Module):
         x = self.batch_norm2(F.relu(self.coarse_layer2(x)))
         return self.predictor(x), gdf
 
+    def per_image_seg_loss(self, predictions, targets):
+        """loss_sem_seg (dice + focal + ce) computed per image -> (B,). Used by the content hinge."""
+        valid = (targets != self.ignore_value).float()
+        t = targets.clamp_max(1)
+        n = valid.flatten(1).sum(1).clamp_min(1)
+        ce = (F.cross_entropy(predictions, targets, reduction="none", ignore_index=self.ignore_value)
+              * valid).flatten(1).sum(1) / n
+        p1 = torch.sigmoid(predictions[:, 1])
+        bce = F.binary_cross_entropy_with_logits(predictions[:, 1], t.float(), reduction="none")
+        pt = torch.where(t == 1, p1, 1 - p1)
+        a = self.focal_loss
+        focal = (a.alpha * (1 - pt).pow(a.gamma) * bce * valid).flatten(1).sum(1) / n
+        probs = F.softmax(predictions, dim=1)[:, 1] * valid
+        tf = t.float() * valid
+        inter = (probs * tf).flatten(1).sum(1)
+        dice = 1 - (2.0 * inter + 1) / (probs.flatten(1).sum(1) + tf.flatten(1).sum(1) + 1)
+        return dice + focal + ce
+
     def losses(self, predictions, targets, gdf_pred=None):
         predictions = predictions.float()  # https://github.com/pytorch/pytorch/issues/48163
         predictions = F.interpolate(
@@ -630,6 +649,8 @@ class TextSemSegFPNHead(nn.Module):
         focal_loss = self.focal_loss(predictions, targets)
         dice_loss = self.dice_loss(predictions, targets)
         losses = {"loss_sem_seg": dice_loss + focal_loss + cs_loss}
+        if self.per_image_q:
+            losses["q_img"] = self.per_image_seg_loss(predictions, targets)
         if gdf_pred is not None:
             gdf_gt, valid = gdf_targets(targets, gdf_pred.shape[-2:], self.ignore_value)
             l1 = (gdf_pred.float() - gdf_gt).abs() * valid
